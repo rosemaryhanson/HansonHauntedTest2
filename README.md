@@ -14,10 +14,10 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-Rosemary Hanson Received October 1, 2021 Citation: Hanson, Rosemary. 2021. "What To Do When the Dead Linger: Exploring Hauntedness as a Material Property of Object". Epoiesen. DOI: http://dx.doi.org/10.22215/epoiesen/2021.10
-license="creative commons" 
+<Rosemary Hanson Received October 1, 2021 Citation: Hanson, Rosemary. 2021. "What To Do When the Dead Linger: Exploring Hauntedness as a Material Property of Object". Epoiesen. DOI: http://dx.doi.org/10.22215/epoiesen/2021.10
+<license="creative commons">
 Rosemary Hanson is X at Y (email) ORCID.
-Editorial note: this visual essay is powered by Juncture from JSTOR Labs. On a device, this essay is best viewed in landscape mode; images are triggered when the relevant text reaches the top of the screen.
+Editorial note: this visual essay is powered by Juncture from JSTOR Labs. On a device, this essay is best viewed in landscape mode; images are triggered when the relevant text reaches the top of the screen.>
 
 # What To Do When the Dead Linger: Exploring Hauntedness as a Material Property of Objects
 
