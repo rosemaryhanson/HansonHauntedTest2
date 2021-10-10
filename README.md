@@ -127,8 +127,18 @@ Hauntedness may therefore be quite literal, where objects are possessed by an af
 ## I. Objects Possessed
 
 The first definition of hauntedness is the most literal: that of possession. Possession here is defined as the belief that an object is inhabited by a non-corporeal agent and imbued with the direct agency of the non-living. Often (though not exclusively) human, these actors are perceived by the senses: sight, smell, sound, touch, or even taste [^3] 580-1; [^2][^44][^49][^75]. A key affordance of these objects is their ability to house and/or facilitate direct encounters with the supernatural in a way that can be physically experienced – and to believers, photographed and measured [^3][^2]. These experiences are the acts of specific agents who – within the metaphysics of hauntedness – exist in the perceivable world [^3]. 
-
+<param ve-image 
+       label=The Ghost of Bea" 
+       description="Test3" 
+       license="public domain"
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Ghost%20Bea4.png?raw=true"> 
+       
 Belief in ghosts and spirits is hardly antiquated or remote but remains a persistent part of modern life around the world[^11][^44][^55][^75]. In a 2005 Gallup poll, 49% of American adult respondents expressed a belief in ghosts, 39% expressing a belief that places could be haunted, and 22% reporting having lived in a place they believed to be haunted[^3]. Even those who don’t believe in ghosts and spirits recognize the effects that these beliefs have on the material world: even the sedate context of property law recognizes hauntedness as a factor that can affect the resale value of a houses [^69]. 
+<param ve-image 
+       label="Ghost Orbs" 
+       description="Test3" 
+       license="public domain"
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Ghost%20Orbs5.png?raw=true"> 
 
 Hauntedness is, perhaps unsurprisingly, particularly prevalent within cultural heritage contexts. By far, the dominant representation of archaeological objects in modern cinema is in reference to their supernatural aspects[^32] and the media surrounding ghosts and hauntings has ballooned in recent years [^3]. More recently, the “spinning statuette” at the Manchester Museum was interpreted by the public as a “potential vessel for the spirit of a deceased ancient Egyptian” (among other interpretations). This led to a massive uptick in interest, popularity, speculation, enthusiasm, and museum attendance[^75]. The British Museum has also faced difficulty dispelling ideas of a “mummy’s curse” and malevolent spirits that linger around a 21st or 22nd dynasty mummy in their collection[^48]. 
 
@@ -143,8 +153,18 @@ Because these are hauntings in the most literal sense, they are the easiest to v
 ## II. Object Aura
 
 The second definition of hauntedness relates to objects that are imbued with an aura[^31], or magic [^12][^75]. This is the effectual power of an object to evoke a “reverential experience”[^31] – a spiritual “wow” effect[^25]. Perhaps the best definition defines aura as the way in which objects mediate “powerful empathic relationships that seem to transcend place and time”[^31]. Unlike possession, whereby specific agents work directly though objects, this type of haunting describes the way that an object may act as a conduit for the residual or indirect agency of the non-living. This agency lacks the intentionality of direct human action, but nevertheless derives its potency from a human source[^50]. It is an experience that is not so explicitly sensory, such as possession, but is instead a highly affective sensation[^31]. It is the sense that an object has magical agency derived from an association with the dead [^16][^44]. 
+<param ve-image 
+       label="Sparkle" 
+       description="Test3" 
+       license="public domain"
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Ghost%20Orbs.png?raw=true"> 
 
 Aura is a long-established concept in Museum Studies as an element of object materiality, drawing from the work of Walter Benjamin [^12][^21][^68]. Yet it is one that is strikingly subjective, contingent, and affective[^12][^31]. It is a quasi-magical potency or charisma to evoke awe and reverence in the viewer[^12][^25]. While the physical properties of an object, such as patina or damage, are relevant to these experiences of awe[^12], the foundations of the auratic experiences lie outside the physical properties[^31], or even the authenticity[^17] of the objects themselves. In that sense, aura is a feeling of entanglement that manifests as a sense of magical agency, charge, or energy[^16][^44]. Yet, despite the subjective bordering on magical aspect of aura, it is an aspect of object materiality that is widely accepted as worthy of study, in part due to its role in legitimizing the museological project[^12]. 
+<param ve-image 
+       label="Objects on a Pedestal" 
+       description="Test3" 
+       license="public domain"
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/DoublePedestal.png?raw=true"> 
 
 This concept of object aura is essentially an emotional manifestation of object biography. In the classical object-biographic approach, objects accumulate meaning through their social interactions, with the biography of the object framed by the ways it intersects with the biographies of human beings[^23][^42]. Though post-humanist approaches to objects have challenged this anthropocentric focus[^57][^34], these human entanglements are nevertheless deeply relevant to the auratic potency of objects [^15][^17]. In fact, it is this history of objects that generate this auratic quality which is then substantiated by its material properties[^31]. Objects become powerful in their associations with people, and they retain this power as part of their materiality[^15].
 
