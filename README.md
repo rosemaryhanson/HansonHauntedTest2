@@ -103,6 +103,107 @@ The aura evoked with associations between objects and those that have died can m
 
 This aura may also have more practical effects, however, particularly in reference to sacred objects that have been empowered by the influences of important or sacred people (Butler 2016, 115; Lamas & Giménez-Cassin 2012, 81). Objects may possess an aura that is empowered to enact material change such as healing (Cleaver 2014, 57; Dowd 2018, 460; Gilchrist 2008, 126), disaster prevention (Dowd 2018, 451), luck (Dowd 2018, 458; Luckhurst 2012, 258), or harm (Cleaver 2014, 53; Luckhurst 2012, 258). Steph Berns describes the sacred aura of relics and devotional material that were associated with Catholic saints. She describes this aura in terms of ‘holy radioactivity’ or ‘contact relics’ that exist within the relics and can also pass to personal objects that come in contact with the relics or even the reliquaries that house them (Berns 2015, 158-9). It is a holiness that stems from the associations with saints and/or saintly remains that make these objects conduits of and surrogates for the presence of non-living saints (Berns 2015, 165). The power of these objects can be potent both in the spiritual and emotional plane, but in the material one as well. 
 
+### Visualizing Aura
+
+It is in these most personal experiences that visualization can be most effective, as it provides a way to communicate affective experiences in diverse ways. Objects can be visually enmeshed into webs of related images. Objects can be illustrated in the hands that chart the human biography of an object. Objects can be posed in scenes that evoke, by their imagery, grief, and loss. Real photos can be integrated with 3D models to entangle them with images of their affective experience. Because images are particularly potent in evoking emotion (Janik 2014, 37), they can be deployed to that end: overcoming the sterility of traditional applications of images in archaeology.
+
+## III. Objects of Memory
+
+A third distinct definition of hauntedness in objects, is when objects are imbued with memory. In these objects, a key material property of an object is the way in which it can evoke memories of the dead. It is therefore a referential agency: these objects are not conduits for the agency of the dead so much as they are surrogates for them (Hill 2013, 380). 
+
+Within the affective turn, memory is a potent element of object materiality (Ireland & Lydon 2016, 3-5) in which past and present interact, overlap, and disrupt one another (Hill 2013, 381). The biography of such memory objects constitutes a concretion of events, actions, objects, people, memory, time, and emotion into a physical referent (Ireland & Lydon 2016, 4; Webmoor and Witmore 2008, 64). And while these objects may be a “repository of collective memory” (Gilchrist 2013, 170), they may also be a site of “relentless remembering” (Tuck & Ree 2013, 642 qt. in Supernant 2020, 86), that evoke memories involuntarily (Hill 2013, 381) as associated neural networks activate one another (McGraw & Krátký 2017, 244). Memory acts through an object, as the biographical associations materialize as a powerful, personal, and emotional experiences of objects. 
+
+In one way or another, all objects act as sites of memory (Mills 2016, 81), but some objects have a particular potency in their associations with the dead. Roberta Gilchrist points to heirlooms, particularly as prompts for autobiographical memory. She links them to Mauss’s concept of inalienable objects that absorb the essence of the giver (Gilchrist 2013, 170-1). In the most literal sense, they reflect the taste of the original owner, extending their material judgements beyond their lifespan (Gilks 2016, 229-30). Yet they may also take the place of the dead, becoming the new site of memory and comfort when the human link is severed (Mills 2016, 82). Not only do they testify to the past (Denham 2020, 342), but through this capacity to store and trigger memory (Hill 2013, 380; Mills 2016, 86) they allow the past to persist and the dead to remain entangled with the living. Thus, they are sites of haunting: not the literal vessels for spirits or conduits for undead power, but as tools through which the dead can be reanimated through the act of remembering. They are tools that allow a return to a time before death (Hill 2013, 392), and so keep the dead alive in affective experiences of the present.
+ 
+It is in this way that Bea’s earring is haunted, and why it seems to stand out against the drab backdrop of my jewelry box: not because it exudes magic or harbors a ghost, but because it is a site of memory. Yet, when I hold this little thing, it feels heavy in my hand, as if infused with the weight of remembering. Somehow, in owning it, I can erase death and decades and reanimate that love that lingers in the shape of her. 
+            
+Bea is dead, and I know that better than most. From the dispassionate detachment of prolonged excavation experience, I know that she is now a layer of grey ash in the dark, wet soil of a mid-range graveyard. Who knows how many great aunts have come under my trowel; their things bagged up and sent to storeroom basements. I deal in the science of death and loss and things decaying. I know how to measure bones and photograph coffin furniture and draw the little objects left behind. So, I really should know better. Decluttering is the fashion, now, and between moves and cleanouts and therapy sessions centered around my emotional relationship to stuff, I should have disposed of this little piece of kitsch long ago. I should have accepted that death is the end, that “acquits us of all obligations”
+            
+But I don’t want to. To throw it away would be “an act of deliberate amnesia” (Mills 2016, 82), and I am not yet ready to forget. I do not want to exorcise this ghost from my life but instead I want to remember and in remembering, to keep her here. I want to let this little earring stay unmolested in a drawer until my memory fades and it becomes just glass again.
+            
+I want to remain haunted.
+
+# Conclusion
+
+The dead haunt us all in different ways: figuratively, literally, or somewhere in between. They mediate our relationships with things: their agencies bursting through the material world in unique disruptions of time and space. It is not our job as archaeologists to capture these ghosts, but to leave space for them. Yet, if we are to tackle these resistive objects, it is vital to engage them in resistive ways: to make art, to tell stories, and to lay bare our own failings in rationality. After all, archaeology does not put the dead to rest but unsettles them, re-vives them, and weaves them back into life. If we are in the business of telling ghost stories, we should at least tell them well. 
+
+# References 
+
+[^1]: Arnold, D. 2005. Unlearning the Images of Archaeology. In Smiles, S. & Moser, S. eds. Envisioning the Past: Archaeology and the Image. Oxford: Blackwell Publishing. pp.92-114
+[^2]: Barber, M. 2016. Capturing the Invisible: OSG Crawford, Ghosts, and the Stonehenge Avenue. Bulletin of the History of Archeology.  26(1), pp.1- 23.[^1]:Baker, J. O., & 
+[^3]: Bader, C. D. 2014. A Social Anthropology of Ghosts in Twenty-First-Century America. Social Compass. 61(4), pp. 569-593.
+[^4]: Bauer, A. M. & Kosiba, S. 2016. How Things Act: An Archeology of Materials in Political Life. Journal of Social Archeology. 16(2), pp. 115-141.
+[^5]: Bateman, J. 2005. Wearing Juniho’s Shirt: Record and Negotiation in Excavation Photographs. In Smiles, S & Moser, M. eds. New Interventions in Art History. Oxford: Blackwell Publishing. Pp.192-203.
+[^6]: Belk, R. W. 1988. Collectors and Collecting. Advances in Consumer Research. (15), pp. 548- 553. 
+[^7]: Benedetti, F. 2009. Placebo Effects: Understanding the Mechanisms in Health and Disease. Oxford: Oxford University Press.
+[^8]: Berns, S. 2016. Considering [^2]: the Glass Case: Material Encounters Between Museums, Visitors and Religious Objects. Journal of Material Culture. 21(2), pp.153-168.
+[^9]: Bond, S. E. 2018. Pseudoarcheology and the Racism Behind Ancient Aliens. Retrieved 29 Sep 2021 from: Hyperallergic. https://hyperallergic.com/470795/pseudoarchaeology-and-the-racism-behind-ancient-aliens/ 
+[^10]: Burke, H., Arthure, S. & de Leiuen, C. 2015. A Context for Concealment: The Historical Archaeology of Folk Ritual and Superstition in Australia. International Journal of Historical Archeology. (20), pp. 45-72. 
+[^11]: Butler, B. 2016. The Efficacies of Heritage: Syndrome, Magics, and Possessional Acts. Public Archeology. 15(2-3), pp. 113-135.
+[^12]: Cameron, F. 2007. Beyond the Cult of Replicant: Museums and Historical Digital Objects - Traditional Concerns, New Discourses. In: Cameron, F. & Kenderdine, S. eds. Theorizing Digital Cultural Heritage: A Critical Discourse. Cambridge: MIT Press. Pp.1-21.
+[^13]: Cleaver, L. 2014 ‘Almost Every Miracle is Open to Carping’: Doubts, Relics, Reliquaries and Images of Saints in the Long 12th Century. Journal of the British Archaeological Association. 167(1), pp. 51-69. 
+[^14]: Davies, O. 2007. The Haunted: A Social History of Ghosts. New York : Palgrave Macmillan.
+[^15]: Denham, J. 2020. Collecting the Dead: Art, Antique and ‘Aura’ in Personal Collections of Murderabilia. Mortality. 25(3), pp. 332-347.
+[^16]: Dowd, M. 2018. Bewitched by an Elf Dart: Fairy Archeology, Folk Magic, and Traditional Medicine in Ireland. Cambridge Archeological Journal. 28(3), pp.451-463.
+[^17]: Foster, S. & Curtis, N. 2016. The Thing about Replicas—Why Historic Replicas Matter. European Journal of Archaeology. 19(1), pp. 122-148. 
+[^18]: Gilchrist, R. 2008. Magic for the Dead? The Archeology of Magic in Later Medieval Burials. Medieval Archeology 52 (1), pp. 119-159.
+[^19]: Gilchrist, R. 2013. The Materiality of Medieval Heirlooms: from Biographical to Sacred Objects. In: Hahn, H. P. and Weiss, H. eds. Mobility, Meaning and Transformations of Things: Shifting Contexts of Material Culture through Time and Space. Oxford: Oxbow Books. pp.170-182. 
+[^20]: Gilks, P. 2016. The significance of celebrities’ personal possessions for image authentication: the Teresa Teng memorabilia museum. Celebrity Studies. 7(2), pp.221-233. 
+[^21]: Gillings, M. 2005. The Real, the Virtually Real, and the Hyperreal: The Role of VR in Archaeology. In Smiles, S & Moser, M. eds. New Interventions in Art History. Oxford: Blackwell Publishing, pp. 223-239.
+[^22]: Glazier, D. 2005. A Different Way of Seeing? Toward a Visual Analysis of Archaeological Folklore. In: Smiles, S. & Moser, S. eds. Envisioning the Past: Archaeology and the Image. Oxford: Blackwell Publishing. pp. 158-179.
+[^23]: Gosden, C. & Marshall, Y. 1999. The cultural biography of objects. World Archaeology. 31(2), pp. 169-178.
+[^24]: Hamilakis, Y. & Jones, A. 2017. Archaeology and Assemblage. Cambridge Archaeology Journal. 27(1), pp. 77-84.
+[^25]: Hampp, C. & Schwan, S. 2014. Perception and evaluation of authentic objects: findings from a visitor study, Museum Management and Curatorship, 29:4, 349-367, 
+[^26]: Harris, S. 2014. Sensible Dress: the Sight, Sound, Smell and Touch of Late Ertebølle Mesolithic Cloth Types. Cambridge Archaeological Journal. 24(1), pp.37-56.
+[^27]: Harris, S. 2020. The Sensory Archaeology of Textiles. In: Skeates, R. & Day, J. eds. The Routledge Handbook of Sensory Archaeology. London: Routledge. Pp.210-232. 
+[^28]: Herva, V., Nordqvist, K., Herva, A. & Ikäheimo, J. 2010. Daughters of Magic: Esoteric Traditions, Relational Ontology and the Archaeology of the Post-Medieval Past. World Archeology. 42(4), pp. 609-621. 
+[^29]: Heath, S., Chapman, L., & The Morgan Centre of Sketchers. 2018. Observational Sketching as Method. International Journal of Social Research Methodology. 21(6), pp. 713-728.
+[^30]: Hill, L. 2013. Archaeologies and geographies of the post-industrial past: landscape, memory and the spectral. Cultural Geographies. 20(3), pp. 379-396.
+[^31]: Hindmarch, J. Terras, M., & Robson, S. 2019. On Virtual Auras: The Cultural Heritage Object in the Age of 3D Digital Reproduction. In: Lewi, H., Smith, S., Cooke, S., vom Lehn, D. eds. The Routledge International Handbook of New Digital Practices in Galleries, Libraries, Archives, Museums and Heritage Sites. London: Routledge. Pp.243-256.
+[^32]: Hiscock, P. 2012. Cinema, Supernatural Archaeology, and the Hidden Human Past. Numen. (59), pp. 156-177.
+[^33]: Hodder, I. 2011. Human-Thing Entanglement: Towards an Integrated Archaeological Perspective. Journal of the Royal Anthropological Institute. 17(1), pp.154-177.
+[^34]: Holtorf, C. 2002. Notes on the Life History of a Pot Sherd. Journal of Material Culture. 7(1), pp.49-71.
+[^35]: Hurcombe, L. 2007. A Sense of Materials and Sensory Perception in Concepts of Materiality. World Archaeology. 39(4), pp.532-545.
+[^36]: Ingold, T. 2007. Materials Against Materiality. Archaeological Dialogues. 14(1), pp.1-16. 
+[^37]: Ingold, T. 2012. Toward an Ecology of Materials. The Annual Review of Anthropology. (41), pp.427-442.
+[^38]: Ireland, T. & Lydon, J. 2016. Rethinking Materiality, Memory, and Identity. Public History Review. 23(16) pp. 1-8.
+[^39]: Ito, A. 2018. The Spectral Image: The Brief History of Visualising Radiation. International Journal of the Image. 9(2), pp.1-5. 
+[^40]: James, S. 2011. Drawing Inferences: Visual Reconstructions in Theory and Practice. In: Molyneaux, B. ed. The Cultural Life of Images: Visual Representation in Archaeology. London: Routledge. Pp.22-47. 
+[^41]: Janik, L. Joining Forces: Neuroaesthetics, Contemporary Visual art and Archaeological Interpretation of the Past. In: Russell, A. & Cochrane, A. eds. Art and Archaeology. New York: Springer.
+[^42]: Joy, J. 2009. Reinvigorating object biography: reproducing the drama of object lives. World Archaeology, 41(4), pp.540–556.
+[^43]: Kennedy, M. 2006. Forward: Souvenir. In: Russell ed. Images, Representations and Heritage. New York: Springer.
+[^44]: Lamas, M. & Giménez-Cassina, E. 2012. Super Ghost Me: Stories from the ‘Other Side’ of the Museum. Museological Review. (16), pp. 77-92. 
+[^45]: Liu, J., Li, J., Feng, L., Li, L., Tian, J., & Lee, K. 2014. Seeing Jesus in Toast: Neutral and Behavioural Correlates of Face Pareidolia. Cortex. (53), pp. 60-77.
+[^46]: Loring, S. & Gero, J. 2012. The Evolution of Happiness. Archaeologies: Journal of the World Archaeological Congress. 8(3), pp. 376-402.
+[^47]: Lucas, G. 2012. Understanding the Archaeological Record. Cambridge: Cambridge University Press. 
+[^48]: Luckhurst, R. 2012. Science Versus Rumour: Artefaction and Counter-Narrative in the Egyptian Rooms of the British Museum. History and Anthropology. 23(2), pp. 257-269.
+[^49]: Luscombe, A., Walby, K., & Piché, J. 2017. Haunting Encounters at Canadian Penal History Museums. In: Wilson et al. eds. The Palgrave Handbook of Prison Tourism. London: Palgrave Macmillan. Pp. 435-455.
+[^50]: McGraw, J. J., & Krátký. J. 2017. Ritual Ecology. Journal of Material Culture. 22(2), pp. 237–257.
+[^51]: Mills, R. 2016. Everyday Magic: Some Mysteries of the Mantlepiece. Public History Review. (23), pp. 74-88. 
+[^52]: Moluneaux, B. 2011. Introduction. In: Moluneaux, B. (ed.) The Cultural Life of Images: Visual Representation in Archaeology. London: Routledge. Pp. 1-10.
+[^53]: Morgan, C. & Wright, H. 2018. Pencils and Pixels: Drawing and Digital Media in Archaeological Field Recording. Journal of Field Archaeology. 43(2), pp.136-151.
+[^54]: Moser, S. 2014. Making Expert Knowledge through the Image: Connections Between Antiquarian and Early Modern Scientific Illustration. Isis. 105(1), pp.58-99.
+[^55]: Mukharji, P. B. 2018. Occulted Materialities. History and Technology. 34(1), pp. 31-40.
+[^56]: Outram, A. K. 2008. Introduction to Experimental Archaeology. World Archaeology. 40(1), pp.1-6. 
+[^57]: Nativ, A. 2014. Anthropocentricity and the Archaeological Record: Towards a Sociology of Things. Norwegian Archaeological Review. 47(2), pp.180-195. 
+[^58]: Owens, S. 2017. The Ghost: A Cultural History. London: Tate Publishing. 
+[^59]: Perry, S. 2009. Fractured Media: Challenging the Dimensions of Archaeology’s Typical Visual Modes of Engagement. Archaeologies: Journal of the World Archaeological Congress. 5(3), pp.389-415.
+[^69]: Pétursdótter, Þ., 2012. Small Things Forgotten Now Included, or What Else Do Things Deserve? International Journal of Historical Archaeology. 16(1), pp. 577-603.
+[^70]: Russell, I. 2006. Images of the Past: Archaeologies, Modernities, Crises and Poetics. Russell, I. ed. Images, Representations, and Heritage: Moving Beyond Modern Approaches to Archaeology. Dublin: Springer. pp. 1- 38.
+[^71]: Sipos, T. M. 2010. Horror Film Aesthetics: Creating the Visual Language of Fear. London: McFarland & Company Inc. 
+[^72]: Smiles, S. 2005. Thomas Guest and Paul Nash in Wiltshire: Two Episodes in the Artistic Approach to British Antiquity. In Smiles, S & Moser, M. eds. New Interventions in Art History. Oxford: Blackwell Publishing, pp. 133-157.
+[^73]: Smiles, S. & Moser, S. 2005. Introduction: The Image in Question. In: Smiles, S. & Moser, S. eds. Envisioning the Past: Archaeology and the Image. Oxford: Blackwell Publishing. Pp.1-12.
+[^74]: Simandiraki-Grimshaw, A. 2012. Dusk at the Palace: Exploring Minoan Spiritualities. In: Roundtree, K., Morris, C. & Peatfield, A. A. D. eds. Archaeology of Spiritualities. New York: Springer. pp. 247-266.
+[^75]: Stone, P. & Sharpley, R. 2008. Consuming Dark Tourism: A Thanatological Perspective. Annals of Tourism Research. 35(2), pp. 574-595. 
+[^76]: Supernant, K. 2020. From Haunted to Haunting: Métis Ghosts in the Past and Present. In: Surface-Evans, S., Garrison, A. E. & Supernant, K. Blurring Timescapes, Subverting Erasure: Remembering Ghosts on the Margins of History. New York: Berghahn. Pp. 85-104.
+[^77]: Walsh, P. 2007. Rise and Fall of the Post-Photographic Museum: Technology and the Transformation of Art. In: Cameron, F. & Kenderdine, S. eds. Theorizing Digital Cultural Heritage: A Critical Discourse. Cambridge: MIT Press. pp.1-13.
+[^78]: Warner, D. M. 1993. Caveat Spiritus: Jurisdictional Reflection Upon the Law of Haunted Houses and Ghosts. Valparaiso University Law Review. 28(1), 207-246.
+[^79]: Watterson, A. 2015. Beyond Digital Dwelling: Re-thinking Interpretive Visualisation in Archaeology. Open Archaeology. (1), pp. 119–130. 
+[^80]: Webmoor, T. & Witmore, C. L. 2008. Things Are Us! A Commentary on Human/Things Relations under the Banner of a ‘Social’ Archaeology. Norwegian Archeological Review. 41(1), pp. 53-70. 
+[^81]: Wilson, M. 2021. The halo: A symbol that spread around the world. BBC Culture. Retrieved 29 Sep 2021 from https://www.bbc.com/culture/article/20210623-the-halo-a-symbol-that-spread-around-the-world
+[^82]: Yarrow, T. 2003. Artefactual Persons: The Relational Capacities of Persons and Things in the Practice of Excavation. Norwegian Archaeological Review. 36(1), pp. 65-73.
+[^83]: Young, C., & Light, D. 2012. Corpses, dead body politics and agency in human geography: following the corpse of Dr. Petru Groza. Transactions of the Institute of British Geographies. (38), pp. 135-148.
+[^84]: Zuanni, C. & Price, C. 2018. The Mystery of the “Spinning Statue” at Manchester Museum. The Journal of Objects, Art and Belief. (14), pp.235-251.
 
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
 dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
@@ -127,6 +228,4 @@ Others are selectable using icons displayed in the top right margin of the parag
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 <param ve-map center="Q36600" zoom="11">
 
-# References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
