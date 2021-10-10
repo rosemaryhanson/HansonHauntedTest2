@@ -22,7 +22,7 @@ This is a story of an earring.
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://user-images.githubusercontent.com/92250182/136692803-dcb30c0a-ce7f-4881-bc4a-2fea0dea420e.png">
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/024998e8c33d55c6a0ac5b098fc0e5eef00a9933/Gem%20Photo2.png">
 
 An ugly earring.
            
