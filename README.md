@@ -270,6 +270,7 @@ The dead haunt us all in different ways: figuratively, literally, or somewhere i
        description="Test3" 
        license="public domain"
        url=https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/earringshadow4.png?raw=true>
+                              
 # References 
 
 [^1]: Arnold, D. 2005. Unlearning the Images of Archaeology. In Smiles, S. & Moser, S. eds. Envisioning the Past: Archaeology and the Image. Oxford: Blackwell Publishing. pp.92-114
