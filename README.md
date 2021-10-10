@@ -21,16 +21,21 @@ Editorial note: this visual essay is powered by Juncture from JSTOR Labs. On a d
 
 # What To Do When the Dead Linger: Exploring Hauntedness as a Material Property of Objects
 
+       
+This is a story of an earring. 
+<param ve-image 
+       label="Test" 
+       description="Test" 
+       license="public domain" 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Gem%20Photograph.png?raw=true">
+     
+An ugly earring.
 <param ve-image 
        label="Test" 
        description="Test" 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Gem%20Photograph.png?raw=true">
        
-This is a story of an earring. 
-
-An ugly earring.
-           
 Cheaply made and cheaply bought, it is meant to resemble a queenly diamond in glass and brass. A large, 3 lobed brown jewel sits beneath a crown of small, round, apricot-colored gems in a color palette that now seems a stereotype of the 1970s. These faux diamonds have been haphazardly set into a thin, metal clip that pinches and weighs the ear unpleasantly. It was presumably once part of a pair, but its twin has long ago been lost in the back of a drawer of a relative or the case of a second-hand shop or (most likely) underneath 200ft of West Seattle landfill. It is, without doubt, an object out of place. I keep it in my jewelry drawer, but I have no intention of wearing it. It has no functionalist, aesthetic, or rational role in my life and there is really no reason that I should keep it.
             
 Yet, I cling to it: not for what it is, or what it was, or what it could be; not for its value, not for its beauty, not for the hope that I may someday wear it. I cling to it because it was hers: the property of a great aunt, Bea, now dead. I keep it because it is full of memories: the memory of childhood visits and the smell of old perfume and hospital disinfectant. The memory of a sombre distribution that I did not understand, and a jewellery box that I was too small to carry. The memory of a quiet presence, felt on the back of the neck in the superstitious hours. The memory of death and life and loss and obligation and the first thing I ever owned that glittered. 
@@ -87,7 +92,11 @@ Image production (as well as storytelling) holds the capacity to engage with tim
 
 # Case Studies
 
-This paper will highlight 3 types of hauntedness that exist along a spectrum of rationality, intentionality, and materiality: possession, aura, and memory. These three types of hauntedness represent an organizational conceit rather than a categorical, exhaustive, or static scheme. After all, one type of materiality does not preclude others – occulted or otherwise[^55]. These three are presented instead to illustrate the diverse ways objects provoke human affectivity and affect human perceptions and actions [^24][^38]. 
+This paper will highlight 3 types of hauntedness that exist along a spectrum of rationality, intentionality, and materiality: possession, aura, and memory. These three types of hauntedness represent an organizational conceit rather than a categorical, exhaustive, or static scheme. After all, one type of materiality does not preclude others – occulted or otherwise[^55]. These three are presented instead to illustrate the diverse ways objects provoke human affectivity and affect human perceptions and actions [^24][^38].<param ve-image 
+       label="Three Forms of Hauntedness" 
+       description="Test" 
+       license="public domain" 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/3%20Forms%20of%20Hauntedness2.png?raw=true"> 
 
 Hauntedness may therefore be quite literal, where objects are possessed by an affecting agent directly. It is an occulted materiality that is most decidedly supernatural[^55], in which ghosts and spirits of the dead act directly upon the living in material ways[^55]. Yet, hauntedness need not be so direct, with objects providing a conduit for aura, or non-living agency. Here, the dead themselves do not act upon the living, but imbue objects with a magical potency to act. Hauntedness may even be figurative, as an object triggers memory and emotion associated with the dead. This type of hauntedness encompasses the idea of spectrality: the spatio-temporal memory of an object, but this affectivity may not be entirely in the control of those in whom emotion and memory is provoked [^30]. Though aspects of hauntedness need not be mutually exclusive, this paper will examine each separately as a case study in exploring hauntedness using creative approaches. 
 
