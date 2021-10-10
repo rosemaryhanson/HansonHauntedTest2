@@ -131,7 +131,7 @@ The dead haunt us all in different ways: figuratively, literally, or somewhere i
 
 [^1]: Arnold, D. 2005. Unlearning the Images of Archaeology. In Smiles, S. & Moser, S. eds. Envisioning the Past: Archaeology and the Image. Oxford: Blackwell Publishing. pp.92-114
 [^2]: Barber, M. 2016. Capturing the Invisible: OSG Crawford, Ghosts, and the Stonehenge Avenue. Bulletin of the History of Archeology.  26(1), pp.1- 23.[^1]:Baker, J. O., & 
-[^3]: Bader, C. D. 2014. A Social Anthropology of Ghosts in Twenty-First-Century America. Social Compass. 61(4), pp. 569-593.
+[^3]: Baker, J. O., & Bader, C. D. 2014. A Social Anthropology of Ghosts in Twenty-First-Century America. Social Compass. 61(4), pp. 569-593.
 [^4]: Bauer, A. M. & Kosiba, S. 2016. How Things Act: An Archeology of Materials in Political Life. Journal of Social Archeology. 16(2), pp. 115-141.
 [^5]: Bateman, J. 2005. Wearing Juniho’s Shirt: Record and Negotiation in Excavation Photographs. In Smiles, S & Moser, M. eds. New Interventions in Art History. Oxford: Blackwell Publishing. Pp.192-203.
 [^6]: Belk, R. W. 1988. Collectors and Collecting. Advances in Consumer Research. (15), pp. 548- 553. 
@@ -188,22 +188,22 @@ The dead haunt us all in different ways: figuratively, literally, or somewhere i
 [^57]: Nativ, A. 2014. Anthropocentricity and the Archaeological Record: Towards a Sociology of Things. Norwegian Archaeological Review. 47(2), pp.180-195. 
 [^58]: Owens, S. 2017. The Ghost: A Cultural History. London: Tate Publishing. 
 [^59]: Perry, S. 2009. Fractured Media: Challenging the Dimensions of Archaeology’s Typical Visual Modes of Engagement. Archaeologies: Journal of the World Archaeological Congress. 5(3), pp.389-415.
-[^69]: Pétursdótter, Þ., 2012. Small Things Forgotten Now Included, or What Else Do Things Deserve? International Journal of Historical Archaeology. 16(1), pp. 577-603.
-[^70]: Russell, I. 2006. Images of the Past: Archaeologies, Modernities, Crises and Poetics. Russell, I. ed. Images, Representations, and Heritage: Moving Beyond Modern Approaches to Archaeology. Dublin: Springer. pp. 1- 38.
-[^71]: Sipos, T. M. 2010. Horror Film Aesthetics: Creating the Visual Language of Fear. London: McFarland & Company Inc. 
-[^72]: Smiles, S. 2005. Thomas Guest and Paul Nash in Wiltshire: Two Episodes in the Artistic Approach to British Antiquity. In Smiles, S & Moser, M. eds. New Interventions in Art History. Oxford: Blackwell Publishing, pp. 133-157.
-[^73]: Smiles, S. & Moser, S. 2005. Introduction: The Image in Question. In: Smiles, S. & Moser, S. eds. Envisioning the Past: Archaeology and the Image. Oxford: Blackwell Publishing. Pp.1-12.
-[^74]: Simandiraki-Grimshaw, A. 2012. Dusk at the Palace: Exploring Minoan Spiritualities. In: Roundtree, K., Morris, C. & Peatfield, A. A. D. eds. Archaeology of Spiritualities. New York: Springer. pp. 247-266.
-[^75]: Stone, P. & Sharpley, R. 2008. Consuming Dark Tourism: A Thanatological Perspective. Annals of Tourism Research. 35(2), pp. 574-595. 
-[^76]: Supernant, K. 2020. From Haunted to Haunting: Métis Ghosts in the Past and Present. In: Surface-Evans, S., Garrison, A. E. & Supernant, K. Blurring Timescapes, Subverting Erasure: Remembering Ghosts on the Margins of History. New York: Berghahn. Pp. 85-104.
-[^77]: Walsh, P. 2007. Rise and Fall of the Post-Photographic Museum: Technology and the Transformation of Art. In: Cameron, F. & Kenderdine, S. eds. Theorizing Digital Cultural Heritage: A Critical Discourse. Cambridge: MIT Press. pp.1-13.
-[^78]: Warner, D. M. 1993. Caveat Spiritus: Jurisdictional Reflection Upon the Law of Haunted Houses and Ghosts. Valparaiso University Law Review. 28(1), 207-246.
-[^79]: Watterson, A. 2015. Beyond Digital Dwelling: Re-thinking Interpretive Visualisation in Archaeology. Open Archaeology. (1), pp. 119–130. 
-[^80]: Webmoor, T. & Witmore, C. L. 2008. Things Are Us! A Commentary on Human/Things Relations under the Banner of a ‘Social’ Archaeology. Norwegian Archeological Review. 41(1), pp. 53-70. 
-[^81]: Wilson, M. 2021. The halo: A symbol that spread around the world. BBC Culture. Retrieved 29 Sep 2021 from https://www.bbc.com/culture/article/20210623-the-halo-a-symbol-that-spread-around-the-world
-[^82]: Yarrow, T. 2003. Artefactual Persons: The Relational Capacities of Persons and Things in the Practice of Excavation. Norwegian Archaeological Review. 36(1), pp. 65-73.
-[^83]: Young, C., & Light, D. 2012. Corpses, dead body politics and agency in human geography: following the corpse of Dr. Petru Groza. Transactions of the Institute of British Geographies. (38), pp. 135-148.
-[^84]: Zuanni, C. & Price, C. 2018. The Mystery of the “Spinning Statue” at Manchester Museum. The Journal of Objects, Art and Belief. (14), pp.235-251.
+[^60]: Pétursdótter, Þ., 2012. Small Things Forgotten Now Included, or What Else Do Things Deserve? International Journal of Historical Archaeology. 16(1), pp. 577-603.
+[^61]: Russell, I. 2006. Images of the Past: Archaeologies, Modernities, Crises and Poetics. Russell, I. ed. Images, Representations, and Heritage: Moving Beyond Modern Approaches to Archaeology. Dublin: Springer. pp. 1- 38.
+[^62]: Sipos, T. M. 2010. Horror Film Aesthetics: Creating the Visual Language of Fear. London: McFarland & Company Inc. 
+[^63]: Smiles, S. 2005. Thomas Guest and Paul Nash in Wiltshire: Two Episodes in the Artistic Approach to British Antiquity. In Smiles, S & Moser, M. eds. New Interventions in Art History. Oxford: Blackwell Publishing, pp. 133-157.
+[^64]: Smiles, S. & Moser, S. 2005. Introduction: The Image in Question. In: Smiles, S. & Moser, S. eds. Envisioning the Past: Archaeology and the Image. Oxford: Blackwell Publishing. Pp.1-12.
+[^65]: Simandiraki-Grimshaw, A. 2012. Dusk at the Palace: Exploring Minoan Spiritualities. In: Roundtree, K., Morris, C. & Peatfield, A. A. D. eds. Archaeology of Spiritualities. New York: Springer. pp. 247-266.
+[^66]: Stone, P. & Sharpley, R. 2008. Consuming Dark Tourism: A Thanatological Perspective. Annals of Tourism Research. 35(2), pp. 574-595. 
+[^67]: Supernant, K. 2020. From Haunted to Haunting: Métis Ghosts in the Past and Present. In: Surface-Evans, S., Garrison, A. E. & Supernant, K. Blurring Timescapes, Subverting Erasure: Remembering Ghosts on the Margins of History. New York: Berghahn. Pp. 85-104.
+[^68]: Walsh, P. 2007. Rise and Fall of the Post-Photographic Museum: Technology and the Transformation of Art. In: Cameron, F. & Kenderdine, S. eds. Theorizing Digital Cultural Heritage: A Critical Discourse. Cambridge: MIT Press. pp.1-13.
+[^69]: Warner, D. M. 1993. Caveat Spiritus: Jurisdictional Reflection Upon the Law of Haunted Houses and Ghosts. Valparaiso University Law Review. 28(1), 207-246.
+[^70]: Watterson, A. 2015. Beyond Digital Dwelling: Re-thinking Interpretive Visualisation in Archaeology. Open Archaeology. (1), pp. 119–130. 
+[^71]: Webmoor, T. & Witmore, C. L. 2008. Things Are Us! A Commentary on Human/Things Relations under the Banner of a ‘Social’ Archaeology. Norwegian Archeological Review. 41(1), pp. 53-70. 
+[^72]: Wilson, M. 2021. The halo: A symbol that spread around the world. BBC Culture. Retrieved 29 Sep 2021 from https://www.bbc.com/culture/article/20210623-the-halo-a-symbol-that-spread-around-the-world
+[^73]: Yarrow, T. 2003. Artefactual Persons: The Relational Capacities of Persons and Things in the Practice of Excavation. Norwegian Archaeological Review. 36(1), pp. 65-73.
+[^74]: Young, C., & Light, D. 2012. Corpses, dead body politics and agency in human geography: following the corpse of Dr. Petru Groza. Transactions of the Institute of British Geographies. (38), pp. 135-148.
+[^75]: Zuanni, C. & Price, C. 2018. The Mystery of the “Spinning Statue” at Manchester Museum. The Journal of Objects, Art and Belief. (14), pp.235-251.
 
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
 dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
