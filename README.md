@@ -21,8 +21,9 @@ This is a story of an earring.
 <param ve-image 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
-       ![Gem Photo2](https://user-images.githubusercontent.com/92250182/136692629-4fd080cc-3d28-4677-8473-1036adf9cb2a.png)>
-     
+       license="public domain" 
+       url="https://user-images.githubusercontent.com/92250182/136692803-dcb30c0a-ce7f-4881-bc4a-2fea0dea420e.png">
+
 An ugly earring.
            
 Cheaply made and cheaply bought, it is meant to resemble a queenly diamond in glass and brass. A large, 3 lobed brown jewel sits beneath a crown of small, round, apricot-colored gems in a color palette that now seems a stereotype of the 1970s. These faux diamonds have been haphazardly set into a thin, metal clip that pinches and weighs the ear unpleasantly. It was presumably once part of a pair, but its twin has long ago been lost in the back of a drawer of a relative or the case of a second-hand shop or (most likely) underneath 200ft of West Seattle landfill. It is, without doubt, an object out of place. I keep it in my jewelry drawer, but I have no intention of wearing it. It has no functionalist, aesthetic, or rational role in my life and there is really no reason that I should keep it.
