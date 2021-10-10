@@ -94,7 +94,12 @@ Yet for all that these objects can enrich explorations of object materiality, th
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/GhostsIllustration2.png?raw=true"> 
             
 This paper does not seek to embark on such a project of meaning making (much less a project of ghost hunting). This paper instead seeks to recognize hauntedness as part of the “murk[y] middle ground” in explorations of folk ritual beliefs [^10]. It is a sphere of causality that exists in tandem with objective causality[^55]. By dismissing it, we may “build false assumptions about what the ‘real world’ is like”[^28], secularizing, rationalizing, and suppressing the often powerful effects of heritage[^11][^55]. As we collect a library of sensory experience through which to examine objects [^26][^27][^35], a focus on the physical senses alone may well be inconsistent with the ontologies that framed (and frame) the experience of the material world[^11][^28]. In failing to recognize that sensory experiences may be informed by these deep spiritual, cultural frameworks, we are doomed to an idea of sensitivity that is sanitized and one-dimensional. 
-            
+<param ve-image 
+       label="Fully Dimensional Objects" 
+       description="Test" 
+       license="public domain" 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/spotlight1.png?raw=true"> 
+
 In failing to recognize these relational frameworks, my own experience of a haunted object simply does not exist.  
 
 # Humanist Problems Require Creative Solutions
@@ -129,6 +134,7 @@ These fears are not unfounded, but stem from a foundational naiveté around what
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/spotlight9.png?raw=true"> 
             
 Yet each of these concerns can equally be levied at the written word: written analysis of objects is culturally contingent [^34][^73], words are frequently misinterpreted by audiences[^75], and articles are published with explicit theoretical (and implicit political) agendas. The difference here is simply one of literacy: archeologists are comfortable in textual analysis, but not in visual analysis[^32][^59]. Furthermore, these concerns over images are not without their paternalistic undertones. Images are widely popular and accessible – often more so than words[^32][^61]. If even children can see and comprehend an image[^29][^40], how then can the public be trusted to come to the “correct” conclusions?
+
             
 Yet it is because of this very subjectivity that images can be useful to engage with more culturally contingent questions. Images facilitate the “ability to explore subjective, problematic, personal, empathic, emotional and un-quantifiable elements of archeological material that is not available to scientific approaches”[^70]. Making images of archeological material facilitates a different type of interaction with artefacts. It encourages a different style of looking and seeing[^29], slowing down and focusing engagements with archeological material[^53] and structuring interpretations of the archeological record[^53][^70]. Making images of archeological material allows for an interaction that is distinctly personal, embodied, and intentional[^29][^53] and therefore one which highlights different visual data than traditional recording tools such as photography or photogrammetry[^29].
 <param ve-image 
@@ -342,30 +348,3 @@ The dead haunt us all in different ways: figuratively, literally, or somewhere i
 [^73]: Yarrow, T. 2003. Artefactual Persons: The Relational Capacities of Persons and Things in the Practice of Excavation. Norwegian Archaeological Review. 36(1), pp. 65-73.
 [^74]: Young, C., & Light, D. 2012. Corpses, dead body politics and agency in human geography: following the corpse of Dr. Petru Groza. Transactions of the Institute of British Geographies. (38), pp. 135-148.
 [^75]: Zuanni, C. & Price, C. 2018. The Mystery of the “Spinning Statue” at Manchester Museum. The Journal of Objects, Art and Belief. (14), pp.235-251.
-
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
-<param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
-
-## Map
-
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
-
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
-
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
