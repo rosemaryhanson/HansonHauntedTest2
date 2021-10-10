@@ -24,32 +24,42 @@ Editorial note: this visual essay is powered by Juncture from JSTOR Labs. On a d
        
 This is a story of an earring. 
 <param ve-image 
-       label="Test" 
+       label="Photograph of Earring" 
        description="Test" 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Gem%20Photograph.png?raw=true">
      
 An ugly earring.
 <param ve-image 
-       label="Test" 
+       label="Photograph of Earring" 
        description="Test" 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Gem%20Photograph.png?raw=true">
        
 Cheaply made and cheaply bought, it is meant to resemble a queenly diamond in glass and brass. A large, 3 lobed brown jewel sits beneath a crown of small, round, apricot-colored gems in a color palette that now seems a stereotype of the 1970s. These faux diamonds have been haphazardly set into a thin, metal clip that pinches and weighs the ear unpleasantly. It was presumably once part of a pair, but its twin has long ago been lost in the back of a drawer of a relative or the case of a second-hand shop or (most likely) underneath 200ft of West Seattle landfill. It is, without doubt, an object out of place. I keep it in my jewelry drawer, but I have no intention of wearing it. It has no functionalist, aesthetic, or rational role in my life and there is really no reason that I should keep it.
+<param ve-image 
+       label="Photograph of Earring" 
+       description="Test" 
+       license="public domain" 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Gem%20Photograph.png?raw=true">
             
 Yet, I cling to it: not for what it is, or what it was, or what it could be; not for its value, not for its beauty, not for the hope that I may someday wear it. I cling to it because it was hers: the property of a great aunt, Bea, now dead. I keep it because it is full of memories: the memory of childhood visits and the smell of old perfume and hospital disinfectant. The memory of a sombre distribution that I did not understand, and a jewellery box that I was too small to carry. The memory of a quiet presence, felt on the back of the neck in the superstitious hours. The memory of death and life and loss and obligation and the first thing I ever owned that glittered. 
 <param ve-image 
-       label="Test2" 
+       label="Framed Photo of Bea" 
        description="Test2" 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Framed%20Photo2.png?raw=true">
             
 In my archaeological education, I have spent a great deal of time exploring the properties of materials. I have tried to make sense of object materiality through measurement, weight, form, wear, illustration, reconstruction, sound, smell, heft, and feel. Yet in this lump of ugly brown glass, none of these really matter. Instead, I cannot relinquish it (though I might wish to) because it is imbued with a secret materiality that exists in my mind alone. I understand and interact with this object because it is haunted: by memory, by superstition, and by a link that still connects me to a woman decades dead. 
+<param ve-image 
+       label="Modelled Earring" 
+       description="Test3" 
+       license="public domain" 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Model%20Spread.png?raw=true">
             
 Bea, somehow, has made this object different. 
 <param ve-image 
-       label="Test3" 
+       label="Bea, modelled as a Saint" 
        description="Test3" 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/StPhotowithEarring.png?raw=true">
@@ -57,7 +67,11 @@ Bea, somehow, has made this object different.
 # More than the Sum of its Parts
 
 This is the story of a material property that isn’t. It is not visible, it is not quantifiable, it isn’t even material. And yet, it is experienced (sometimes quite powerfully), and it has effects (sometimes quite dramatic)[^55]. It is the sense that objects are haunted: somehow changed by the persisting agency of the dead; by an intrusion of those gone onto the living experience of the material world, both literally and figuratively. Yet, however potent the effects may be, experiences of hauntedness are still highly personal, subjective, and individual and thus elude the project of objective realism that underpins grounded archeological study. By its affective nature, hauntedness is a sensory experience that cannot be measured, replicated, or recorded, and this makes its study resistive to traditional methods. Yet archeology is uniquely positioned to engage with these points of overlap between the objective and subjective: straddling the sciences, humanities, and social sciences. So, instead of resisting this intersection of objectivity and subjectivity, this paper seeks to engage with it directly: interweaving narrative, image production, and analysis to explore hauntedness as a property of objects. In doing so, I hope not only to define and validate hauntedness as an important aspect of object materiality, but also to encourage creative approaches to the complex, resistive, often immaterial materiality of objects.
-
+       label="Spotlight" 
+       description="Test3" 
+       license="public domain" 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/spotlight12.1.png?raw=true">
+       
 # Hauntedness as a Material Property of Objects
 
 To ask whether hauntedness is real is to ask the wrong question. The afterlife is a topic for philosophers, theologians, neuroscientists, and metaphysicians - and so I leave it to them. Instead, this paper approaches hauntedness through the lens of Material Culture Studies, in which material identities are co-constituted in the relationships between people and objects[^34][^36][^71]. Physical attributes and social attributes both converge in the perception of the world and reality is constructed on this intersection [^19][^24][^34][^55]. Within this frame, it doesn’t matter if the dead actually linger on the material plane. If reality is constructed around a metaphysics that includes hauntedness as a material property of the world, then individuals will interact with that world in reference to hauntedness [^28]. As such, it is real enough. The mind is not so neatly separated from the body [^47][^65]; placebos, after all, can still heal the sick [^7]. 
@@ -69,6 +83,11 @@ In this sense, haunted objects are a prime example of mixtures[^71] or bundles[^
 It is precisely because haunted objects offer such a rich and complex materiality that they are useful for engaging archaeological theory. They provide an example of object agency derived from human subjects, yet at varying levels of perceived intentionality[^4][^71]. They are vibrant matter, but it is a vibrancy that primarily springs from supernatural or affective sources as opposed to the materials of the objects themselves [^36][^55]. They are entangled, not only in “webs of life” [^37], but webs beyond life, where the dead remain entangled in the world[^74] through their objects. Objects become links in a chain to nothing that nevertheless still hold the shape of that enchainment like a phantom limb [^4][^24]. Perhaps most fascinatingly, this resistant materiality can have a material expression. Haunted objects may evoke a sensory experiences that are both powerfully perceived and culturally constituted [^3][^2][^44][^49], complicating the frame of what constitute sensory approaches in archaeology. 
             
 Yet for all that these objects can enrich explorations of object materiality, they exist on the fringe of archaeology. They are, after all, superstitious objects, displaying a materiality that exists outside the natural sciences and the objective goals of processual archaeology [^10][^19]. Haunted objects appear to embody a form of “magical” thinking that is seen as decidedly unmodern, unenlightened, uneducated, and irrational[^2][^55][^28][^75]. Hauntedness, along with magic, folklore, and superstition are therefore relegated to the outskirts of the discipline[^16][^19], or worse still, left to the purview of pseudo-archaeology in its hunt for ghosts, curses, aliens, and monsters[^9][^32][^75]. Moreover, explorations of hauntedness might appear to skirt the symbolic and psychoanalytic approaches of post-processualism, focusing on the meaning of things [^37][^38]; a particularly fraught project when no resources are available for emic analysis[^10].
+<param ve-image 
+       label="Superstitious Objects" 
+       description="Test" 
+       license="public domain" 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/GhostsIllustration2.png?raw=true"> 
             
 This paper does not seek to embark on such a project of meaning making (much less a project of ghost hunting). This paper instead seeks to recognize hauntedness as part of the “murk[y] middle ground” in explorations of folk ritual beliefs [^10]. It is a sphere of causality that exists in tandem with objective causality[^55]. By dismissing it, we may “build false assumptions about what the ‘real world’ is like”[^28], secularizing, rationalizing, and suppressing the often powerful effects of heritage[^11][^55]. As we collect a library of sensory experience through which to examine objects [^26][^27][^35], a focus on the physical senses alone may well be inconsistent with the ontologies that framed (and frame) the experience of the material world[^11][^28]. In failing to recognize that sensory experiences may be informed by these deep spiritual, cultural frameworks, we are doomed to an idea of sensitivity that is sanitized and one-dimensional. 
             
@@ -92,14 +111,20 @@ Image production (as well as storytelling) holds the capacity to engage with tim
 
 # Case Studies
 
-This paper will highlight 3 types of hauntedness that exist along a spectrum of rationality, intentionality, and materiality: possession, aura, and memory. These three types of hauntedness represent an organizational conceit rather than a categorical, exhaustive, or static scheme. After all, one type of materiality does not preclude others – occulted or otherwise[^55]. These three are presented instead to illustrate the diverse ways objects provoke human affectivity and affect human perceptions and actions [^24][^38].<param ve-image 
+This paper will highlight 3 types of hauntedness that exist along a spectrum of rationality, intentionality, and materiality: possession, aura, and memory. These three types of hauntedness represent an organizational conceit rather than a categorical, exhaustive, or static scheme. After all, one type of materiality does not preclude others – occulted or otherwise[^55]. These three are presented instead to illustrate the diverse ways objects provoke human affectivity and affect human perceptions and actions [^24][^38].
+<param ve-image 
        label="Three Forms of Hauntedness" 
        description="Test" 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/3%20Forms%20of%20Hauntedness2.png?raw=true"> 
 
 Hauntedness may therefore be quite literal, where objects are possessed by an affecting agent directly. It is an occulted materiality that is most decidedly supernatural[^55], in which ghosts and spirits of the dead act directly upon the living in material ways[^55]. Yet, hauntedness need not be so direct, with objects providing a conduit for aura, or non-living agency. Here, the dead themselves do not act upon the living, but imbue objects with a magical potency to act. Hauntedness may even be figurative, as an object triggers memory and emotion associated with the dead. This type of hauntedness encompasses the idea of spectrality: the spatio-temporal memory of an object, but this affectivity may not be entirely in the control of those in whom emotion and memory is provoked [^30]. Though aspects of hauntedness need not be mutually exclusive, this paper will examine each separately as a case study in exploring hauntedness using creative approaches. 
-
+<param ve-image 
+       label="Three Forms of Hauntedness" 
+       description="Test" 
+       license="public domain" 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/3%20Forms%20of%20Hauntedness2.png?raw=true"> 
+       
 ## I. Objects Possessed
 
 The first definition of hauntedness is the most literal: that of possession. Possession here is defined as the belief that an object is inhabited by a non-corporeal agent and imbued with the direct agency of the non-living. Often (though not exclusively) human, these actors are perceived by the senses: sight, smell, sound, touch, or even taste [^3] 580-1; [^2][^44][^49][^75]. A key affordance of these objects is their ability to house and/or facilitate direct encounters with the supernatural in a way that can be physically experienced – and to believers, photographed and measured [^3][^2]. These experiences are the acts of specific agents who – within the metaphysics of hauntedness – exist in the perceivable world [^3]. 
