@@ -18,11 +18,6 @@ Test of Visual Essay Format
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
 This is a story of an earring. 
-<param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
-       license="public domain" 
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/024998e8c33d55c6a0ac5b098fc0e5eef00a9933/Gem%20Photo2.png">
 
 An ugly earring.
            
