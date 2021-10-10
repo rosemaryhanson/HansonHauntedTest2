@@ -67,7 +67,8 @@ Bea, somehow, has made this object different.
 # More than the Sum of its Parts
 
 This is the story of a material property that isn’t. It is not visible, it is not quantifiable, it isn’t even material. And yet, it is experienced (sometimes quite powerfully), and it has effects (sometimes quite dramatic)[^55]. It is the sense that objects are haunted: somehow changed by the persisting agency of the dead; by an intrusion of those gone onto the living experience of the material world, both literally and figuratively. Yet, however potent the effects may be, experiences of hauntedness are still highly personal, subjective, and individual and thus elude the project of objective realism that underpins grounded archeological study. By its affective nature, hauntedness is a sensory experience that cannot be measured, replicated, or recorded, and this makes its study resistive to traditional methods. Yet archeology is uniquely positioned to engage with these points of overlap between the objective and subjective: straddling the sciences, humanities, and social sciences. So, instead of resisting this intersection of objectivity and subjectivity, this paper seeks to engage with it directly: interweaving narrative, image production, and analysis to explore hauntedness as a property of objects. In doing so, I hope not only to define and validate hauntedness as an important aspect of object materiality, but also to encourage creative approaches to the complex, resistive, often immaterial materiality of objects.
-       label="Spotlight" 
+      <param ve-image 
+       label="Modelled Earring" 
        description="Test3" 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/spotlight12.1.png?raw=true">
