@@ -3,7 +3,7 @@
 <param ve-config 
        title="What To Do When the Dead Linger: Exploring Hauntedness as a Material Property of Objects"
        author="Rosemary Hanson"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Gem%20Photograph.png?raw=tru" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -15,10 +15,8 @@
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
 Rosemary Hanson Received October 1, 2021 Citation: Hanson, Rosemary. 2021. "What To Do When the Dead Linger: Exploring Hauntedness as a Material Property of Object". Epoiesen. DOI: http://dx.doi.org/10.22215/epoiesen/2021.10
-
-Creative Commons License
-
-_Rosemary Hanson is X at Y (email) ORCID.
+license="creative commons" 
+Rosemary Hanson is X at Y (email) ORCID.
 Editorial note: this visual essay is powered by Juncture from JSTOR Labs. On a device, this essay is best viewed in landscape mode; images are triggered when the relevant text reaches the top of the screen.
 
 # What To Do When the Dead Linger: Exploring Hauntedness as a Material Property of Objects
