@@ -1,5 +1,4 @@
 # HansonHauntedTest2
-Test of Visual Essay Format
 
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
@@ -17,7 +16,11 @@ Test of Visual Essay Format
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-This is a story of an earring. 
+This is a story of an earring. <param ve-image 
+       label="Girl with a Pearl Earring" 
+       description="painting by Johannes Vermeer" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
 An ugly earring.
            
