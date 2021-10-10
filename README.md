@@ -21,7 +21,7 @@ This is a story of an earring.
 <param ve-image 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
-       ![Gem Photo2](https://user-images.githubusercontent.com/92250182/136692629-4fd080cc-3d28-4677-8473-1036adf9cb2a.png)
+       ![Gem Photo2](https://user-images.githubusercontent.com/92250182/136692629-4fd080cc-3d28-4677-8473-1036adf9cb2a.png)>
      
 An ugly earring.
            
