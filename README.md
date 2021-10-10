@@ -5,8 +5,8 @@
 <param ve-config 
        title="What To Do When the Dead Linger: Exploring Hauntedness as a Material Property of Objects"
        author="Rosemary Hanson"
-       banner="https://iiif.juncture-digital.org/banner/?url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Gem%20Photograph.png?raw=true">
-
+       banner="https://iiif.juncture-digital.org/banner/?url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Gem%20Photograph.png?raw=true" layout="vertical">  
+                        
 This is a story of an earring. <param ve-image 
        label="Test" 
        description="Test" 
