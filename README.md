@@ -50,14 +50,14 @@ Yet, I cling to it: not for what it is, or what it was, or what it could be; not
        label="Framed Photo of Bea" 
        description="Test2" 
        license="public domain" 
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Framed%20Photo2.png?raw=true">
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/beainframe1.png?raw=true">
             
 In my archaeological education, I have spent a great deal of time exploring the properties of materials. I have tried to make sense of object materiality through measurement, weight, form, wear, illustration, reconstruction, sound, smell, heft, and feel. Yet in this lump of ugly brown glass, none of these really matter. Instead, I cannot relinquish it (though I might wish to) because it is imbued with a secret materiality that exists in my mind alone. I understand and interact with this object because it is haunted: by memory, by superstition, and by a link that still connects me to a woman decades dead. 
 <param ve-image 
        label="Modelled Earring" 
        description="Test3" 
        license="public domain" 
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Model%20Spread.png?raw=true">
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Model%20Spread2.png?raw=true">
             
 Bea, somehow, has made this object different. 
 <param ve-image 
@@ -78,6 +78,11 @@ This is the story of a material property that isn’t. It is not visible, it is 
 # Hauntedness as a Material Property of Objects
 
 To ask whether hauntedness is real is to ask the wrong question. The afterlife is a topic for philosophers, theologians, neuroscientists, and metaphysicians - and so I leave it to them. Instead, this paper approaches hauntedness through the lens of Material Culture Studies, in which material identities are co-constituted in the relationships between people and objects[^34][^36][^71]. Physical attributes and social attributes both converge in the perception of the world and reality is constructed on this intersection [^19][^24][^34][^55]. Within this frame, it doesn’t matter if the dead actually linger on the material plane. If reality is constructed around a metaphysics that includes hauntedness as a material property of the world, then individuals will interact with that world in reference to hauntedness [^28]. As such, it is real enough. The mind is not so neatly separated from the body [^47][^65]; placebos, after all, can still heal the sick [^7]. 
+<param ve-image 
+       label="Reactions to Earring" 
+       description="Test3" 
+       license="public domain" 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Recoil%20Hands.png?raw=true">
 
 Hauntedness is therefore a subjective property of object materiality. It is a property in which the dead imbue matter with agency. This agency may be physical [^3], magical [^28][^55][^75], and/or emotional[^30][^38], but it is a power that emerges from biographical associations between people and things [^34][^42]. It is a persistence of entanglement between the dead, the living, and material objects in a panoply of configurations across time and space[^30][^71].In this sense, haunted objects are a prime example of mixtures[^71] or bundles[^4]. They are both subject and object, human and nonhuman, real and unreal, effected by and effecting human consciousness, and full of contradictions and bifurcations[^71]. They make the social physical and the physical social[^4], entangling, mixing, and distributing human consciousness and object materiality[^33]. They compress and distort time and disrupt the neat separation of past, present, and future[^30][^67]. 
 <param ve-image 
