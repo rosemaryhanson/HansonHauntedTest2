@@ -256,7 +256,12 @@ The aura evoked with associations between objects and those that have died can m
        label="Creepiness" 
        description="Test3" 
        license="public domain"
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Creepy%20Lighting.png?raw=true">                                                                                                   
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Creepy%20Lighting.png?raw=true">      
+<param ve-image 
+       label="Specialness" 
+       description="Test3" 
+       license="public domain"
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/innerglow2.png?raw=true">                                                                                            
 
 This aura may also have more practical effects, however, particularly in reference to sacred objects that have been empowered by the influences of important or sacred people [^11][^44]. Objects may possess an aura that is empowered to enact material change such as healing[^13][^16][^18], disaster prevention, luck[^16][^48], or harm [^13][^48]. Steph Berns describes the sacred aura of relics and devotional material that were associated with Catholic saints. She describes this aura in terms of ‘holy radioactivity’ or ‘contact relics’ that exist within the relics and can also pass to personal objects that come in contact with the relics or even the reliquaries that house them[^8]. It is a holiness that stems from the associations with saints and/or saintly remains that make these objects conduits of and surrogates for the presence of non-living saints[^8]. The power of these objects can be potent both in the spiritual and emotional plane, but in the material one as well. 
 <param ve-image 
@@ -295,9 +300,19 @@ It is in this way that Bea’s earring is haunted, and why it seems to stand out
 Bea is dead, and I know that better than most. From the dispassionate detachment of prolonged excavation experience, I know that she is now a layer of grey ash in the dark, wet soil of a mid-range graveyard. Who knows how many great aunts have come under my trowel; their things bagged up and sent to storeroom basements. I deal in the science of death and loss and things decaying. I know how to measure bones and photograph coffin furniture and draw the little objects left behind. So, I really should know better. Decluttering is the fashion, now, and between moves and cleanouts and therapy sessions centered around my emotional relationship to stuff, I should have disposed of this little piece of kitsch long ago. I should have accepted that death is the end, that “acquits us of all obligations”
             
 But I don’t want to. To throw it away would be “an act of deliberate amnesia”[^51], and I am not yet ready to forget. I do not want to exorcise this ghost from my life but instead I want to remember and in remembering, to keep her here. I want to let this little earring stay unmolested in a drawer until my memory fades and it becomes just glass again.
-            
+<param ve-image 
+       label="Resistance to Letting Go" 
+       description="Test3" 
+       license="public domain"
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Holding%20Hands8.png?raw=true">                                                                       
+                                                                                                         
 I want to remain haunted.
-
+<param ve-image 
+       label="Resistance to Letting Go" 
+       description="Test3" 
+       license="public domain"
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Holding%20Hands8.png?raw=true">       
+                                                                                                         
 # Conclusion
 
 The dead haunt us all in different ways: figuratively, literally, or somewhere in between. They mediate our relationships with things: their agencies bursting through the material world in unique disruptions of time and space. It is not our job as archaeologists to capture these ghosts, but to leave space for them. Yet, if we are to tackle these resistive objects, it is vital to engage them in resistive ways: to make art, to tell stories, and to lay bare our own failings in rationality. After all, archaeology does not put the dead to rest but unsettles them, re-vives them, and weaves them back into life. If we are in the business of telling ghost stories, we should at least tell them well. 
