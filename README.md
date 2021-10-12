@@ -96,7 +96,7 @@ It is precisely because haunted objects offer such a rich and complex materialit
        label="Connected by Objects" 
        description="Test" 
        license="public domain" 
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Holding%20Hands5.png?raw=true"> 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Holding%20Hands3.png?raw=true"> 
             
 Yet for all that these objects can enrich explorations of object materiality, they exist on the fringe of archaeology. They are, after all, superstitious objects, displaying a materiality that exists outside the natural sciences and the objective goals of processual archaeology [^10][^19]. Haunted objects appear to embody a form of “magical” thinking that is seen as decidedly unmodern, unenlightened, uneducated, and irrational[^2][^55][^28][^75]. Hauntedness, along with magic, folklore, and superstition are therefore relegated to the outskirts of the discipline[^16][^19], or worse still, left to the purview of pseudo-archaeology in its hunt for ghosts, curses, aliens, and monsters[^9][^32][^75]. Moreover, explorations of hauntedness might appear to skirt the symbolic and psychoanalytic approaches of post-processualism, focusing on the meaning of things [^37][^38]; a particularly fraught project when no resources are available for emic analysis[^10].
 <param ve-image 
@@ -113,6 +113,12 @@ This paper does not seek to embark on such a project of meaning making (much les
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/spotlight1.png?raw=true"> 
 
 In failing to recognize these relational frameworks, my own experience of a haunted object simply does not exist.  
+
+<param ve-image 
+       label="Experiencing Hauntedness" 
+       description="Test" 
+       license="public domain" 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Holding%20Hands5.png?raw=true"> 
 
 # Humanist Problems Require Creative Solutions
 
