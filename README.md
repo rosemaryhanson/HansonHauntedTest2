@@ -92,6 +92,11 @@ Hauntedness is therefore a subjective property of object materiality. It is a pr
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Web.png?raw=true"> 
             
 It is precisely because haunted objects offer such a rich and complex materiality that they are useful for engaging archaeological theory. They provide an example of object agency derived from human subjects, yet at varying levels of perceived intentionality[^4][^71]. They are vibrant matter, but it is a vibrancy that primarily springs from supernatural or affective sources as opposed to the materials of the objects themselves [^36][^55]. They are entangled, not only in “webs of life” [^37], but webs beyond life, where the dead remain entangled in the world[^74] through their objects. Objects become links in a chain to nothing that nevertheless still hold the shape of that enchainment like a phantom limb [^4][^24]. Perhaps most fascinatingly, this resistant materiality can have a material expression. Haunted objects may evoke a sensory experiences that are both powerfully perceived and culturally constituted [^3][^2][^44][^49], complicating the frame of what constitute sensory approaches in archaeology. 
+<param ve-image 
+       label="Connected by Objects" 
+       description="Test" 
+       license="public domain" 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Holding%20Hands5.png?raw=true"> 
             
 Yet for all that these objects can enrich explorations of object materiality, they exist on the fringe of archaeology. They are, after all, superstitious objects, displaying a materiality that exists outside the natural sciences and the objective goals of processual archaeology [^10][^19]. Haunted objects appear to embody a form of “magical” thinking that is seen as decidedly unmodern, unenlightened, uneducated, and irrational[^2][^55][^28][^75]. Hauntedness, along with magic, folklore, and superstition are therefore relegated to the outskirts of the discipline[^16][^19], or worse still, left to the purview of pseudo-archaeology in its hunt for ghosts, curses, aliens, and monsters[^9][^32][^75]. Moreover, explorations of hauntedness might appear to skirt the symbolic and psychoanalytic approaches of post-processualism, focusing on the meaning of things [^37][^38]; a particularly fraught project when no resources are available for emic analysis[^10].
 <param ve-image 
@@ -113,17 +118,17 @@ In failing to recognize these relational frameworks, my own experience of a haun
 
 In exploring hauntedness as an immaterial material property of objects, tools for quantification are clearly inappropriate. Indeed, attempts to measure and record evidence of ghosts and spirits quickly diverge into the realms of ghost hunting [^3], spiritualism[^2], and pseudo-archeology[^9][^32]. Instead, subjective questions require a more subjective toolkit: one that engages this subjectivity, as opposed to resisting or obscuring it[^70]. This paper deploys two such tools to explore hauntedness as a material property of objects. The first is auto-ethnographic storytelling [^3][^30][^38], and the second is visual artistic practice[^22][^30][^70]. In doing so, I seek to demonstrate the ways that creative practice can be deployed to enrich more traditional forms of analysis.
 <param ve-image 
-       label="Failed Model" 
-       description="Test" 
-       license="public domain" 
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/2021-07-07%20(3).png?raw=true"> 
-
-Drawing from anthropology, the use of auto-ethnographic storytelling is quite commonplace in the discipline, and has been very effectively deployed to explore affective aspects of memory [^30][^43], ruination[^60], materials [^34][^36], etc. This mode of engagement is particularly appropriate in relationship to haunting, as first-hand accounts of haunting experience are a key element of ghost belief [^3]. Moreover, ghosts and hauntings frequently appear as a conceptual metaphor in heritage study in reference to things that are abandoned, concealed, or suppressed[^2]. In the logocentric context of professional academia[^40], auto-ethnographic storytelling is the logical creative extension for archeological analysis, but this reflexivity is hardly the exclusive remit of the written word.
-<param ve-image 
        label="Photogrammetric Data" 
        description="Test" 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/dot%20ghost.png?raw=true"> 
+
+Drawing from anthropology, the use of auto-ethnographic storytelling is quite commonplace in the discipline, and has been very effectively deployed to explore affective aspects of memory [^30][^43], ruination[^60], materials [^34][^36], etc. This mode of engagement is particularly appropriate in relationship to haunting, as first-hand accounts of haunting experience are a key element of ghost belief [^3]. Moreover, ghosts and hauntings frequently appear as a conceptual metaphor in heritage study in reference to things that are abandoned, concealed, or suppressed[^2]. In the logocentric context of professional academia[^40], auto-ethnographic storytelling is the logical creative extension for archeological analysis, but this reflexivity is hardly the exclusive remit of the written word.
+<param ve-image 
+       label="Auto-Ethnography" 
+       description="Test" 
+       license="public domain" 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/writing.jpg?raw=true"> 
             
 Image production offers a different form of storytelling, but one in which the discipline is far less comfortable[^70]. Though social sciences, and particularly anthropology, have begun experimenting with new visual modes of engagement[^29], images are often still treated with suspicion or hostility [^53][^70]. Though a visually rich discipline [^64][^70] exposed to an increasingly rich visual media landscape[^61], archeology often struggles with visual literacy[^32][^40][^59][^63][^70]. There are fears that images are overly subjective in production[^52], interpretively unstable [^40][^70][^61], and able to achieve a false sense of authority, concealing nefarious theoretical or political intentions behind pleasant aesthetics[^32][^40][^53][^54][^52]. If the visual is associated with the real and objective[^55] and archeological images are expected to present authoritative and accurate depictions of the world [^70] any deviance from realism is a necessarily a betrayal of truth.
 <param ve-image 
@@ -131,7 +136,6 @@ Image production offers a different form of storytelling, but one in which the d
        description="Test" 
        license="public domain" 
        url= https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Collected%20Illustration2.png?raw=true> 
-
             
 These fears are not unfounded, but stem from a foundational naiveté around what images can and can’t do[^70]. Images cannot be perfect, objective representations of an object [^64] Images and image-making are culturally, socially, and perceptually relative[^52], not to mention dependent on the skill, knowledge, and experience of the artist[^64]. Moreover, viewers will apply their own prejudices as they interpret art [^40][^70] and these will change and shift over time and context[^61]. And images cannot be innocent: they have agendas as part of their _raison d’etre_[^52][^64]. 
 <param ve-image 
@@ -141,7 +145,11 @@ These fears are not unfounded, but stem from a foundational naiveté around what
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/spotlight9.png?raw=true"> 
             
 Yet each of these concerns can equally be levied at the written word: written analysis of objects is culturally contingent [^34][^73], words are frequently misinterpreted by audiences[^75], and articles are published with explicit theoretical (and implicit political) agendas. The difference here is simply one of literacy: archeologists are comfortable in textual analysis, but not in visual analysis[^32][^59]. Furthermore, these concerns over images are not without their paternalistic undertones. Images are widely popular and accessible – often more so than words[^32][^61]. If even children can see and comprehend an image[^29][^40], how then can the public be trusted to come to the “correct” conclusions?
-
+<param ve-image 
+       label="Word Cloud" 
+       description="Test" 
+       license="public domain" 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Word%20Cloud.png?raw=true"> 
             
 Yet it is because of this very subjectivity that images can be useful to engage with more culturally contingent questions. Images facilitate the “ability to explore subjective, problematic, personal, empathic, emotional and un-quantifiable elements of archeological material that is not available to scientific approaches”[^70]. Making images of archeological material facilitates a different type of interaction with artefacts. It encourages a different style of looking and seeing[^29], slowing down and focusing engagements with archeological material[^53] and structuring interpretations of the archeological record[^53][^70]. Making images of archeological material allows for an interaction that is distinctly personal, embodied, and intentional[^29][^53] and therefore one which highlights different visual data than traditional recording tools such as photography or photogrammetry[^29].
 <param ve-image 
@@ -152,10 +160,10 @@ Yet it is because of this very subjectivity that images can be useful to engage 
             
 Image production (as well as storytelling) holds the capacity to engage with time, both in the temporal experience of making, and the ways in which time can be compressed into a single image[^29][^30][^53]. It allows for a more open-ended exploration of personal involvement, intuition, and affective experience[^63], and in doing so, offers a resistive means of knowledge production[^63][^70]. Yet these new and resistive ways knowledge production should not be seen as a replacement for traditional approaches to archeological material. Objective techniques are powerful and valuable in addressing objective questions. Yet these tools prove insufficient to examine the full spectrum of materiality. Instead, more subjective, creative approaches serve as a supplement to the existing approaches in archeology: offering access to new types of data to enrich the archeological record [^5][^70].
 <param ve-image 
-       label="Failed Photogrammetric Capture" 
+       label="Object in Hand" 
        description="Test" 
        license="public domain" 
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/point%20ghost.png?raw=true"> 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/halo2.4.png?raw=true"> 
 
 # Case Studies
 
@@ -190,11 +198,32 @@ Belief in ghosts and spirits is hardly antiquated or remote but remains a persis
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Ghost%20Orbs5.png?raw=true"> 
 
 Hauntedness is, perhaps unsurprisingly, particularly prevalent within cultural heritage contexts. By far, the dominant representation of archaeological objects in modern cinema is in reference to their supernatural aspects[^32] and the media surrounding ghosts and hauntings has ballooned in recent years [^3]. More recently, the “spinning statuette” at the Manchester Museum was interpreted by the public as a “potential vessel for the spirit of a deceased ancient Egyptian” (among other interpretations). This led to a massive uptick in interest, popularity, speculation, enthusiasm, and museum attendance[^75]. The British Museum has also faced difficulty dispelling ideas of a “mummy’s curse” and malevolent spirits that linger around a 21st or 22nd dynasty mummy in their collection[^48]. 
+<param ve-image 
+       label="Ghost Model" 
+       description="Test" 
+       license="public domain" 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/hauntedghost2.png?raw=true">
 
 Places, too, often become the residence of ghosts and spirits, such as The Historic Cornwall Jail in Cornwall, Ontario, which advertises visitor experiences with hauntings. Visitors, staff, and paranormal investigators attest to both seeing and hearing paranormal actors [^49]. Mariana Lamas and Eduardo Giménez-Cassina outline instances of museum sites and objects that are perceived as haunted or have had paranormal incidents in the past few decades[^44]. So popular is this connection between heritage and possession, that a whole industry of dark tourism and ghost tours has sprung up around those seeking encounters with the dead [^3][^66].
+<param ve-image 
+       label="A Sense of Evil" 
+       description="Test" 
+       license="public domain" 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/eye%20glow%2010.png?raw=true">                                                                      
+                                                                                                        
+<param ve-image 
+       label="Another Sense of Evil" 
+       description="Test" 
+       license="public domain" 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/eye%20glow%206.png?raw=true">        
 
 Archaeologists are not immune from experiences with “other-than-human beings”[^67] and ghosts[^2]. In the most literal sense, heritage professionals are often called upon to engage with public experiences of hauntedness[^22][^44][^75]. Yet, on a more personal level, archeologists have been entangled with experiences of hauntedness. The history of archeology is one that is entwined with the spiritualist movement, with some early investigators deploying psychometry, psychics, biometers, and automated writing as part of archaeological research[^2]. Even as these methods fell out of favor in the scientific community, many still espoused beliefs in the occult in their personal life, even as spirits disappeared from publication[^2]. Even now, when the paranormal is publicly denounced as harmful to the discipline[^32], there are still occasional allusions to such experiences among heritage professionals [^44][^49][^67]). Sitting around the sherd bucket at the end of the day, I have heard many a tenured professor tell stories of things falling in storerooms, footsteps in empty hallways, and dark shapes in the night. In those moments of comradery, I might even betray my own moments of supernatural discomfort, quickly dismissed yet nevertheless persistent in my memory. There is clearly something in this experience of hauntedness that resists.
-
+<param ve-image 
+       label="Engulfing Darkness" 
+       description="Test" 
+       license="public domain" 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/hauntedghost1.png?raw=true">
+                                                                                                      
 ### Visualizing Possession
 
 Because these are hauntings in the most literal sense, they are the easiest to visualize; there is a rich tradition of artistic representations of ghostly spectres that can be drawn from to render the immaterial into a familiar image. The classic “bedsheet” ghost that originated from the funerary practices of the European Middle Ages[^14] is a now ubiquitous cliché of hauntedness. As such, it can act as a visual shorthand for hauntedness, such as the renderings of Egyptian Shaitan added to images of Egyptian archaeology[^22] or the ‘ghost orbs’ photographed by American paranormal investigators [^3]. Transparent figures are another familiar visual convention which emerged in the 18th and 19th century[^58]. This conceit allows for the inclusion of any number of limbs or figures with the clear recognition of their phantasmagorical character. Yet this visual invocation of hauntedness need not be so explicit. Reflecting an image off the glass of the earring can more subtly allude to a sense of presence.  
@@ -203,10 +232,10 @@ Because these are hauntings in the most literal sense, they are the easiest to v
 
 The second definition of hauntedness relates to objects that are imbued with an aura[^31], or magic [^12][^75]. This is the effectual power of an object to evoke a “reverential experience”[^31] – a spiritual “wow” effect[^25]. Perhaps the best definition defines aura as the way in which objects mediate “powerful empathic relationships that seem to transcend place and time”[^31]. Unlike possession, whereby specific agents work directly though objects, this type of haunting describes the way that an object may act as a conduit for the residual or indirect agency of the non-living. This agency lacks the intentionality of direct human action, but nevertheless derives its potency from a human source[^50]. It is an experience that is not so explicitly sensory, such as possession, but is instead a highly affective sensation[^31]. It is the sense that an object has magical agency derived from an association with the dead [^16][^44]. 
 <param ve-image 
-       label="Spotlight on an Object" 
+       label="Objects in Museums" 
        description="Test3" 
        license="public domain"
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/spotlight1.png?raw=true"> 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Museum%20Case.png?raw=true"> 
 
 Aura is a long-established concept in Museum Studies as an element of object materiality, drawing from the work of Walter Benjamin [^12][^21][^68]. Yet it is one that is strikingly subjective, contingent, and affective[^12][^31]. It is a quasi-magical potency or charisma to evoke awe and reverence in the viewer[^12][^25]. While the physical properties of an object, such as patina or damage, are relevant to these experiences of awe[^12], the foundations of the auratic experiences lie outside the physical properties[^31], or even the authenticity[^17] of the objects themselves. In that sense, aura is a feeling of entanglement that manifests as a sense of magical agency, charge, or energy[^16][^44]. Yet, despite the subjective bordering on magical aspect of aura, it is an aspect of object materiality that is widely accepted as worthy of study, in part due to its role in legitimizing the museological project[^12]. 
 <param ve-image 
@@ -234,7 +263,7 @@ This aura may also have more practical effects, however, particularly in referen
        label="Halos" 
        description="Test3" 
        license="public domain"
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/4halos.png?raw=true">                                                                                                            
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Halos3.png?raw=true">                                                                                                            
 
 ### Visualizing Aura
 
@@ -244,24 +273,24 @@ It is in these most personal experiences that visualization can be most effectiv
 
 A third distinct definition of hauntedness in objects, is when objects are imbued with memory. In these objects, a key material property of an object is the way in which it can evoke memories of the dead. It is therefore a referential agency: these objects are not conduits for the agency of the dead so much as they are surrogates for them[^30]. Within the affective turn, memory is a potent element of object materiality[^38] in which past and present interact, overlap, and disrupt one another [^30]. The biography of such memory objects constitutes a concretion of events, actions, objects, people, memory, time, and emotion into a physical referent[^38][^71]. And while these objects may be a “repository of collective memory” [^19], they may also be a site of “relentless remembering” [^67], that evoke memories involuntarily[^30] as associated neural networks activate one another[^50]. Memory acts through an object, as the biographical associations materialize as a powerful, personal, and emotional experiences of objects.
  <param ve-image 
-       label="Hand Group" 
+       label="Reflected Object" 
        description="Test3" 
        license="public domain"
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Hand%20Group3.png?raw=true">                                                                                               
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/reflection3.png?raw=true">                                                                                               
 
 In one way or another, all objects act as sites of memory[^51], but some objects have a particular potency in their associations with the dead. Roberta Gilchrist points to heirlooms, particularly as prompts for autobiographical memory. She links them to Mauss’s concept of inalienable objects that absorb the essence of the giver [^19]. In the most literal sense, they reflect the taste of the original owner, extending their material judgements beyond their lifespan[^20]. Yet they may also take the place of the dead, becoming the new site of memory and comfort when the human link is severed[^51]. Not only do they testify to the past [^15], but through this capacity to store and trigger memory[^30][^51] they allow the past to persist and the dead to remain entangled with the living. Thus, they are sites of haunting: not the literal vessels for spirits or conduits for undead power, but as tools through which the dead can be reanimated through the act of remembering. They are tools that allow a return to a time before death[^30], and so keep the dead alive in affective experiences of the present.
  <param ve-image 
        label="Reconstruction of earring worn by both the author and the original owner" 
        description="Test3" 
        license="public domain"
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/FaceOff3.png?raw=true">       
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/FaceOff4.png?raw=true">       
  
 It is in this way that Bea’s earring is haunted, and why it seems to stand out against the drab backdrop of my jewelry box: not because it exudes magic or harbors a ghost, but because it is a site of memory. Yet, when I hold this little thing, it feels heavy in my hand, as if infused with the weight of remembering. Somehow, in owning it, I can erase death and decades and reanimate that love that lingers in the shape of her. 
 <param ve-image 
        label="Presence and Absence" 
        description="Test3" 
        license="public domain"
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Presence%20and%20Absense.png?raw=true">
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/presence%20and%20absence2.png?raw=true">
                                                                                                       
 Bea is dead, and I know that better than most. From the dispassionate detachment of prolonged excavation experience, I know that she is now a layer of grey ash in the dark, wet soil of a mid-range graveyard. Who knows how many great aunts have come under my trowel; their things bagged up and sent to storeroom basements. I deal in the science of death and loss and things decaying. I know how to measure bones and photograph coffin furniture and draw the little objects left behind. So, I really should know better. Decluttering is the fashion, now, and between moves and cleanouts and therapy sessions centered around my emotional relationship to stuff, I should have disposed of this little piece of kitsch long ago. I should have accepted that death is the end, that “acquits us of all obligations”
             
@@ -276,7 +305,7 @@ The dead haunt us all in different ways: figuratively, literally, or somewhere i
        label="Objects Casting Shadows" 
        description="Test3" 
        license="public domain"
-       url=https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/earringshadow4.png?raw=true>
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/shadowsquare2.png?raw=true">
                               
 # References 
 
