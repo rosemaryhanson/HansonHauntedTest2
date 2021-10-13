@@ -122,7 +122,7 @@ In failing to recognize these relational frameworks, my own experience of a haun
 # Humanist Problems Require Creative Solutions
 
 In exploring hauntedness as an immaterial material property of objects, tools for quantification are clearly inappropriate. Indeed, attempts to measure and record evidence of ghosts and spirits quickly diverge into the realms of ghost hunting [^3], spiritualism[^2], and pseudo-archeology[^9][^32]. Instead, subjective questions require a more subjective toolkit: one that engages this subjectivity, as opposed to resisting or obscuring it[^70]. This paper deploys two such tools to explore hauntedness as a material property of objects. The first is auto-ethnographic storytelling [^3][^30][^38], and the second is visual artistic practice[^22][^30][^70]. In doing so, I seek to demonstrate the ways that creative practice can be deployed to enrich more traditional forms of analysis.
-<param ve-image 
+
 <param ve-image 
        label= "Photographs taken of this earring were not able to produce a photogrammetric 3D digital model due to the materiality of the earring itself. The clear, reflective surface of both the glass and brass resulted in point clouds and models with a diffused, etherial, and distorted shape." are, and exported to Meshlab." 
        license="public domain" 
@@ -247,47 +247,43 @@ Archaeologists are not immune from experiences with “other-than-human beings�
 
 The second definition of hauntedness relates to objects that are imbued with an aura[^31], or magic [^12][^75]. This is the effectual power of an object to evoke a “reverential experience”[^31] – a spiritual “wow” effect[^25]. Perhaps the best definition defines aura as the way in which objects mediate “powerful empathic relationships that seem to transcend place and time”[^31]. Unlike possession, whereby specific agents work directly though objects, this type of haunting describes the way that an object may act as a conduit for the residual or indirect agency of the non-living. This agency lacks the intentionality of direct human action, but nevertheless derives its potency from a human source[^50]. It is an experience that is not so explicitly sensory, such as possession, but is instead a highly affective sensation[^31]. It is the sense that an object has magical agency derived from an association with the dead [^16][^44]. 
 <param ve-image 
-       label="Objects in Museums" 
-       description="Test3" 
+       label="The concept of aura emerged from the context of Museum Studies in reference to the charisma of an authentic object. This image seeks to explore the aura-producing effect of museum display, by placing the modelled earring within a simplified sketch of the mounting used to display a piece of 'cursed' jewelry, the Hope Diamond on display at the Smithsonian Institutions National Museum of Natural History in Washington DC." 
+       description="The modelled earring was produced in the 3D modelling software Blender 2.93.5 and then layered over a background produced in the photoediting software GIMP 2.10.22." 
        license="public domain"
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Museum%20Case2.png?raw=true"> 
 
 Aura is a long-established concept in Museum Studies as an element of object materiality, drawing from the work of Walter Benjamin [^12][^21][^68]. Yet it is one that is strikingly subjective, contingent, and affective[^12][^31]. It is a quasi-magical potency or charisma to evoke awe and reverence in the viewer[^12][^25]. While the physical properties of an object, such as patina or damage, are relevant to these experiences of awe[^12], the foundations of the auratic experiences lie outside the physical properties[^31], or even the authenticity[^17] of the objects themselves. In that sense, aura is a feeling of entanglement that manifests as a sense of magical agency, charge, or energy[^16][^44]. Yet, despite the subjective bordering on magical aspect of aura, it is an aspect of object materiality that is widely accepted as worthy of study, in part due to its role in legitimizing the museological project[^12]. 
 <param ve-image 
-       label="Objects on a Pedestal" 
-       description="Test3" 
+       label="In this image, a an English language idiom is translated into a visual image. The auratic experience of objects involves excepting those objects as uniquely important - to put them on a pedestal - and this is an element that can be easily introduced into visualizations without obstructing them." 
+       description="The photograph of the earring was taken on a Nikon D3100 Camera, and then edited into a sketch of both earring and pedestal produced in the photoediting software GIMP 2.10.22." 
        license="public domain"
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/DoublePedestal.png?raw=true"> 
 
 This concept of object aura is essentially an emotional manifestation of object biography. In the classical object-biographic approach, objects accumulate meaning through their social interactions, with the biography of the object framed by the ways it intersects with the biographies of human beings[^23][^42]. Though post-humanist approaches to objects have challenged this anthropocentric focus[^57][^34], these human entanglements are nevertheless deeply relevant to the auratic potency of objects [^15][^17]. In fact, it is this history of objects that generate this auratic quality which is then substantiated by its material properties[^31]. Objects become powerful in their associations with people, and they retain this power as part of their materiality[^15].
 <param ve-image 
-       label="Object with Label" 
-       description="Test3" 
+       label="In cutural heritage contexts, labels are the primary medium by which objects are denoted as special. Archeological labels and museum labels each tie an object into an object biographical framework - relating the entanglements that seperate an ordinary object from an extrordinary object." 
+       description="This image was produced using the photoediting software GIMP 2.10.22." 
        license="public domain"
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Tag.png?raw=true">         
                                                                                                        
 The aura evoked with associations between objects and those that have died can manifest in purely empathic ways: a sense of awe[^12], empathy, dread[^66] closeness to celebrity or charismic authority[^15], morbid fascination[^66], respect[^25], historical authentication[^15][^20] or nostalgia[^6][^15]. This is particularly notable in celebrity possessions and memorabilia, from Theresa Tang’s watches[^20] to tickets to a David Bowie concert[^76], to a Manson family quilt[^15]. Objects act as material nodes in the entanglements between people, in which the charisma of the dead lingers through the objects were associated with.
 <param ve-image 
-       label="Creepiness" 
-       description="Test3" 
+       label= This image draws from the lighting cues of plays and movies in order to evoke a sense of creepiness in the various earring models.
+       description="The lighted models were created and lit in the 3D modelling software Blender 2.93.5. They were then arranged against a black background in the photoediting software GIMP 2.10.22." 
        license="public domain"
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Creepy%20Lighting.png?raw=true">      
 <param ve-image 
-       label="Specialness" 
-       description="Test3" 
+       label="Using a visual conceit derived from video games, these models are produced with an 'inner glow' of various colors to mark them out as special." 
+       description="The models were produced in the 3D modelling software Blender 2.93.5 and rendered in Eevee. Both inner glow and arrangement were them produced in the photoediting software GIMP 2.10.22" 
        license="public domain"
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/innerglow2.png?raw=true">                                                                                            
 
 This aura may also have more practical effects, however, particularly in reference to sacred objects that have been empowered by the influences of important or sacred people [^11][^44]. Objects may possess an aura that is empowered to enact material change such as healing[^13][^16][^18], disaster prevention, luck[^16][^48], or harm [^13][^48]. Steph Berns describes the sacred aura of relics and devotional material that were associated with Catholic saints. She describes this aura in terms of ‘holy radioactivity’ or ‘contact relics’ that exist within the relics and can also pass to personal objects that come in contact with the relics or even the reliquaries that house them[^8]. It is a holiness that stems from the associations with saints and/or saintly remains that make these objects conduits of and surrogates for the presence of non-living saints[^8]. The power of these objects can be potent both in the spiritual and emotional plane, but in the material one as well. 
 <param ve-image 
-       label="Halos" 
-       description="Test3" 
+       label="In this image, both illustration, photography, and 3D modelling are deployed in an attempt to represent 'holiness' through the application of halos drawn from religious art. These halos are presented as a way to represent the sacredness of an object and the magical properties that accompany that sacredness." 
+       description="The modelled earrings in this image were produced and lit in the modelling software Blender 2.93.5 and rendered in Eevee. The photograph was taken with a  Nikon D3100 Camera. Halos were produced variously in Blender and the photoediting software GIMP 2.10.22. Gimp was also used to create the illustration and background of the image." 
        license="public domain"
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Halos3.png?raw=true">                                                                                                            
-
-### Visualizing Aura
-
-It is in these most personal experiences that visualization can be most effective, as it provides a way to communicate affective experiences in diverse ways. Objects can be visually enmeshed into webs of related images. Objects can be illustrated in the hands that chart the human biography of an object. Objects can be posed in scenes that evoke, by their imagery, grief, and loss. Real photos can be integrated with 3D models to entangle them with images of their affective experience. Because images are particularly potent in evoking emotion[^41], they can be deployed to that end: overcoming the sterility of traditional applications of images in archaeology.
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Halos3.png?raw=true">                                                                                 
 
 ## III. Objects of Memory
 
