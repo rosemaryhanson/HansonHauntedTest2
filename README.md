@@ -10,7 +10,8 @@ Rosemary Hanson Received October 1, 2021 Citation: Hanson, Rosemary. 2021. "What
 
 Creative Commons Liscence
 
-Rosemary Hanson is X at Y (email) ORCID.
+Rosemary Hanson is a freelance archeological visualization specialist (rosemary.m.hanson@gmail.com) ORCID.
+
 Editorial note: this visual essay is powered by Juncture from JSTOR Labs. On a device, this essay is best viewed in landscape mode; images are triggered when the relevant text reaches the top of the screen.
 
 # What To Do When the Dead Linger: Exploring Hauntedness as a Material Property of Objects
@@ -54,7 +55,7 @@ In my archaeological education, I have spent a great deal of time exploring the 
             
 Bea, somehow, has made this object different. 
 <param ve-image 
-       label="A framed photograph of Bea in which the photograph has been edited to include a halo, a motif from religious art used to denote sainthood. This saintlty photograph posed with the earring is meant to evoke small home shrines to Catholic Saints seen during the childhood of the author." 
+       label="A framed photograph of Bea in which the photograph has been edited to include a halo, a motif from religious art used to denote sainthood. This saintly photograph posed with the earring is meant to evoke small home shrines to Catholic Saints seen during the childhood of the author." 
        description="Photograph was photographed on a smartphone from the original, owned by Bea's cousins, Bill and Marge Richie. The .jpeg file was then digitally edited in the photoediting software GIMP 2.10.22. Images of the frame and earring were taken by a smartphone camera from a Motorolla G8 Power and then edited into the image. " 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/StPhotowithEarring.png?raw=true">
@@ -63,8 +64,8 @@ Bea, somehow, has made this object different.
 
 This is the story of a material property that isn’t. It is not visible, it is not quantifiable, it isn’t even material. And yet, it is experienced (sometimes quite powerfully), and it has effects (sometimes quite dramatic)[^55]. It is the sense that objects are haunted: somehow changed by the persisting agency of the dead; by an intrusion of those gone onto the living experience of the material world, both literally and figuratively. Yet, however potent the effects may be, experiences of hauntedness are still highly personal, subjective, and individual and thus elude the project of objective realism that underpins grounded archeological study. By its affective nature, hauntedness is a sensory experience that cannot be measured, replicated, or recorded, and this makes its study resistive to traditional methods. Yet archeology is uniquely positioned to engage with these points of overlap between the objective and subjective: straddling the sciences, humanities, and social sciences. So, instead of resisting this intersection of objectivity and subjectivity, this paper seeks to engage with it directly: interweaving narrative, image production, and analysis to explore hauntedness as a property of objects. In doing so, I hope not only to define and validate hauntedness as an important aspect of object materiality, but also to encourage creative approaches to the complex, resistive, often immaterial materiality of objects.
 <param ve-image 
-       label="Modelled Earring" 
-       description="Test3" 
+       label="A blender model of the earring spotlit against a grey background. This paper seeks to shine a metephorical spotlight on a single object: an heirloom piece of costume jewelry. The image production in this paper seeks to center this object in its visualizations as a practice of slow archeology, presenting a single object within many different visual-theoretical frames. In doing so, this paper seeks to present a depth of visual approaches to small object visualization." 
+       description="3D model of a clip-on earring, produced in Blender 2.93.5. This image was produced using a spotlight and a plane in addition to the earring mesh and was rendered using Eevee." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/spotlight12.1.png?raw=true">
        
@@ -72,29 +73,29 @@ This is the story of a material property that isn’t. It is not visible, it is 
 
 To ask whether hauntedness is real is to ask the wrong question. The afterlife is a topic for philosophers, theologians, neuroscientists, and metaphysicians - and so I leave it to them. Instead, this paper approaches hauntedness through the lens of Material Culture Studies, in which material identities are co-constituted in the relationships between people and objects[^34][^36][^71]. Physical attributes and social attributes both converge in the perception of the world and reality is constructed on this intersection [^19][^24][^34][^55]. Within this frame, it doesn’t matter if the dead actually linger on the material plane. If reality is constructed around a metaphysics that includes hauntedness as a material property of the world, then individuals will interact with that world in reference to hauntedness [^28]. As such, it is real enough. The mind is not so neatly separated from the body [^47][^65]; placebos, after all, can still heal the sick [^7]. 
 <param ve-image 
-       label="Reactions to Earring" 
-       description="Test3" 
+       label="Here, a traditional archeological illustration is posed with two hands in a posture of recoil. Though this gesture is culturally contingent, so too is the reaction of trepidation, disgust, fear, or surpirse that an object may evoke. It is a gesture that is consistant with western reactions to hauntedness." 
+       description="The earring illustration was produced in a photoediting software GIMP 2.10.22, using both a manually produced illustration and a photograph as references. Hands were then traced by the author in GIMP."
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Recoil%20Hands.png?raw=true">
 
 Hauntedness is therefore a subjective property of object materiality. It is a property in which the dead imbue matter with agency. This agency may be physical [^3], magical [^28][^55][^75], and/or emotional[^30][^38], but it is a power that emerges from biographical associations between people and things [^34][^42]. It is a persistence of entanglement between the dead, the living, and material objects in a panoply of configurations across time and space[^30][^71].In this sense, haunted objects are a prime example of mixtures[^71] or bundles[^4]. They are both subject and object, human and nonhuman, real and unreal, effected by and effecting human consciousness, and full of contradictions and bifurcations[^71]. They make the social physical and the physical social[^4], entangling, mixing, and distributing human consciousness and object materiality[^33]. They compress and distort time and disrupt the neat separation of past, present, and future[^30][^67]. 
 <param ve-image 
-       label="Web of Association" 
-       description="Test3" 
+       label="Here, a photograph of the earring is enmeshed in a tangle of associations between past people, current people, objects, and academic persuits as a means of visualizing the earring as a node in a much broader entanglement. The images present Bea as she lived, a framed photograph of Bea, a photograph of the author now and at around the time of Bea's death, as well as models and illustrations produced over the course of this project."
+       description="Images were taken from the personal collections of the author as well as the photographic collections of Bea's relatives, Bill and Marge Richie and Amy Hanson. They were then compiled in the photoediting software GIMP 2.10.22." 
        license="public domain"
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Web.png?raw=true"> 
             
 It is precisely because haunted objects offer such a rich and complex materiality that they are useful for engaging archaeological theory. They provide an example of object agency derived from human subjects, yet at varying levels of perceived intentionality[^4][^71]. They are vibrant matter, but it is a vibrancy that primarily springs from supernatural or affective sources as opposed to the materials of the objects themselves [^36][^55]. They are entangled, not only in “webs of life” [^37], but webs beyond life, where the dead remain entangled in the world[^74] through their objects. Objects become links in a chain to nothing that nevertheless still hold the shape of that enchainment like a phantom limb [^4][^24]. Perhaps most fascinatingly, this resistant materiality can have a material expression. Haunted objects may evoke a sensory experiences that are both powerfully perceived and culturally constituted [^3][^2][^44][^49], complicating the frame of what constitute sensory approaches in archaeology. 
 <param ve-image 
-       label="Connected by Objects" 
-       description="Test" 
+       label="This image presents a metephorical visualization of the the ways in which objects act as nodes in social relationships, connecting human actors." 
+       description="Image was produced in the photoediting software GIMP 2.10.22." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Holding%20Hands3.png?raw=true"> 
             
 Yet for all that these objects can enrich explorations of object materiality, they exist on the fringe of archaeology. They are, after all, superstitious objects, displaying a materiality that exists outside the natural sciences and the objective goals of processual archaeology [^10][^19]. Haunted objects appear to embody a form of “magical” thinking that is seen as decidedly unmodern, unenlightened, uneducated, and irrational[^2][^55][^28][^75]. Hauntedness, along with magic, folklore, and superstition are therefore relegated to the outskirts of the discipline[^16][^19], or worse still, left to the purview of pseudo-archaeology in its hunt for ghosts, curses, aliens, and monsters[^9][^32][^75]. Moreover, explorations of hauntedness might appear to skirt the symbolic and psychoanalytic approaches of post-processualism, focusing on the meaning of things [^37][^38]; a particularly fraught project when no resources are available for emic analysis[^10].
 <param ve-image 
-       label="Superstitious Objects" 
-       description="Test" 
+       label="This image attempts to present the earring in a "sinister light." Drawing from films, plays, and other visual media, this image uses red light as a visual metaphor for evil." 
+       description="This image was produced using the 3D modelling software Blender 2.93.5. Ir was produced using a red-tinted spotlight and a plane in addition to the earring mesh and was rendered using Eevee" 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/GhostsIllustration2.png?raw=true"> 
             
