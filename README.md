@@ -289,47 +289,50 @@ This aura may also have more practical effects, however, particularly in referen
 
 A third distinct definition of hauntedness in objects, is when objects are imbued with memory. In these objects, a key material property of an object is the way in which it can evoke memories of the dead. It is therefore a referential agency: these objects are not conduits for the agency of the dead so much as they are surrogates for them[^30]. Within the affective turn, memory is a potent element of object materiality[^38] in which past and present interact, overlap, and disrupt one another [^30]. The biography of such memory objects constitutes a concretion of events, actions, objects, people, memory, time, and emotion into a physical referent[^38][^71]. And while these objects may be a “repository of collective memory” [^19], they may also be a site of “relentless remembering” [^67], that evoke memories involuntarily[^30] as associated neural networks activate one another[^50]. Memory acts through an object, as the biographical associations materialize as a powerful, personal, and emotional experiences of objects.
  <param ve-image 
-       label="Reflected Object" 
-       description="Test3" 
+       label= "Objects, specifically heirlooms, seem to retain associations with people, with the ability to provoke remembering built into their very fabric."
+       description="This image was produced from a 3D model produced in the modelling software Blender 2.93.5 and rendered in Eevee. The photo was then imported into the photoediting software GIMP 2.10.22 where it was layered with a photograph of Bea from the collection of Bill and Marge Richie." 
        license="public domain"
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/reflection3.png?raw=true">                                                                                               
 
 In one way or another, all objects act as sites of memory[^51], but some objects have a particular potency in their associations with the dead. Roberta Gilchrist points to heirlooms, particularly as prompts for autobiographical memory. She links them to Mauss’s concept of inalienable objects that absorb the essence of the giver [^19]. In the most literal sense, they reflect the taste of the original owner, extending their material judgements beyond their lifespan[^20]. Yet they may also take the place of the dead, becoming the new site of memory and comfort when the human link is severed[^51]. Not only do they testify to the past [^15], but through this capacity to store and trigger memory[^30][^51] they allow the past to persist and the dead to remain entangled with the living. Thus, they are sites of haunting: not the literal vessels for spirits or conduits for undead power, but as tools through which the dead can be reanimated through the act of remembering. They are tools that allow a return to a time before death[^30], and so keep the dead alive in affective experiences of the present.
  <param ve-image 
-       label="Reconstruction of earring worn by both the author and the original owner" 
-       description="Test3" 
+       label="Reconstruction of earring worn by both the author and the original owner, Bea" 
+       description="This illustration was produced in the photoediting software GIMP 2.10.22 from photographs of both Bea and the author." 
        license="public domain"
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/FaceOff4.png?raw=true">       
  
 It is in this way that Bea’s earring is haunted, and why it seems to stand out against the drab backdrop of my jewelry box: not because it exudes magic or harbors a ghost, but because it is a site of memory. Yet, when I hold this little thing, it feels heavy in my hand, as if infused with the weight of remembering. Somehow, in owning it, I can erase death and decades and reanimate that love that lingers in the shape of her. 
 <param ve-image 
-       label="Presence and Absence" 
-       description="Test3" 
+       label="This image reconstructs three hands from the biography of this object. The first is the hand of a North American woman in her early 80s, the second is the hand of a North American child of around 5-years-old, and the third is the hand of the author herself, in her late 20s. All hands were reproduced with consent. This image provides a contrast between the hands that interacted with the object in the past, and those interacting with it now." 
+       description="This illustration was produced in the photoediting software GIMP 2.10.22 from photographs of the hands of the participants." 
        license="public domain"
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/presence%20and%20absence2.png?raw=true">
                                                                                                       
 Bea is dead, and I know that better than most. From the dispassionate detachment of prolonged excavation experience, I know that she is now a layer of grey ash in the dark, wet soil of a mid-range graveyard. Who knows how many great aunts have come under my trowel; their things bagged up and sent to storeroom basements. I deal in the science of death and loss and things decaying. I know how to measure bones and photograph coffin furniture and draw the little objects left behind. So, I really should know better. Decluttering is the fashion, now, and between moves and cleanouts and therapy sessions centered around my emotional relationship to stuff, I should have disposed of this little piece of kitsch long ago. I should have accepted that death is the end, that “acquits us of all obligations”
-            
+ <param ve-image 
+       label="This family photo, from the collection her cousins Bill and Marge Richie, shows Bea within the network of family and friends. These are the people who now remember her through the objects we inherited from her." 
+       description="Family photo from the collection of Bill and Marge Richie." 
+       license="public domain" 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Bea7.jpg?raw=true">                                                                                                                                                                                                                                    
 But I don’t want to. To throw it away would be “an act of deliberate amnesia”[^51], and I am not yet ready to forget. I do not want to exorcise this ghost from my life but instead I want to remember and in remembering, to keep her here. I want to let this little earring stay unmolested in a drawer until my memory fades and it becomes just glass again.
 <param ve-image 
-       label="Resistance to Letting Go" 
-       description="Test3" 
+       label="This image is meant to evoke the strangeness of clinging to a link that is not there. Objects become a surrogate for the humans that were once connected to them and, in keeping them, we keep the shape of an obligation that no longer exists." 
+       description="This image was produced with the photoediting software GIMP 2.10.22 " 
        license="public domain"
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Holding%20Hands8.png?raw=true">                                                                       
                                                                                                          
 I want to remain haunted.
-<param ve-image 
-       label="Resistance to Letting Go" 
-       description="Test3" 
+       label="This image is meant to evoke the strangeness of clinging to a link that is not there. Objects become a surrogate for the humans that were once connected to them and, in keeping them, we keep the shape of an obligation that no longer exists." 
+       description="This image was produced with the photoediting software GIMP 2.10.22 " 
        license="public domain"
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Holding%20Hands8.png?raw=true">       
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Holding%20Hands8.png?raw=true">      
                                                                                                          
 # Conclusion
 
 The dead haunt us all in different ways: figuratively, literally, or somewhere in between. They mediate our relationships with things: their agencies bursting through the material world in unique disruptions of time and space. It is not our job as archaeologists to capture these ghosts, but to leave space for them. Yet, if we are to tackle these resistive objects, it is vital to engage them in resistive ways: to make art, to tell stories, and to lay bare our own failings in rationality. After all, archaeology does not put the dead to rest but unsettles them, re-vives them, and weaves them back into life. If we are in the business of telling ghost stories, we should at least tell them well. 
 <param ve-image 
-       label="Objects Casting Shadows" 
-       description="Test3" 
+       label="Objects cast long shadows, both literally and metephorically. These metephorical shadows may be far larger and more evocative than the objects themselves, and are vital to understanding the effects of materiality on our experiences of the world. To represent objects as purely objective packets of materials is to represent them without dimensionality." 
+       description="This image was produced and lit in the digital 3D  modelling software Blender 2.93.5 and rendered in Eevee." 
        license="public domain"
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/shadowsquare2.png?raw=true">
                               
