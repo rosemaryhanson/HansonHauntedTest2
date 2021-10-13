@@ -26,7 +26,7 @@ Editorial note: this visual essay is powered by Juncture from JSTOR Labs. On a d
        
 This is a story of an earring. 
 <param ve-image 
-       label="Photograph of an Earring (Modern)" 
+       label="Photograph of a clip-on earring from the late 20th century comprised of a brass mount and glass gems. Currently in the possession of the author, inherited from a female relative in the late 1990s. Photograph taken by the author, and then the views were edited together by same." 
        description="Photograph of a clip-on earring from the late 20th century comprised of a brass mount and glass gems. Currently in the possession of the author, inherited from a female relative in the late 1990s. Photograph taken by the author, and then the views were edited together." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Gem%20Photograph.png?raw=true">
@@ -242,7 +242,7 @@ The second definition of hauntedness relates to objects that are imbued with an 
        label="Objects in Museums" 
        description="Test3" 
        license="public domain"
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Museum%20Case.png?raw=true"> 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Museum%20Case2.png?raw=true"> 
 
 Aura is a long-established concept in Museum Studies as an element of object materiality, drawing from the work of Walter Benjamin [^12][^21][^68]. Yet it is one that is strikingly subjective, contingent, and affective[^12][^31]. It is a quasi-magical potency or charisma to evoke awe and reverence in the viewer[^12][^25]. While the physical properties of an object, such as patina or damage, are relevant to these experiences of awe[^12], the foundations of the auratic experiences lie outside the physical properties[^31], or even the authenticity[^17] of the objects themselves. In that sense, aura is a feeling of entanglement that manifests as a sense of magical agency, charge, or energy[^16][^44]. Yet, despite the subjective bordering on magical aspect of aura, it is an aspect of object materiality that is widely accepted as worthy of study, in part due to its role in legitimizing the museological project[^12]. 
 <param ve-image 
