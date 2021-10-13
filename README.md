@@ -184,15 +184,15 @@ Image production (as well as storytelling) holds the capacity to engage with tim
 
 This paper will highlight 3 types of hauntedness that exist along a spectrum of rationality, intentionality, and materiality: possession, aura, and memory. These three types of hauntedness represent an organizational conceit rather than a categorical, exhaustive, or static scheme. After all, one type of materiality does not preclude others – occulted or otherwise[^55]. These three are presented instead to illustrate the diverse ways objects provoke human affectivity and affect human perceptions and actions [^24][^38].
 <param ve-image 
-       label="Three Forms of Hauntedness" 
-       description="Test" 
+       label="A visual outline of the three case studies to come: possession, aura, and memory." 
+       description="This image was produced using the photoediting software GIMP 2.10.22."
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/3%20Forms%20of%20Hauntedness2.png?raw=true"> 
 
 Hauntedness may therefore be quite literal, where objects are possessed by an affecting agent directly. It is an occulted materiality that is most decidedly supernatural[^55], in which ghosts and spirits of the dead act directly upon the living in material ways[^55]. Yet, hauntedness need not be so direct, with objects providing a conduit for aura, or non-living agency. Here, the dead themselves do not act upon the living, but imbue objects with a magical potency to act. Hauntedness may even be figurative, as an object triggers memory and emotion associated with the dead. This type of hauntedness encompasses the idea of spectrality: the spatio-temporal memory of an object, but this affectivity may not be entirely in the control of those in whom emotion and memory is provoked [^30]. Though aspects of hauntedness need not be mutually exclusive, this paper will examine each separately as a case study in exploring hauntedness using creative approaches. 
 <param ve-image 
-       label="Three Forms of Hauntedness" 
-       description="Test" 
+       label="A visual outline of the three case studies to come: possession, aura, and memory." 
+       description="This image was produced using the photoediting software GIMP 2.10.22."
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/3%20Forms%20of%20Hauntedness2.png?raw=true"> 
        
@@ -200,48 +200,48 @@ Hauntedness may therefore be quite literal, where objects are possessed by an af
 
 The first definition of hauntedness is the most literal: that of possession. Possession here is defined as the belief that an object is inhabited by a non-corporeal agent and imbued with the direct agency of the non-living. Often (though not exclusively) human, these actors are perceived by the senses: sight, smell, sound, touch, or even taste [^3] 580-1; [^2][^44][^49][^75]. A key affordance of these objects is their ability to house and/or facilitate direct encounters with the supernatural in a way that can be physically experienced – and to believers, photographed and measured [^3][^2]. These experiences are the acts of specific agents who – within the metaphysics of hauntedness – exist in the perceivable world [^3]. 
 <param ve-image 
-       label=The Ghost of Bea" 
-       description="Test3" 
+       label="In this image, a photograph of Bea has been layered into a photograph of the earring to produce a ghost-like image, reminiscent of the early ghost photography of William Mumler [^2]." 
+       description="The photograph of Bea was taken from the collection of Bill and Marge Richie, and then layered over a photograph of the earring in the photoediting software GIMP 2.10.22." 
        license="public domain"
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Ghost%20Bea4.png?raw=true"> 
-       
+<param ve-image 
+       label="In this image, a photograph of Bea has been layered into a photograph of the earring to produce a ghost-like image, reminiscent of the early ghost photography of William Mumler [^2]." 
+       description="The photograph of Bea was taken from the collection of Bill and Marge Richie, and then layered under a photograph of the earring in the photoediting software GIMP 2.10.22." 
+       license="public domain"
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Ghost%20Bea3.png?raw=true">                                                                                               
 Belief in ghosts and spirits is hardly antiquated or remote but remains a persistent part of modern life around the world[^11][^44][^55][^75]. In a 2005 Gallup poll, 49% of American adult respondents expressed a belief in ghosts, 39% expressing a belief that places could be haunted, and 22% reporting having lived in a place they believed to be haunted[^3]. Even those who don’t believe in ghosts and spirits recognize the effects that these beliefs have on the material world: even the sedate context of property law recognizes hauntedness as a factor that can affect the resale value of a houses [^69]. 
 <param ve-image 
-       label="Ghost Orbs" 
-       description="Test3" 
+       label="Ghost orbs are an element of modern ghost hunting, in which orbs caused by photographic backscatter are interpreted as images of the dead, an effect here reproduced in photoediting software." 
+       description="The image was taken with the smartphone camera of a Motorolla G8 Power, and then edited with the photoediting software GIMP 2.10.22." 
        license="public domain"
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Ghost%20Orbs5.png?raw=true"> 
 
 Hauntedness is, perhaps unsurprisingly, particularly prevalent within cultural heritage contexts. By far, the dominant representation of archaeological objects in modern cinema is in reference to their supernatural aspects[^32] and the media surrounding ghosts and hauntings has ballooned in recent years [^3]. More recently, the “spinning statuette” at the Manchester Museum was interpreted by the public as a “potential vessel for the spirit of a deceased ancient Egyptian” (among other interpretations). This led to a massive uptick in interest, popularity, speculation, enthusiasm, and museum attendance[^75]. The British Museum has also faced difficulty dispelling ideas of a “mummy’s curse” and malevolent spirits that linger around a 21st or 22nd dynasty mummy in their collection[^48]. 
 <param ve-image 
-       label="Ghost Model" 
-       description="Test" 
+       label="A common representation of ghosts and spirits in popular culture is as a dark, out-of-focus figure. Thus, a spectral figure is layered into the background of an archeological model in order to convey the sense that the object is a conduit for the agency of the dead." 
+       description="The modelled earring was produced in the 3D modelling software Blender 2.93.5 and then layered over a background produced in the photoediting software GIMP 2.10.22." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/hauntedghost2.png?raw=true">
 
 Places, too, often become the residence of ghosts and spirits, such as The Historic Cornwall Jail in Cornwall, Ontario, which advertises visitor experiences with hauntings. Visitors, staff, and paranormal investigators attest to both seeing and hearing paranormal actors [^49]. Mariana Lamas and Eduardo Giménez-Cassina outline instances of museum sites and objects that are perceived as haunted or have had paranormal incidents in the past few decades[^44]. So popular is this connection between heritage and possession, that a whole industry of dark tourism and ghost tours has sprung up around those seeking encounters with the dead [^3][^66].
 <param ve-image 
-       label="A Sense of Evil" 
-       description="Test" 
+       label="Glowing red eyes leering out of the darkness is a common trope in popular media around hauntings, here it is used as a visual metephor for a sense of fear and forboding that may surround objects percieved as haunted." 
+       description="The modelled earring was produced in the 3D modelling software Blender 2.93.5 and then layered over a background produced in the photoediting software GIMP 2.10.22." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/eye%20glow%2010.png?raw=true">                                                                      
                                                                                                         
 <param ve-image 
-       label="Another Sense of Evil" 
-       description="Test" 
+       label="Glowing red eyes leering out of the darkness is a common trope in popular media around hauntings, here it is used as a visual metephor for a sense of fear and forboding that may surround objects percieved as haunted." 
+       description="The modelled earring was produced in the 3D modelling software Blender 2.93.5 and then layered over a background produced in the photoediting software GIMP 2.10.22." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/eye%20glow%206.png?raw=true">        
 
 Archaeologists are not immune from experiences with “other-than-human beings”[^67] and ghosts[^2]. In the most literal sense, heritage professionals are often called upon to engage with public experiences of hauntedness[^22][^44][^75]. Yet, on a more personal level, archeologists have been entangled with experiences of hauntedness. The history of archeology is one that is entwined with the spiritualist movement, with some early investigators deploying psychometry, psychics, biometers, and automated writing as part of archaeological research[^2]. Even as these methods fell out of favor in the scientific community, many still espoused beliefs in the occult in their personal life, even as spirits disappeared from publication[^2]. Even now, when the paranormal is publicly denounced as harmful to the discipline[^32], there are still occasional allusions to such experiences among heritage professionals [^44][^49][^67]). Sitting around the sherd bucket at the end of the day, I have heard many a tenured professor tell stories of things falling in storerooms, footsteps in empty hallways, and dark shapes in the night. In those moments of comradery, I might even betray my own moments of supernatural discomfort, quickly dismissed yet nevertheless persistent in my memory. There is clearly something in this experience of hauntedness that resists.
 <param ve-image 
-       label="Engulfing Darkness" 
-       description="Test" 
+       label="Another popular visual association with hauntedness is that of darkness. Here, a rising darkness is shown consuming the object in an attempt to evoke a sense of rising dread that may accompany objects percieved as haunted." 
+       description="The modelled earring was produced in the 3D modelling software Blender 2.93.5 and then layered between backgrounds produced in the photoediting software GIMP 2.10.22." 
        license="public domain" 
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/hauntedghost1.png?raw=true">
-                                                                                                      
-### Visualizing Possession
-
-Because these are hauntings in the most literal sense, they are the easiest to visualize; there is a rich tradition of artistic representations of ghostly spectres that can be drawn from to render the immaterial into a familiar image. The classic “bedsheet” ghost that originated from the funerary practices of the European Middle Ages[^14] is a now ubiquitous cliché of hauntedness. As such, it can act as a visual shorthand for hauntedness, such as the renderings of Egyptian Shaitan added to images of Egyptian archaeology[^22] or the ‘ghost orbs’ photographed by American paranormal investigators [^3]. Transparent figures are another familiar visual convention which emerged in the 18th and 19th century[^58]. This conceit allows for the inclusion of any number of limbs or figures with the clear recognition of their phantasmagorical character. Yet this visual invocation of hauntedness need not be so explicit. Reflecting an image off the glass of the earring can more subtly allude to a sense of presence.  
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/hauntedghost1.png?raw=true"> 
 
 ## II. Object Aura
 
