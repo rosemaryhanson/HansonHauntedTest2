@@ -52,6 +52,11 @@ In my archaeological education, I have spent a great deal of time exploring the 
        description="Model meshes were sculpted from scratch using photographic references. Blender 2.93.5 was deployed after photogrammetric approaches failed due to the transparent, reflective materiality of the glass gems. Rendered images were then posed together using photoediting software GIMP 2.10.22." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Model%20Spread2.png?raw=true">
+<param ve-image 
+       label="Detail of the 3D mesh in Blender 2.93.5."
+       description="Screenshot of Blender 2.93.5 screen while editing the earring model mesh." 
+       license="public domain" 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Model%20Spread2.png?raw=true">
             
 Bea, somehow, has made this object different. 
 <param ve-image 
@@ -118,22 +123,32 @@ In failing to recognize these relational frameworks, my own experience of a haun
 
 In exploring hauntedness as an immaterial material property of objects, tools for quantification are clearly inappropriate. Indeed, attempts to measure and record evidence of ghosts and spirits quickly diverge into the realms of ghost hunting [^3], spiritualism[^2], and pseudo-archeology[^9][^32]. Instead, subjective questions require a more subjective toolkit: one that engages this subjectivity, as opposed to resisting or obscuring it[^70]. This paper deploys two such tools to explore hauntedness as a material property of objects. The first is auto-ethnographic storytelling [^3][^30][^38], and the second is visual artistic practice[^22][^30][^70]. In doing so, I seek to demonstrate the ways that creative practice can be deployed to enrich more traditional forms of analysis.
 <param ve-image 
-       label="Photogrammetric Data" 
-       description="Test" 
+<param ve-image 
+       label= "Photographs taken of this earring were not able to produce a photogrammetric 3D digital model due to the materiality of the earring itself. The clear, reflective surface of both the glass and brass resulted in point clouds and models with a diffused, etherial, and distorted shape." are, and exported to Meshlab." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/dot%20ghost.png?raw=true"> 
+<param ve-image 
+       label= "Photographs taken of this earring were not able to produce a photogrammetric 3D digital model due to the materiality of the earring itself. The clear, reflective surface of both the glass and brass resulted in point clouds and models with a diffused, etherial, and distorted shape." 
+       description= "This photogrammetric data was produced from images taken on a Nikon D3100 Camera and compiled in Cloud Compare." 
+       license="public domain" 
+       url= https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/point%20ghost.png?raw=true> 
+<param ve-image 
+       label= "Photographs taken of this earring were not able to produce a photogrammetric 3D digital model due to the materiality of the earring itself. The clear, reflective surface of both the glass and brass resulted in point clouds and models with a diffused, etherial, and distorted shape." 
+       description= "Photogrammetric data was compiled into a mesh and exported to Blender, but resulted in a distorted mesh." 
+       license="public domain" 
+       url= https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/2021-07-07%20(3).png?raw=true> 
 
 Drawing from anthropology, the use of auto-ethnographic storytelling is quite commonplace in the discipline, and has been very effectively deployed to explore affective aspects of memory [^30][^43], ruination[^60], materials [^34][^36], etc. This mode of engagement is particularly appropriate in relationship to haunting, as first-hand accounts of haunting experience are a key element of ghost belief [^3]. Moreover, ghosts and hauntings frequently appear as a conceptual metaphor in heritage study in reference to things that are abandoned, concealed, or suppressed[^2]. In the logocentric context of professional academia[^40], auto-ethnographic storytelling is the logical creative extension for archeological analysis, but this reflexivity is hardly the exclusive remit of the written word.
 <param ve-image 
-       label="Auto-Ethnography" 
-       description="Test" 
+       label="Photograph of the process of producing the auto-ethnographic account for this object." 
+       description="Photograph taken with the camera from a Motorolla G8 Power smartphone." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/writing.jpg?raw=true"> 
             
 Image production offers a different form of storytelling, but one in which the discipline is far less comfortable[^70]. Though social sciences, and particularly anthropology, have begun experimenting with new visual modes of engagement[^29], images are often still treated with suspicion or hostility [^53][^70]. Though a visually rich discipline [^64][^70] exposed to an increasingly rich visual media landscape[^61], archeology often struggles with visual literacy[^32][^40][^59][^63][^70]. There are fears that images are overly subjective in production[^52], interpretively unstable [^40][^70][^61], and able to achieve a false sense of authority, concealing nefarious theoretical or political intentions behind pleasant aesthetics[^32][^40][^53][^54][^52]. If the visual is associated with the real and objective[^55] and archeological images are expected to present authoritative and accurate depictions of the world [^70] any deviance from realism is a necessarily a betrayal of truth.
 <param ve-image 
-       label="Failed Photogrammetric Capture" 
-       description="Test" 
+       label="Archeological illustration of the earring, produced in the standard arrangement of views and classic diagrammetric style drawn from the natural sciences."
+       description="Digital archeological illustration was produced in GIMP 2.10.22 from a digitized mannual illustration and photographs." 
        license="public domain" 
        url= https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Collected%20Illustration2.png?raw=true> 
             
@@ -146,22 +161,22 @@ These fears are not unfounded, but stem from a foundational naiveté around what
             
 Yet each of these concerns can equally be levied at the written word: written analysis of objects is culturally contingent [^34][^73], words are frequently misinterpreted by audiences[^75], and articles are published with explicit theoretical (and implicit political) agendas. The difference here is simply one of literacy: archeologists are comfortable in textual analysis, but not in visual analysis[^32][^59]. Furthermore, these concerns over images are not without their paternalistic undertones. Images are widely popular and accessible – often more so than words[^32][^61]. If even children can see and comprehend an image[^29][^40], how then can the public be trusted to come to the “correct” conclusions?
 <param ve-image 
-       label="Word Cloud" 
-       description="Test" 
+       label="Object illustration is presented as part of a logocentric method of classification. In this image, words are still the primary mode of commuication with the illustration taking a secondary, almost decorative roll." 
+       description="This image was produced using the photoediting software GIMP 2.10.22. Earring illustration produced from manual illustrations and photographs." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Word%20Cloud.png?raw=true"> 
             
 Yet it is because of this very subjectivity that images can be useful to engage with more culturally contingent questions. Images facilitate the “ability to explore subjective, problematic, personal, empathic, emotional and un-quantifiable elements of archeological material that is not available to scientific approaches”[^70]. Making images of archeological material facilitates a different type of interaction with artefacts. It encourages a different style of looking and seeing[^29], slowing down and focusing engagements with archeological material[^53] and structuring interpretations of the archeological record[^53][^70]. Making images of archeological material allows for an interaction that is distinctly personal, embodied, and intentional[^29][^53] and therefore one which highlights different visual data than traditional recording tools such as photography or photogrammetry[^29].
 <param ve-image 
-       label="Object in Hand" 
-       description="Test" 
+       label="One of the simplist means of incorporating the subjective roll of the archeological illustrator into the image production is to literally include the illustrator in the image, in this case as a posed hand holding the object." 
+       description="This image was produced using the photoediting software GIMP 2.10.22 from photographs of the author's hand and the earring." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Earring%20in%20hand4.png?raw=true"> 
             
 Image production (as well as storytelling) holds the capacity to engage with time, both in the temporal experience of making, and the ways in which time can be compressed into a single image[^29][^30][^53]. It allows for a more open-ended exploration of personal involvement, intuition, and affective experience[^63], and in doing so, offers a resistive means of knowledge production[^63][^70]. Yet these new and resistive ways knowledge production should not be seen as a replacement for traditional approaches to archeological material. Objective techniques are powerful and valuable in addressing objective questions. Yet these tools prove insufficient to examine the full spectrum of materiality. Instead, more subjective, creative approaches serve as a supplement to the existing approaches in archeology: offering access to new types of data to enrich the archeological record [^5][^70].
 <param ve-image 
-       label="Object in Hand" 
-       description="Test" 
+       label="The resistive agency of objects is not something that can be quantified, but it is nevertheless an element of of object materiality that archeology is deeply interested in. Attempting to visualize this aspect of object materiality highlights the curious metephorical materiality of archeological theory in which words shape the ways that objects are understanding in a highly abstracted form of analysis." 
+       description="Earring mesh was produced using the 3D modelling software Blender 2.93.5 and then the rendered image was imported into the photoediting software GIMP 2.10.22 and the halo was added there." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/halo2.4.png?raw=true"> 
 
