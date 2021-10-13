@@ -94,23 +94,23 @@ It is precisely because haunted objects offer such a rich and complex materialit
             
 Yet for all that these objects can enrich explorations of object materiality, they exist on the fringe of archaeology. They are, after all, superstitious objects, displaying a materiality that exists outside the natural sciences and the objective goals of processual archaeology [^10][^19]. Haunted objects appear to embody a form of “magical” thinking that is seen as decidedly unmodern, unenlightened, uneducated, and irrational[^2][^55][^28][^75]. Hauntedness, along with magic, folklore, and superstition are therefore relegated to the outskirts of the discipline[^16][^19], or worse still, left to the purview of pseudo-archaeology in its hunt for ghosts, curses, aliens, and monsters[^9][^32][^75]. Moreover, explorations of hauntedness might appear to skirt the symbolic and psychoanalytic approaches of post-processualism, focusing on the meaning of things [^37][^38]; a particularly fraught project when no resources are available for emic analysis[^10].
 <param ve-image 
-       label="This image attempts to present the earring in a "sinister light." Drawing from films, plays, and other visual media, this image uses red light as a visual metaphor for evil." 
-       description="This image was produced using the 3D modelling software Blender 2.93.5. Ir was produced using a red-tinted spotlight and a plane in addition to the earring mesh and was rendered using Eevee" 
+       label="The classic 'bedsheet' ghost that originated from the funerary practices of the European Middle Ages[^50] is a now ubiquitous cliché of hauntedness. As such, it can act as a visual shorthand for hauntedness, such as the renderings of Egyptian Shaitan added to images of Egyptian archaeology [^33]. In this image, a ghost is produced in a purposefully cartoonish way, visually signalling its metephoric, as opposed to literal, aspect. Yet it is this very cartoonish, childish, populist representation of haunting that archeologists resist in their analysis of objects. It is therefore an image of what archeologists fear: that in exploring immaterial materialities of objects, they depart from a scientific, rational, and grounded study of the past."
+       description="This image was produced using the photoediting software GIMP 2.10.22." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/GhostsIllustration2.png?raw=true"> 
             
 This paper does not seek to embark on such a project of meaning making (much less a project of ghost hunting). This paper instead seeks to recognize hauntedness as part of the “murk[y] middle ground” in explorations of folk ritual beliefs [^10]. It is a sphere of causality that exists in tandem with objective causality[^55]. By dismissing it, we may “build false assumptions about what the ‘real world’ is like”[^28], secularizing, rationalizing, and suppressing the often powerful effects of heritage[^11][^55]. As we collect a library of sensory experience through which to examine objects [^26][^27][^35], a focus on the physical senses alone may well be inconsistent with the ontologies that framed (and frame) the experience of the material world[^11][^28]. In failing to recognize that sensory experiences may be informed by these deep spiritual, cultural frameworks, we are doomed to an idea of sensitivity that is sanitized and one-dimensional. 
 <param ve-image 
-       label="Fully Dimensional Objects" 
-       description="Test" 
+       label="3D modelling is often touted for its ability to present object dimensionality more accurately than ever before: that it improves the accuracy of representation. Yet it also facilitates a creative approach to object materiality, allowing for the modeller to play with lighting, angle, texture, material, etc. and in doing so, explore the affective dimensionality of objects. These creative approaches to staging, mood, evocation, etc. can allow for deeper explorations of both social and physical dimensionalities in a way that is both flexible and accessable." 
+       description="This image was produce in Blender 2.93.5 using a spotlight and a plane in addition to the earring mesh and was rendered using Eevee. " 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/spotlight1.png?raw=true"> 
 
 In failing to recognize these relational frameworks, my own experience of a haunted object simply does not exist.  
 
 <param ve-image 
-       label="Experiencing Hauntedness" 
-       description="Test" 
+       label="The use of transparent figures to represent spirits or ghosts emerged in the 18th and 19th century[^51], and is deployed here as a visual metephor for the ways in which objects remain a link between people, even after death." 
+       description="This image was produced using the photoediting software GIMP 2.10.22." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Holding%20Hands5.png?raw=true"> 
 
@@ -139,8 +139,8 @@ Image production offers a different form of storytelling, but one in which the d
             
 These fears are not unfounded, but stem from a foundational naiveté around what images can and can’t do[^70]. Images cannot be perfect, objective representations of an object [^64] Images and image-making are culturally, socially, and perceptually relative[^52], not to mention dependent on the skill, knowledge, and experience of the artist[^64]. Moreover, viewers will apply their own prejudices as they interpret art [^40][^70] and these will change and shift over time and context[^61]. And images cannot be innocent: they have agendas as part of their _raison d’etre_[^52][^64]. 
 <param ve-image 
-       label="Duplicitous Object" 
-       description="Test" 
+       label="This image attempts to present the earring in a 'sinister light' Drawing from films, plays, and other visual media, this image uses red light as a visual metaphor for evil." 
+       description="This image was produced using the 3D modelling software Blender 2.93.5. Ir was produced using a red-tinted spotlight and a plane in addition to the earring mesh and was rendered using Eevee" 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/spotlight9.png?raw=true"> 
             
