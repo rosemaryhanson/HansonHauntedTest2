@@ -26,22 +26,23 @@ Editorial note: this visual essay is powered by Juncture from JSTOR Labs. On a d
        
 This is a story of an earring. 
 <param ve-image 
-       label="Photograph of Earring" 
-       description="Test" 
+       label="Photograph of an Earring (Modern)" 
+       description="Photograph of a clip-on earring from the late 20th century comprised of a brass mount and glass gems. Currently in the possession of the author, inherited from a female relative in the late 1990s. Photograph taken by the author, and then the views were edited together." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Gem%20Photograph.png?raw=true">
      
 An ugly earring.
 <param ve-image 
-       label="Photograph of Earring" 
-       description="Test" 
+       label="Photograph of an Earring (Modern)" 
+       description="Photograph of a clip-on earring from the late 20th century comprised of a brass mount and glass gems. Currently in the possession of the author, inherited from a female relative in the late 1990s. Photograph taken by the author, and then the views were edited together." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Gem%20Photograph.png?raw=true">
        
 Cheaply made and cheaply bought, it is meant to resemble a queenly diamond in glass and brass. A large, 3 lobed brown jewel sits beneath a crown of small, round, apricot-colored gems in a color palette that now seems a stereotype of the 1970s. These faux diamonds have been haphazardly set into a thin, metal clip that pinches and weighs the ear unpleasantly. It was presumably once part of a pair, but its twin has long ago been lost in the back of a drawer of a relative or the case of a second-hand shop or (most likely) underneath 200ft of West Seattle landfill. It is, without doubt, an object out of place. I keep it in my jewelry drawer, but I have no intention of wearing it. It has no functionalist, aesthetic, or rational role in my life and there is really no reason that I should keep it.
+
 <param ve-image 
-       label="Photograph of Earring" 
-       description="Test" 
+       label="Photograph of an Earring (Modern)" 
+       description="Photograph of a clip-on earring from the late 20th century comprised of a brass mount and glass gems. Currently in the possession of the author, inherited from a female relative in the late 1990s. Photograph taken by the author, and then the views were edited together." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Gem%20Photograph.png?raw=true">
             
