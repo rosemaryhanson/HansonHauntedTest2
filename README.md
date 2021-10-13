@@ -56,7 +56,7 @@ In my archaeological education, I have spent a great deal of time exploring the 
        label="Detail of the 3D mesh in Blender 2.93.5."
        description="Screenshot of Blender 2.93.5 screen while editing the earring model mesh." 
        license="public domain" 
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Model%20Spread2.png?raw=true">
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/2021-08-18%20(3).png?raw=true">
             
 Bea, somehow, has made this object different. 
 <param ve-image 
@@ -277,6 +277,7 @@ The aura evoked with associations between objects and those that have died can m
        description="The models were produced in the 3D modelling software Blender 2.93.5 and rendered in Eevee. Both inner glow and arrangement were them produced in the photoediting software GIMP 2.10.22" 
        license="public domain"
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/innerglow2.png?raw=true">                                                                                            
+                                                                                                             
 This aura may also have more practical effects, however, particularly in reference to sacred objects that have been empowered by the influences of important or sacred people [^11][^44]. Objects may possess an aura that is empowered to enact material change such as healing[^13][^16][^18], disaster prevention, luck[^16][^48], or harm [^13][^48]. Steph Berns describes the sacred aura of relics and devotional material that were associated with Catholic saints. She describes this aura in terms of ‘holy radioactivity’ or ‘contact relics’ that exist within the relics and can also pass to personal objects that come in contact with the relics or even the reliquaries that house them[^8]. It is a holiness that stems from the associations with saints and/or saintly remains that make these objects conduits of and surrogates for the presence of non-living saints[^8]. The power of these objects can be potent both in the spiritual and emotional plane, but in the material one as well. 
 <param ve-image 
        label="In this image, both illustration, photography, and 3D modelling are deployed in an attempt to represent 'holiness' through the application of halos drawn from religious art. These halos are presented as a way to represent the sacredness of an object and the magical properties that accompany that sacredness." 
