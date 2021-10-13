@@ -26,44 +26,44 @@ Editorial note: this visual essay is powered by Juncture from JSTOR Labs. On a d
        
 This is a story of an earring. 
 <param ve-image 
-       label="Photograph of a clip-on earring from the late 20th century comprised of a brass mount and glass gems. Currently in the possession of the author, inherited from a female relative in the late 1990s. Photograph taken by the author, and then the views were edited together by same." 
-       description="Photograph of a clip-on earring from the late 20th century comprised of a brass mount and glass gems. Currently in the possession of the author, inherited from a female relative in the late 1990s. Photograph taken by the author, and then the views were edited together." 
+       label="Photograph of a clip-on earring from the late 20th century comprised of a brass mount and glass gems. Currently in the possession of the author, inherited from a female relative in the late 1990s. Photograph taken by the author and then views were edited together in to adhere to the classic style of archeological presentation."
+       description="Photo taken on a Nikon D3100 in October of 2021. GIMP 2.10.22 was used for image editing." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Gem%20Photograph.png?raw=true">
      
 An ugly earring.
 <param ve-image 
-       label="Photograph of an Earring (Modern)" 
-       description="Photograph of a clip-on earring from the late 20th century comprised of a brass mount and glass gems. Currently in the possession of the author, inherited from a female relative in the late 1990s. Photograph taken by the author, and then the views were edited together." 
+       label="Photograph of a clip-on earring from the late 20th century comprised of a brass mount and glass gems. Currently in the possession of the author, inherited from a female relative in the late 1990s. Photograph taken by the author and then views were edited together in to adhere to the classic style of archeological presentation."
+       description="Photo taken on a Nikon D3100 in October of 2021. GIMP 2.10.22 was used for image editing." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Gem%20Photograph.png?raw=true">
        
 Cheaply made and cheaply bought, it is meant to resemble a queenly diamond in glass and brass. A large, 3 lobed brown jewel sits beneath a crown of small, round, apricot-colored gems in a color palette that now seems a stereotype of the 1970s. These faux diamonds have been haphazardly set into a thin, metal clip that pinches and weighs the ear unpleasantly. It was presumably once part of a pair, but its twin has long ago been lost in the back of a drawer of a relative or the case of a second-hand shop or (most likely) underneath 200ft of West Seattle landfill. It is, without doubt, an object out of place. I keep it in my jewelry drawer, but I have no intention of wearing it. It has no functionalist, aesthetic, or rational role in my life and there is really no reason that I should keep it.
 
 <param ve-image 
-       label="Photograph of an Earring (Modern)" 
-       description="Photograph of a clip-on earring from the late 20th century comprised of a brass mount and glass gems. Currently in the possession of the author, inherited from a female relative in the late 1990s. Photograph taken by the author, and then the views were edited together." 
+       label="Photograph of a clip-on earring from the late 20th century comprised of a brass mount and glass gems. Currently in the possession of the author, inherited from a female relative in the late 1990s. Photograph taken by the author and then views were edited together in to adhere to the classic style of archeological presentation."
+       description="Photo taken on a Nikon D3100 in October of 2021. GIMP 2.10.22 was used for image editing." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Gem%20Photograph.png?raw=true">
             
 Yet, I cling to it: not for what it is, or what it was, or what it could be; not for its value, not for its beauty, not for the hope that I may someday wear it. I cling to it because it was hers: the property of a great aunt, Bea, now dead. I keep it because it is full of memories: the memory of childhood visits and the smell of old perfume and hospital disinfectant. The memory of a sombre distribution that I did not understand, and a jewellery box that I was too small to carry. The memory of a quiet presence, felt on the back of the neck in the superstitious hours. The memory of death and life and loss and obligation and the first thing I ever owned that glittered. 
 <param ve-image 
-       label="Framed Photo of Bea" 
-       description="Test2" 
+       label="Framed Photograph of the original owner of the earring, Bea Turnbull Samel." 
+       description="Photograph was photographed on a smartphone from the original, owned by Bea's cousins, Bill and Marge Richie. The digital photograph was then digitally edited into a frame owned by the author using the photoediting software GIMP 2.10.22." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/beainframe1.png?raw=true">
             
 In my archaeological education, I have spent a great deal of time exploring the properties of materials. I have tried to make sense of object materiality through measurement, weight, form, wear, illustration, reconstruction, sound, smell, heft, and feel. Yet in this lump of ugly brown glass, none of these really matter. Instead, I cannot relinquish it (though I might wish to) because it is imbued with a secret materiality that exists in my mind alone. I understand and interact with this object because it is haunted: by memory, by superstition, and by a link that still connects me to a woman decades dead. 
 <param ve-image 
-       label="Modelled Earring" 
-       description="Test3" 
+       label="A 3D model of the earring created using the free 3D modelling software, Blender."
+       description="Model meshes were sculpted from scratch using photographic references. Blender 2.93.5 was deployed after photogrammetric approaches failed due to the transparent, reflective materiality of the glass gems. Rendered images were then posed together using photoediting software GIMP 2.10.22." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Model%20Spread2.png?raw=true">
             
 Bea, somehow, has made this object different. 
 <param ve-image 
-       label="Bea, modelled as a Saint" 
-       description="Test3" 
+       label="A framed photograph of Bea in which the photograph has been edited to include a halo, a motif from religious art used to denote sainthood. This saintlty photograph posed with the earring is meant to evoke small home shrines to Catholic Saints seen during the childhood of the author." 
+       description="Photograph was photographed on a smartphone from the original, owned by Bea's cousins, Bill and Marge Richie. The .jpeg file was then digitally edited in the photoediting software GIMP 2.10.22. Images of the frame and earring were taken by a smartphone camera from a Motorolla G8 Power and then edited into the image. " 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/StPhotowithEarring.png?raw=true">
 
