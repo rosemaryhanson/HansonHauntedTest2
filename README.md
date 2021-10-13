@@ -320,7 +320,7 @@ But I don’t want to. To throw it away would be “an act of deliberate amnesia
        license="public domain"
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Holding%20Hands8.png?raw=true">                                                                       
                                                                                                          
-I want to remain haunted.
+ I want to remain haunted.
  <param ve-image                                                                                                                                
        label="This image is meant to evoke the strangeness of clinging to a link that is not there. Objects become a surrogate for the humans that were once connected to them and, in keeping them, we keep the shape of an obligation that no longer exists." 
        description="This image was produced with the photoediting software GIMP 2.10.22 " 
