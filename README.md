@@ -209,6 +209,7 @@ The first definition of hauntedness is the most literal: that of possession. Pos
        description="The photograph of Bea was taken from the collection of Bill and Marge Richie, and then layered under a photograph of the earring in the photoediting software GIMP 2.10.22." 
        license="public domain"
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Ghost%20Bea3.png?raw=true">                                                                                               
+
 Belief in ghosts and spirits is hardly antiquated or remote but remains a persistent part of modern life around the world[^11][^44][^55][^75]. In a 2005 Gallup poll, 49% of American adult respondents expressed a belief in ghosts, 39% expressing a belief that places could be haunted, and 22% reporting having lived in a place they believed to be haunted[^3]. Even those who don’t believe in ghosts and spirits recognize the effects that these beliefs have on the material world: even the sedate context of property law recognizes hauntedness as a factor that can affect the resale value of a houses [^69]. 
 <param ve-image 
        label="Ghost orbs are an element of modern ghost hunting, in which orbs caused by photographic backscatter are interpreted as images of the dead, an effect here reproduced in photoediting software." 
@@ -314,6 +315,7 @@ Bea is dead, and I know that better than most. From the dispassionate detachment
        description="Family photo from the collection of Bill and Marge Richie." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Bea7.jpg?raw=true">                                                                                                                                                                                                                                    
+
 But I don’t want to. To throw it away would be “an act of deliberate amnesia”[^51], and I am not yet ready to forget. I do not want to exorcise this ghost from my life but instead I want to remember and in remembering, to keep her here. I want to let this little earring stay unmolested in a drawer until my memory fades and it becomes just glass again.
 <param ve-image 
        label="This image is meant to evoke the strangeness of clinging to a link that is not there. Objects become a surrogate for the humans that were once connected to them and, in keeping them, we keep the shape of an obligation that no longer exists." 
