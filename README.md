@@ -418,4 +418,4 @@ The dead haunt us all in different ways: figuratively, literally, or somewhere i
 [^74]: Young, C., & Light, D. 2012. Corpses, dead body politics and agency in human geography: following the corpse of Dr. Petru Groza. Transactions of the Institute of British Geographies. (38), pp. 135-148.
 [^75]: Zuanni, C. & Price, C. 2018. The Mystery of the “Spinning Statue” at Manchester Museum. The Journal of Objects, Art and Belief. (14), pp.235-251.
 [^76]: Galeazzi, F. 2018. 3-D Virtual Replicas and Simulations of the Past. Current Anthropology. 59(3), pp.268-286.![image](https://user-images.githubusercontent.com/92250182/137491722-1994beee-de40-4223-9786-dfa931e34cc4.png)
-                                                                                                                              
+[^77]: Caraher, W. 2019. Slow Archaeology, Punk Archaeology, and the ‘Archaeology of Care’. European Journal of Archaeology, 22(3), 372-385. doi:10.1017/eaa.2019.15                                                                                                                       
