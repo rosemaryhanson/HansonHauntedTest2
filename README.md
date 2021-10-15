@@ -150,6 +150,7 @@ Image production offers a different form of storytelling, but one in which the d
        description="Digital archeological illustration was produced in the image manipulation software GIMP 2.10.22 from a digitized manual illustration and photographs of the artefact." 
        license="public domain" 
        url=”https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Collected%20Illustration2.png?raw=true”> 
+
             
 These fears are not unfounded, but stem from a foundational naiveté around the affordances of images[^70]. Images cannot be perfect, objective representations of an object[^64]. Images and image-making are culturally, socially, and perceptually relative[^52], not to mention dependent on the skill, knowledge, and experience of the artist[^64]. Viewers inherently apply their own prejudices as they interpret art[^40][^70] and these will change and shift over time and context[^61]. Images cannot be innocent: they have agendas as part of their _raison d’etre_[^52][^64], and to expect otherwise is to fail to engage with the nuance inherent in all forms of knowledge production.
 <param ve-image 
