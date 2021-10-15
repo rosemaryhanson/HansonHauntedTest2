@@ -420,4 +420,10 @@ The dead haunt us all in different ways: figuratively, literally, or somewhere i
 [^76]: Galeazzi, F. 2018. 3-D Virtual Replicas and Simulations of the Past. Current Anthropology. 59(3), pp.268-286.![image](https://user-images.githubusercontent.com/92250182/137491722-1994beee-de40-4223-9786-dfa931e34cc4.png)
 [^77]: Caraher, W. 2019. Slow Archaeology, Punk Archaeology, and the ‘Archaeology of Care’. European Journal of Archaeology, 22(3), 372-385. doi:10.1017/eaa.2019.15  
 [^78] Feisner, E. A. & Reed, R. 2013. Color Studies. New York: Bloomsbury.
-                                                                                                                                
+[^79] Kurin, R. 2006. Hope Diamond: The Legendary History of a Cursed Gem. Washington DC: Smithsonian Institution Press.
+[^80] Goldstein, D. E., Grider, S. A. & Thomas, J. B. 2007. Haunting Experiences: Ghosts in Contemporary Folklore. Boulder: University Press of Colorado.!
+[^81] Hantke, S. 2004. Horror Film: Creating and Marketing Fear. Jackson : University Press of Mississippi.
+[^82] Pearson, L. 2018. Worlds That Are Given: How Architecture Speaks Through Videogames. Thresholds. (46) pp. 264–275.
+[^83] Brown, T. 1964. The Folklore of Devon, Folklore, 75(3), pp.145-160, DOI: 10.1080/0015587X.1964.9716963                                                                                                                              
+                                                                                                                               
+                                                                                                                          
