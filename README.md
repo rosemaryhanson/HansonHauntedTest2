@@ -76,65 +76,67 @@ This is the story of a material property that isn’t. It is not visible, it is 
 
 To ask whether hauntedness is real is to ask the wrong question. The afterlife is a topic for philosophers, theologians, neuroscientists, and metaphysicians - and so I leave it to them. Instead, this paper approaches hauntedness through the lens of Material Culture Studies, in which material identities are co-constituted in the relationships between people and objects[^34][^36][^71]. Physical attributes and social attributes both converge in the perception of the world and reality is constructed on this intersection [^19][^24][^34][^55]. Within this frame, it doesn’t matter if the dead actually linger on the material plane. If reality is constructed around a metaphysics that includes hauntedness as a material property of the world, then individuals will interact with that world in reference to hauntedness [^28]. As such, it is real enough. The mind is not so neatly separated from the body [^47][^65]; placebos, after all, can still heal the sick [^7]. 
 <param ve-image 
-       label="Here, a traditional archeological illustration is posed with two hands in a posture of recoil. Though this gesture is culturally contingent, so too is the reaction of trepidation, disgust, fear, or surpirse that an object may evoke. It is a gesture that is consistant with western reactions to hauntedness." 
-       description="The earring illustration was produced in a photoediting software GIMP 2.10.22, using both a manually produced illustration and a photograph as references. Hands were then traced by the author in GIMP."
+       label="In this image, the archeological illustration of the earring is posed with two hands in a posture of recoil. Though this gesture is culturally contingent, so too is the reaction of trepidation, disgust, fear, or surprise that a ‘haunted’ object may evoke. This gesture is consistent with western reactions to hauntedness." 
+       description="The earring illustration was produced in the image manipulation software GIMP 2.10.22, using both a manually produced illustration and a photograph as references. Hands were then traced by the author in GIMP."
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Recoil%20Hands.png?raw=true">
 
 Hauntedness is therefore a subjective property of object materiality. It is a property in which the dead imbue matter with agency. This agency may be physical [^3], magical [^28][^55][^75], and/or emotional[^30][^38], but it is a power that emerges from biographical associations between people and things [^34][^42]. It is a persistence of entanglement between the dead, the living, and material objects in a panoply of configurations across time and space[^30][^71].In this sense, haunted objects are a prime example of mixtures[^71] or bundles[^4]. They are both subject and object, human and nonhuman, real and unreal, effected by and effecting human consciousness, and full of contradictions and bifurcations[^71]. They make the social physical and the physical social[^4], entangling, mixing, and distributing human consciousness and object materiality[^33]. They compress and distort time and disrupt the neat separation of past, present, and future[^30][^67]. 
 <param ve-image 
-       label="Here, a photograph of the earring is enmeshed in a tangle of associations between past people, current people, objects, and academic persuits as a means of visualizing the earring as a node in a much broader entanglement. The images present Bea as she lived, a framed photograph of Bea, a photograph of the author now and at around the time of Bea's death, as well as models and illustrations produced over the course of this project."
-       description="Images were taken from the personal collections of the author as well as the photographic collections of Bea's relatives, Bill and Marge Richie and Amy Hanson. They were then compiled in the photoediting software GIMP 2.10.22." 
+       label="Here, a photograph of the earring is shown as a node in a tangle of associations between past people, current people, objects, and academic pursuits. The images depict Bea as she lived, a framed photograph of Bea, a photograph of the author now and at around the time of Bea's death, as well as models and illustrations produced over the course of this project."
+       description="Images were taken from the personal collections of the author as well as the photographic collections of Bea's relatives, Bill and Marge Richie and Amy Hanson. They were then compiled in the image manipulation software GIMP 2.10.22." 
        license="public domain"
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Web.png?raw=true"> 
-            
+
 It is precisely because haunted objects offer such a rich and complex materiality that they are useful for engaging archaeological theory. They provide an example of object agency derived from human subjects, yet at varying levels of perceived intentionality[^4][^71]. They are vibrant matter, but it is a vibrancy that primarily springs from supernatural or affective sources as opposed to the materials of the objects themselves [^36][^55]. They are entangled, not only in “webs of life” [^37], but webs beyond life, where the dead remain entangled in the world[^74] through their objects. Objects become links in a chain to nothing that nevertheless still hold the shape of that enchainment like a phantom limb [^4][^24]. Perhaps most fascinatingly, this resistant materiality can have a material expression. Haunted objects may evoke a sensory experiences that are both powerfully perceived and culturally constituted [^3][^2][^44][^49], complicating the frame of what constitute sensory approaches in archaeology. 
 <param ve-image 
-       label="This image presents a metephorical visualization of the the ways in which objects act as nodes in social relationships, connecting human actors." 
-       description="Image was produced in the photoediting software GIMP 2.10.22." 
+       label="This image presents a metaphorical visualization of the ways in which objects act as nodes in social relationships, connecting human actors." 
+       description="Image was produced in the image manipulation software GIMP 2.10.22." 
        license="public domain" 
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Holding%20Hands3.png?raw=true"> 
-            
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Holding%20Hands3.png?raw=true">
+       
 Yet for all that these objects can enrich explorations of object materiality, they exist on the fringe of archaeology. They are, after all, superstitious objects, displaying a materiality that exists outside the natural sciences and the objective goals of processual archaeology [^10][^19]. Haunted objects appear to embody a form of “magical” thinking that is seen as decidedly unmodern, unenlightened, uneducated, and irrational[^2][^55][^28][^75]. Hauntedness, along with magic, folklore, and superstition are therefore relegated to the outskirts of the discipline[^16][^19], or worse still, left to the purview of pseudo-archaeology in its hunt for ghosts, curses, aliens, and monsters[^9][^32][^75]. Moreover, explorations of hauntedness might appear to skirt the symbolic and psychoanalytic approaches of post-processualism, focusing on the meaning of things [^37][^38]; a particularly fraught project when no resources are available for emic analysis[^10].
 <param ve-image 
-       label="The classic 'bedsheet' ghost that originated from the funerary practices of the European Middle Ages[^50] is a now ubiquitous cliché of hauntedness. As such, it can act as a visual shorthand for hauntedness, such as the renderings of Egyptian Shaitan added to images of Egyptian archaeology [^33]. In this image, a ghost is produced in a purposefully cartoonish way, visually signalling its metephoric, as opposed to literal, aspect. Yet it is this very cartoonish, childish, populist representation of haunting that archeologists resist in their analysis of objects. It is therefore an image of what archeologists fear: that in exploring immaterial materialities of objects, they depart from a scientific, rational, and grounded study of the past."
-       description="This image was produced using the photoediting software GIMP 2.10.22." 
+       label="The classic 'bedsheet' ghost that originated from the funerary practices of the European Middle Ages [^50] is a now ubiquitous cliché of hauntedness. As such, it can act as a visual shorthand for hauntedness, such as the renderings of Egyptian Shaitan added to images of Egyptian archaeology [^33]. In this image, however, a ghost is produced in a purposefully cartoonish way, as it is just such a childish, populist representation of haunting [^29][^40] that archeologists resist in their analysis of objects. It is therefore an image of what archeologists fear: that in exploring immaterial materialities of objects, they depart from a scientific, rational, and grounded study of the past."
+       description="This image was produced using the image manipulation software GIMP 2.10.22."        
        license="public domain" 
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/GhostsIllustration2.png?raw=true"> 
-            
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/GhostsIllustration2.png?raw=true">
+         
 This paper does not seek to embark on such a project of meaning making (much less a project of ghost hunting). This paper instead seeks to recognize hauntedness as part of the “murk[y] middle ground” in explorations of folk ritual beliefs [^10]. It is a sphere of causality that exists in tandem with objective causality[^55]. By dismissing it, we may “build false assumptions about what the ‘real world’ is like”[^28], secularizing, rationalizing, and suppressing the often powerful effects of heritage[^11][^55]. As we collect a library of sensory experience through which to examine objects [^26][^27][^35], a focus on the physical senses alone may well be inconsistent with the ontologies that framed (and frame) the experience of the material world[^11][^28]. In failing to recognize that sensory experiences may be informed by these deep spiritual, cultural frameworks, we are doomed to an idea of sensitivity that is sanitized and one-dimensional. 
 <param ve-image 
-       label="3D modelling is often touted for its ability to present object dimensionality more accurately than ever before: that it improves the accuracy of representation. Yet it also facilitates a creative approach to object materiality, allowing for the modeller to play with lighting, angle, texture, material, etc. and in doing so, explore the affective dimensionality of objects. These creative approaches to staging, mood, evocation, etc. can allow for deeper explorations of both social and physical dimensionalities in a way that is both flexible and accessable." 
-       description="This image was produce in Blender 2.93.5 using a spotlight and a plane in addition to the earring mesh and was rendered using Eevee. " 
+       label="Digital 3D modelling is often touted for its ability to present object dimensionality more accurately than ever before. Yet it also facilitates creative approaches to visualizing objects, allowing for the modeler to play with lighting, angle, texture, material, etc. As such, it is possible to explore the affective dimensionality [^38] of objects, through diverse approaches to staging, mood, evocation, etc." 
+       description="This image was produced in Blender 2.93.5 using a spotlight and a plane in addition to the earring mesh and was rendered using Eevee. " 
        license="public domain" 
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/spotlight1.png?raw=true"> 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/spotlight1.png?raw=true">
 
 In failing to recognize these relational frameworks, my own experience of a haunted object simply does not exist.  
 
 <param ve-image 
-       label="The use of transparent figures to represent spirits or ghosts emerged in the 18th and 19th century[^51], and is deployed here as a visual metephor for the ways in which objects remain a link between people, even after death." 
-       description="This image was produced using the photoediting software GIMP 2.10.22." 
+       label="The use of transparent figures to represent spirits or ghosts emerged in the 18th and 19th century[^51], and is deployed here as a visual metaphor for the ways in which objects remain a link between people, even after death." 
+       description="This image was produced using the image manipulation software GIMP 2.10.22." 
        license="public domain" 
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Holding%20Hands5.png?raw=true"> 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Holding%20Hands5.png?raw=true">
+
 
 # Humanist Problems Require Creative Solutions
 
 In exploring hauntedness as an immaterial material property of objects, tools for quantification are clearly inappropriate. Indeed, attempts to measure and record evidence of ghosts and spirits quickly diverge into the realms of ghost hunting [^3], spiritualism[^2], and pseudo-archeology[^9][^32]. Instead, subjective questions require a more subjective toolkit: one that engages this subjectivity, as opposed to resisting or obscuring it[^70]. This paper deploys two such tools to explore hauntedness as a material property of objects. The first is auto-ethnographic storytelling [^3][^30][^38], and the second is visual artistic practice[^22][^30][^70]. In doing so, I seek to demonstrate the ways that creative practice can be deployed to enrich more traditional forms of analysis.
-
 <param ve-image 
-       label= "Photographs taken of this earring were not able to produce a photogrammetric 3D digital model due to the materiality of the earring itself. The clear, reflective surface of both the glass and brass resulted in point clouds and models with a diffused, etherial, and distorted shape." are, and exported to Meshlab." 
+       label= "Photographs taken of this earring were not able to produce a realistic photogrammetric model due to the materiality of the earring itself. The clear, reflective surface of both the glass and brass resulted in point clouds and models with a diffused, ethereal, and distorted shape." 
        license="public domain" 
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/dot%20ghost.png?raw=true"> 
+       description= "This photogrammetric data was produced from images taken on a Nikon D3100 Camera, compiled in Cloud Compare and exported to MeshLab." 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/dot%20ghost.png?raw=true">
 <param ve-image 
-       label= "Photographs taken of this earring were not able to produce a photogrammetric 3D digital model due to the materiality of the earring itself. The clear, reflective surface of both the glass and brass resulted in point clouds and models with a diffused, etherial, and distorted shape." 
+       label= "Photographs taken of this earring were not able to produce a realistic photogrammetric model due to the materiality of the earring itself. The clear, reflective surface of both the glass and brass resulted in point clouds and models with a diffused, ethereal, and distorted shape." " 
        description= "This photogrammetric data was produced from images taken on a Nikon D3100 Camera and compiled in Cloud Compare." 
        license="public domain" 
-       url= https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/point%20ghost.png?raw=true> 
+       url= “https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/point%20ghost.png?raw=true”>
 <param ve-image 
-       label= "Photographs taken of this earring were not able to produce a photogrammetric 3D digital model due to the materiality of the earring itself. The clear, reflective surface of both the glass and brass resulted in point clouds and models with a diffused, etherial, and distorted shape." 
-       description= "Photogrammetric data was compiled into a mesh and exported to Blender, but resulted in a distorted mesh." 
+       label= " Photographs taken of this earring were not able to produce a realistic photogrammetric model due to the materiality of the earring itself. The clear, reflective surface of both the glass and brass resulted in point clouds and models with a diffused, ethereal, and distorted shape."" 
+       description= "Photogrammetric data was compiled into a mesh in MeshLab and then exported to Blender. However, this resulted in a distorted mesh." 
        license="public domain" 
-       url= https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/2021-07-07%20(3).png?raw=true> 
+       url= https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/2021-07-07%20(3).png?raw=true>
+
 
 Drawing from anthropology, the use of auto-ethnographic storytelling is quite commonplace in the discipline, and has been very effectively deployed to explore affective aspects of memory [^30][^43], ruination[^60], materials [^34][^36], etc. This mode of engagement is particularly appropriate in relationship to haunting, as first-hand accounts of haunting experience are a key element of ghost belief [^3]. Moreover, ghosts and hauntings frequently appear as a conceptual metaphor in heritage study in reference to things that are abandoned, concealed, or suppressed[^2]. In the logocentric context of professional academia[^40], auto-ethnographic storytelling is the logical creative extension for archeological analysis, but this reflexivity is hardly the exclusive remit of the written word.
 <param ve-image 
@@ -145,102 +147,101 @@ Drawing from anthropology, the use of auto-ethnographic storytelling is quite co
             
 Image production offers a different form of storytelling, but one in which the discipline is far less comfortable[^70]. Though social sciences, and particularly anthropology, have begun experimenting with new visual modes of engagement[^29], images are often still treated with suspicion or hostility [^53][^70]. Though a visually rich discipline [^64][^70] exposed to an increasingly rich visual media landscape[^61], archeology often struggles with visual literacy[^32][^40][^59][^63][^70]. There are fears that images are overly subjective in production[^52], interpretively unstable [^40][^70][^61], and able to achieve a false sense of authority, concealing nefarious theoretical or political intentions behind pleasant aesthetics[^32][^40][^53][^54][^52]. If the visual is associated with the real and objective[^55] and archeological images are expected to present authoritative and accurate depictions of the world [^70] any deviance from realism is a necessarily a betrayal of truth.
 <param ve-image 
-       label="Archeological illustration of the earring, produced in the standard arrangement of views and classic diagrammetric style drawn from the natural sciences."
-       description="Digital archeological illustration was produced in GIMP 2.10.22 from a digitized mannual illustration and photographs." 
+       label="A classic archeological illustration for the Bea’s earring, produced in the diagrammatic style of the discipline."
+       description="Digital archeological illustration was produced in the image manipulation software GIMP 2.10.22 from a digitized manual illustration and photographs of the artefact." 
        license="public domain" 
-       url= https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Collected%20Illustration2.png?raw=true> 
+       url=”https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Collected%20Illustration2.png?raw=true”> 
             
 These fears are not unfounded, but stem from a foundational naiveté around what images can and can’t do[^70]. Images cannot be perfect, objective representations of an object [^64] Images and image-making are culturally, socially, and perceptually relative[^52], not to mention dependent on the skill, knowledge, and experience of the artist[^64]. Moreover, viewers will apply their own prejudices as they interpret art [^40][^70] and these will change and shift over time and context[^61]. And images cannot be innocent: they have agendas as part of their _raison d’etre_[^52][^64]. 
 <param ve-image 
-       label="This image attempts to present the earring in a 'sinister light' Drawing from films, plays, and other visual media, this image uses red light as a visual metaphor for evil." 
-       description="This image was produced using the 3D modelling software Blender 2.93.5. Ir was produced using a red-tinted spotlight and a plane in addition to the earring mesh and was rendered using Eevee" 
+       label="This image attempts to present the earring in a 'sinister light' Drawing from films, plays, and other visual media, this image uses red light as a visual metaphor for danger[^78]." 
+       description="This image was produced using the 3D digital modelling software Blender 2.93.5. It was produced using a red-tinted spotlight and a plane in addition to the earring mesh and was rendered using Eevee" 
        license="public domain" 
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/spotlight9.png?raw=true"> 
-            
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/spotlight9.png?raw=true">
+
+
 Yet each of these concerns can equally be levied at the written word: written analysis of objects is culturally contingent [^34][^73], words are frequently misinterpreted by audiences[^75], and articles are published with explicit theoretical (and implicit political) agendas. The difference here is simply one of literacy: archeologists are comfortable in textual analysis, but not in visual analysis[^32][^59]. Furthermore, these concerns over images are not without their paternalistic undertones. Images are widely popular and accessible – often more so than words[^32][^61]. If even children can see and comprehend an image[^29][^40], how then can the public be trusted to come to the “correct” conclusions?
 <param ve-image 
-       label="Object illustration is presented as part of a logocentric method of classification. In this image, words are still the primary mode of commuication with the illustration taking a secondary, almost decorative roll." 
-       description="This image was produced using the photoediting software GIMP 2.10.22. Earring illustration produced from manual illustrations and photographs." 
+       label="Archeological illustration is presented as part of a logocentric method of classification in archeology [^70]. In this image, words are still the primary mode of communication with the illustration taking a secondary role." 
+       description="This image was produced using the image manipulation software GIMP 2.10.22. The illustration was produced from manual illustrations and photographs." 
        license="public domain" 
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Word%20Cloud.png?raw=true"> 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Word%20Cloud.png?raw=true">
+
             
 Yet it is because of this very subjectivity that images can be useful to engage with more culturally contingent questions. Images facilitate the “ability to explore subjective, problematic, personal, empathic, emotional and un-quantifiable elements of archeological material that is not available to scientific approaches”[^70]. Making images of archeological material facilitates a different type of interaction with artefacts. It encourages a different style of looking and seeing[^29], slowing down and focusing engagements with archeological material[^53] and structuring interpretations of the archeological record[^53][^70]. Making images of archeological material allows for an interaction that is distinctly personal, embodied, and intentional[^29][^53] and therefore one which highlights different visual data than traditional recording tools such as photography or photogrammetry[^29].
 <param ve-image 
-       label="One of the simplist means of incorporating the subjective roll of the archeological illustrator into the image production is to literally include the illustrator in the image, in this case as a posed hand holding the object." 
-       description="This image was produced using the photoediting software GIMP 2.10.22 from photographs of the author's hand and the earring." 
+       label="One of the simplest means of incorporating the subjective role of the archeological illustrator in image production is to literally include the illustrator in the image, in this case as a posed hand holding the object. This helps overcome the conceit of scientific illustrations as authorless and objective [^59]." 
+       description="This image was produced using the image manipulation software GIMP 2.10.22 from photographs of both the earring and the author’s hand." 
        license="public domain" 
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Earring%20in%20hand4.png?raw=true"> 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Earring%20in%20hand4.png?raw=true">
             
 Image production (as well as storytelling) holds the capacity to engage with time, both in the temporal experience of making, and the ways in which time can be compressed into a single image[^29][^30][^53]. It allows for a more open-ended exploration of personal involvement, intuition, and affective experience[^63], and in doing so, offers a resistive means of knowledge production[^63][^70]. Yet these new and resistive ways knowledge production should not be seen as a replacement for traditional approaches to archeological material. Objective techniques are powerful and valuable in addressing objective questions. Yet these tools prove insufficient to examine the full spectrum of materiality. Instead, more subjective, creative approaches serve as a supplement to the existing approaches in archeology: offering access to new types of data to enrich the archeological record [^5][^70].
 <param ve-image 
-       label="The resistive agency of objects is not something that can be quantified, but it is nevertheless an element of of object materiality that archeology is deeply interested in. Attempting to visualize this aspect of object materiality highlights the curious metephorical materiality of archeological theory in which words shape the ways that objects are understanding in a highly abstracted form of analysis." 
-       description="Earring mesh was produced using the 3D modelling software Blender 2.93.5 and then the rendered image was imported into the photoediting software GIMP 2.10.22 and the halo was added there." 
+       label="The resistive agency of objects is not something that can be quantified, but it is nevertheless an element of object materiality that archeology is deeply interested in. Attempting to visualize this aspect of object materiality highlights the curious metaphorical materiality of archeological theory in which words shape the ways that objects are understood." 
+       description="The earring mesh was produced using the digital 3D modelling software Blender 2.93.5 and then rendered in Eevee. The image was then imported into the image manipulation software GIMP 2.10.22 and the halo was added." 
        license="public domain" 
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/halo2.4.png?raw=true"> 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/halo2.4.png?raw=true">
 
 # Case Studies
 
 This paper will highlight 3 types of hauntedness that exist along a spectrum of rationality, intentionality, and materiality: possession, aura, and memory. These three types of hauntedness represent an organizational conceit rather than a categorical, exhaustive, or static scheme. After all, one type of materiality does not preclude others – occulted or otherwise[^55]. These three are presented instead to illustrate the diverse ways objects provoke human affectivity and affect human perceptions and actions [^24][^38].
 <param ve-image 
        label="A visual outline of the three case studies to come: possession, aura, and memory." 
-       description="This image was produced using the photoediting software GIMP 2.10.22."
+       description="This image was produced using the image manipulation software GIMP 2.10.22."
        license="public domain" 
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/3%20Forms%20of%20Hauntedness2.png?raw=true"> 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/3%20Forms%20of%20Hauntedness2.png?raw=true">
 
 Hauntedness may therefore be quite literal, where objects are possessed by an affecting agent directly. It is an occulted materiality that is most decidedly supernatural[^55], in which ghosts and spirits of the dead act directly upon the living in material ways[^55]. Yet, hauntedness need not be so direct, with objects providing a conduit for aura, or non-living agency. Here, the dead themselves do not act upon the living, but imbue objects with a magical potency to act. Hauntedness may even be figurative, as an object triggers memory and emotion associated with the dead. This type of hauntedness encompasses the idea of spectrality: the spatio-temporal memory of an object, but this affectivity may not be entirely in the control of those in whom emotion and memory is provoked [^30]. Though aspects of hauntedness need not be mutually exclusive, this paper will examine each separately as a case study in exploring hauntedness using creative approaches. 
 <param ve-image 
        label="A visual outline of the three case studies to come: possession, aura, and memory." 
-       description="This image was produced using the photoediting software GIMP 2.10.22."
+       description="This image was produced using the image manipulation software GIMP 2.10.22."
        license="public domain" 
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/3%20Forms%20of%20Hauntedness2.png?raw=true"> 
-       
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/3%20Forms%20of%20Hauntedness2.png?raw=true">
+
 ## I. Objects Possessed
 
 The first definition of hauntedness is the most literal: that of possession. Possession here is defined as the belief that an object is inhabited by a non-corporeal agent and imbued with the direct agency of the non-living. Often (though not exclusively) human, these actors are perceived by the senses: sight, smell, sound, touch, or even taste [^3] 580-1; [^2][^44][^49][^75]. A key affordance of these objects is their ability to house and/or facilitate direct encounters with the supernatural in a way that can be physically experienced – and to believers, photographed and measured [^3][^2]. These experiences are the acts of specific agents who – within the metaphysics of hauntedness – exist in the perceivable world [^3]. 
 <param ve-image 
        label="In this image, a photograph of Bea has been layered into a photograph of the earring to produce a ghost-like image, reminiscent of the early ghost photography of William Mumler [^2]." 
-       description="The photograph of Bea was taken from the collection of Bill and Marge Richie, and then layered over a photograph of the earring in the photoediting software GIMP 2.10.22." 
+       description="The photograph of Bea was taken from the collection of Bill and Marge Richie, and then layered over a Blender 2.93.5 model of the earring in the image manipulation software GIMP 2.10.22." 
        license="public domain"
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Ghost%20Bea4.png?raw=true"> 
-<param ve-image 
-       label="In this image, a photograph of Bea has been layered into a photograph of the earring to produce a ghost-like image, reminiscent of the early ghost photography of William Mumler [^2]." 
-       description="The photograph of Bea was taken from the collection of Bill and Marge Richie, and then layered under a photograph of the earring in the photoediting software GIMP 2.10.22." 
-       license="public domain"
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Ghost%20Bea3.png?raw=true">                                                                                               
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Ghost%20Bea4.png?raw=true">
+
 
 Belief in ghosts and spirits is hardly antiquated or remote but remains a persistent part of modern life around the world[^11][^44][^55][^75]. In a 2005 Gallup poll, 49% of American adult respondents expressed a belief in ghosts, 39% expressing a belief that places could be haunted, and 22% reporting having lived in a place they believed to be haunted[^3]. Even those who don’t believe in ghosts and spirits recognize the effects that these beliefs have on the material world: even the sedate context of property law recognizes hauntedness as a factor that can affect the resale value of a houses [^69]. 
 <param ve-image 
-       label="Ghost orbs are an element of modern ghost hunting, in which orbs caused by photographic backscatter are interpreted as images of the dead, an effect here reproduced in photoediting software." 
-       description="The image was taken with the smartphone camera of a Motorolla G8 Power, and then edited with the photoediting software GIMP 2.10.22." 
+       label="Ghost orbs are an element of modern ghost hunting[^3], in which orbs caused by photographic backscatter are interpreted as images of the dead. This effect is here reproduced in the image manipulation software GIMP 2.10.22." 
+       description="The image was taken with the smartphone camera of a Motorolla G8 Power, and then edited with the image manipulation software GIMP 2.10.22." 
        license="public domain"
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Ghost%20Orbs5.png?raw=true"> 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Ghost%20Orbs5.png?raw=true">
 
 Hauntedness is, perhaps unsurprisingly, particularly prevalent within cultural heritage contexts. By far, the dominant representation of archaeological objects in modern cinema is in reference to their supernatural aspects[^32] and the media surrounding ghosts and hauntings has ballooned in recent years [^3]. More recently, the “spinning statuette” at the Manchester Museum was interpreted by the public as a “potential vessel for the spirit of a deceased ancient Egyptian” (among other interpretations). This led to a massive uptick in interest, popularity, speculation, enthusiasm, and museum attendance[^75]. The British Museum has also faced difficulty dispelling ideas of a “mummy’s curse” and malevolent spirits that linger around a 21st or 22nd dynasty mummy in their collection[^48]. 
 <param ve-image 
-       label="A common representation of ghosts and spirits in popular culture is as a dark, out-of-focus figure. Thus, a spectral figure is layered into the background of an archeological model in order to convey the sense that the object is a conduit for the agency of the dead." 
-       description="The modelled earring was produced in the 3D modelling software Blender 2.93.5 and then layered over a background produced in the photoediting software GIMP 2.10.22." 
+       label="A common representation of ghosts and spirits in popular culture and contemporary folklore is as a shadowy figure [^80]. Here, a spectral figure is layered into the background of an archeological model in order to convey the sense that the object is a conduit for the agency of the dead." 
+       description="The modelled earring was produced in the digital 3D modelling software Blender 2.93.5, rendered with Eevee, and then layered over a background produced in the image manipulation software GIMP 2.10.22." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/hauntedghost2.png?raw=true">
 
+
+
 Places, too, often become the residence of ghosts and spirits, such as The Historic Cornwall Jail in Cornwall, Ontario, which advertises visitor experiences with hauntings. Visitors, staff, and paranormal investigators attest to both seeing and hearing paranormal actors [^49]. Mariana Lamas and Eduardo Giménez-Cassina outline instances of museum sites and objects that are perceived as haunted or have had paranormal incidents in the past few decades[^44]. So popular is this connection between heritage and possession, that a whole industry of dark tourism and ghost tours has sprung up around those seeking encounters with the dead [^3][^66].
 <param ve-image 
-       label="Glowing red eyes leering out of the darkness is a common trope in popular media around hauntings, here it is used as a visual metephor for a sense of fear and forboding that may surround objects percieved as haunted." 
-       description="The modelled earring was produced in the 3D modelling software Blender 2.93.5 and then layered over a background produced in the photoediting software GIMP 2.10.22." 
+       label="Glowing red eyes leering out of the darkness is a common trope folklore [^83] Here it is used as a visual metaphor for a sense of fear and foreboding that may surround objects perceived as haunted." 
+       description=" The modelled earring was produced in the digital 3D modelling software Blender 2.93.5, rendered with Eevee, and then layered over a background produced in the image manipulation software GIMP 2.10.22." 
        license="public domain" 
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/eye%20glow%2010.png?raw=true">                                                                      
-                                                                                                        
-<param ve-image 
-       label="Glowing red eyes leering out of the darkness is a common trope in popular media around hauntings, here it is used as a visual metephor for a sense of fear and forboding that may surround objects percieved as haunted." 
-       description="The modelled earring was produced in the 3D modelling software Blender 2.93.5 and then layered over a background produced in the photoediting software GIMP 2.10.22." 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/eye%20glow%2010.png?raw=true">                                                         <param ve-image 
+       label="Glowing red eyes leering out of the darkness is a common trope folklore [^83] Here it is used as a visual metaphor for a sense of fear and foreboding that may surround objects perceived as haunted." 
+       description=" The modelled earring was produced in the digital 3D modelling software Blender 2.93.5, rendered with Eevee, and then layered over a background produced in the image manipulation software GIMP 2.10.22." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/eye%20glow%206.png?raw=true">        
 
 Archaeologists are not immune from experiences with “other-than-human beings”[^67] and ghosts[^2]. In the most literal sense, heritage professionals are often called upon to engage with public experiences of hauntedness[^22][^44][^75]. Yet, on a more personal level, archeologists have been entangled with experiences of hauntedness. The history of archeology is one that is entwined with the spiritualist movement, with some early investigators deploying psychometry, psychics, biometers, and automated writing as part of archaeological research[^2]. Even as these methods fell out of favor in the scientific community, many still espoused beliefs in the occult in their personal life, even as spirits disappeared from publication[^2]. Even now, when the paranormal is publicly denounced as harmful to the discipline[^32], there are still occasional allusions to such experiences among heritage professionals [^44][^49][^67]). Sitting around the sherd bucket at the end of the day, I have heard many a tenured professor tell stories of things falling in storerooms, footsteps in empty hallways, and dark shapes in the night. In those moments of comradery, I might even betray my own moments of supernatural discomfort, quickly dismissed yet nevertheless persistent in my memory. There is clearly something in this experience of hauntedness that resists.
 <param ve-image 
-       label="Another popular visual association with hauntedness is that of darkness. Here, a rising darkness is shown consuming the object in an attempt to evoke a sense of rising dread that may accompany objects percieved as haunted." 
-       description="The modelled earring was produced in the 3D modelling software Blender 2.93.5 and then layered between backgrounds produced in the photoediting software GIMP 2.10.22." 
+       label="Another popular visual trope in horror films is that of engulfing darkness [^81]. Here, a rising darkness is shown consuming the object in an attempt to evoke a sense of rising dread that may accompany objects perceived as haunted." 
+       description=" The modelled earring was produced in the digital 3D modelling software Blender 2.93.5, rendered with Eevee, then layered between backgrounds produced in the image manipulation software GIMP 2.10.22." 
        license="public domain" 
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/hauntedghost1.png?raw=true"> 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/hauntedghost1.png?raw=true">
+
 
 ## II. Object Aura
 
