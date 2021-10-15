@@ -206,8 +206,12 @@ The first definition of hauntedness is the most literal: that of possession. Pos
        description="The photograph of Bea was taken from the collection of Bill and Marge Richie, and then layered over a Blender 2.93.5 model of the earring in the image manipulation software GIMP 2.10.22." 
        license="public domain"
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Ghost%20Bea4.png?raw=true">
-
-
+<param ve-image 
+       label="In this image, a photograph of Bea has been layered into a photograph of the earring to produce a ghost-like image, reminiscent of the early ghost photography of William Mumler [^2]." 
+       description="The photograph of Bea was taken from the collection of Bill and Marge Richie, and then layered over a Blender 2.93.5 model of the earring in the image manipulation software GIMP 2.10.22." 
+       license="public domain"
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Ghost%20Bea4.png?raw=true">
+       
 Belief in ghosts and spirits is hardly antiquated or remote but remains a persistent part of modern life around the world[^11][^44][^55][^75]. In a 2005 Gallup poll, 49% of American adult respondents expressed a belief in ghosts, 39% expressing a belief that places could be haunted, and 22% reporting having lived in a place they believed to be haunted[^3]. Even those who don’t believe in ghosts and spirits recognize the effects that these beliefs have on the material world: the sedate context of property law recognizes hauntedness as a factor that can affect the resale value of a houses[^69]. 
 <param ve-image 
        label="Ghost orbs are an element of modern ghost hunting[^3], in which orbs caused by photographic backscatter are interpreted as images of the dead. This effect is here reproduced in the image manipulation software GIMP 2.10.22." 
@@ -222,8 +226,6 @@ Hauntedness is, perhaps unsurprisingly, particularly prevalent within cultural h
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/hauntedghost2.png?raw=true">
 
-
-
 Places, too, often become the residence of ghosts and spirits, such as The Historic Cornwall Jail in Cornwall, Ontario, which advertises visitor experiences with hauntings. Visitors, staff, and paranormal investigators attest to both seeing and hearing paranormal actors [^49]. Mariana Lamas and Eduardo Giménez-Cassina outline instances of museum sites and objects that are perceived as haunted or have had paranormal incidents in the past few decades[^44]. So popular is this connection between heritage and possession, that a whole industry of dark tourism and ghost tours has sprung up around those seeking encounters with the dead [^3][^66].
 <param ve-image 
        label="Glowing red eyes leering out of the darkness is a common trope folklore [^83] Here it is used as a visual metaphor for a sense of fear and foreboding that may surround objects perceived as haunted." 
@@ -237,6 +239,12 @@ Places, too, often become the residence of ghosts and spirits, such as The Histo
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/eye%20glow%206.png?raw=true">        
 
 Archaeologists are not immune from experiences with “other-than-human beings”[^67] and ghosts[^2]. In the most literal sense, heritage professionals are often called upon to engage with public experiences of hauntedness[^22][^44][^75]. Yet, on a more personal level, archeologists have been entangled with experiences of hauntedness. The history of archeology is one that is entwined with the spiritualist movement, with some early investigators deploying psychometry, psychics, biometers, and automated writing as part of archaeological research[^2]. Even as these methods fell out of favor in the scientific community, many still espoused beliefs in the occult in their personal life, even as spirits disappeared from publication[^2]. 
+
+<param ve-image 
+       label="Another popular visual trope in horror films is that of engulfing darkness [^81]. Here, a rising darkness is shown consuming the object in an attempt to evoke a sense of rising dread that may accompany objects perceived as haunted." 
+       description=" The modelled earring was produced in the digital 3D modelling software Blender 2.93.5, rendered with Eevee, then layered between backgrounds produced in the image manipulation software GIMP 2.10.22." 
+       license="public domain" 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/hauntedghost1.png?raw=true">
 
 Even now, when the paranormal is publicly denounced as harmful to the discipline[^32], there are still occasional allusions to such experiences among heritage professionals [^44][^49][^67]). Sitting around the sherd bucket at the end of the day, I have heard many a tenured professor recount stories of uncanny engagements with historical material: things falling in storerooms, footsteps in empty hallways, and dark shapes disappearing in the night. In these moments of camaraderie, in the hot sun or the cold musty dimness of the storeroom, we tell each-other stories of things we know to be unreal. Stories of an unexplained discomfort and unshakable unease. Stories of an illicit imaginary; dismissed yet persistent. Stories of the past spilling into the present from those charged with drawing firm lines between the two. Stories we keep telling.
 
@@ -296,6 +304,7 @@ The idea that objects have an emotional or quasi-magical power derived from thei
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/DoublePedestal.png?raw=true">
        
 ## III. Objects of Memory
+
 A third distinct definition of hauntedness in objects, is when objects are imbued with _memory_. In these objects, a key material property is the way in which it can evoke memories of the dead. These objects of memory therefore exhibit a referential agency: they are not conduits for the agency of the dead so much as they are surrogates for them[^30]. Within the affective turn, memory is a potent element of object materiality[^38] in which past and present interact, overlap, and disrupt one another[^30]. The biography of such memory objects constitutes a concretion of events, actions, objects, people, memory, time, and emotion into a physical referent[^38][^71]. And while these objects may be a “repository of collective memory”[^19], they may also be a site of “relentless remembering"[^67], that evoke memories involuntarily[^30] as associated neural networks activate one another[^50]. Memory acts through an object, as the biographical associations materialize as a powerful, personal, and emotional experiences of objects.
 <param ve-image 
        label= "Heirlooms seem to not only retain associations with people, but to provoke remembering. Here, the image of Bea is presented as part of the material of the earring itself."
@@ -347,7 +356,8 @@ The dead haunt us all in different ways: figuratively, literally, or somewhere i
        description="This image was produced and lit in the digital 3D  modelling software Blender 2.93.5 and rendered in Eevee." 
        license="public domain"
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/shadowsquare2.png?raw=true">
-#Acknowledgements
+                                                                                                      
+# Acknowledgements
                                                                                                       
 Thank you to Amy, for hunting down family photographs, to Bill and Marge, for their wonderful collection of images, to Shawn, for his unwavering enthusiasm, and to Bea, who inspired it all.                              
                               
