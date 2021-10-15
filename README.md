@@ -137,7 +137,6 @@ In exploring hauntedness as an immaterial material property of objects, tools fo
        license="public domain" 
        url= https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/2021-07-07%20(3).png?raw=true>
 
-
 Drawing from anthropology, the use of auto-ethnographic storytelling is quite commonplace in the discipline, and has been very effectively deployed to explore affective aspects of memory [^30][^43], ruination[^60], materials [^34][^36], etc. This mode of engagement is particularly appropriate in relationship to haunting, as first-hand accounts of haunting experience are a key element of ghost belief [^3]. Moreover, ghosts and hauntings frequently appear as a conceptual metaphor in heritage study in reference to things that are abandoned, concealed, or suppressed[^2]. In the logocentric context of professional academia[^40], auto-ethnographic storytelling is the logical creative extension for archeological analysis, but this reflexivity is hardly the exclusive remit of the written word.
 <param ve-image 
        label="Photograph of the process of producing the auto-ethnographic account for this object." 
