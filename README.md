@@ -6,71 +6,69 @@
        banner="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/3%20Forms%20of%20Hauntedness.png?raw=true" 
        layout="vertical">
 
-Rosemary Hanson Received October 1, 2021 Citation: Hanson, Rosemary. 2021. "What To Do When the Dead Linger: Exploring Hauntedness as a Material Property of Object". Epoiesen. DOI: http://dx.doi.org/10.22215/epoiesen/2021.10
-
-Creative Commons Liscence
-
-Rosemary Hanson is a freelance archeological visualization specialist (rosemary.m.hanson@gmail.com) ORCID.
-
+Rosemary Hanson Received October 1, 2021. Citation: Hanson, Rosemary. 2021. "What To Do When the Dead Linger: Exploring Hauntedness as a Material Property of Object". Epoiesen. DOI: http://dx.doi.org/10.22215/epoiesen/2021.10
+Creative Commons License
+Rosemary Hanson is a freelance archeological illustrator and 3D modeler (rosemary.m.hanson@gmail.com) ORCID.
 Editorial note: this visual essay is powered by Juncture from JSTOR Labs. On a device, this essay is best viewed in landscape mode; images are triggered when the relevant text reaches the top of the screen.
+
 
 # What To Do When the Dead Linger: Exploring Hauntedness as a Material Property of Objects
 
        
 This is a story of an earring. 
 <param ve-image 
-       label="Photograph of a clip-on earring from the late 20th century comprised of a brass mount and glass gems. Currently in the possession of the author, inherited from a female relative in the late 1990s. Photograph taken by the author and then views were edited together in to adhere to the classic style of archeological presentation."
-       description="Photo taken on a Nikon D3100 in October of 2021. GIMP 2.10.22 was used for image editing." 
+       label="Photograph of a clip-on earring from the late 20th century, composed of a brass mount and 8 glass gems. The earring was inherited from a female relative in the late 1990s and is currently in the possession of the author. 
+       description="Photo taken on a Nikon D3100 and the image was edited in the image manipulation software GIMP 2.10.22." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Gem%20Photograph.png?raw=true">
      
 An ugly earring.
 <param ve-image 
-       label="Photograph of a clip-on earring from the late 20th century comprised of a brass mount and glass gems. Currently in the possession of the author, inherited from a female relative in the late 1990s. Photograph taken by the author and then views were edited together in to adhere to the classic style of archeological presentation."
-       description="Photo taken on a Nikon D3100 in October of 2021. GIMP 2.10.22 was used for image editing." 
+       label="Photograph of a clip-on earring from the late 20th century, composed of a brass mount and 8 glass gems. The earring was inherited from a female relative in the late 1990s and is currently in the possession of the author. 
+       description="Photo taken on a Nikon D3100 and the image was edited in the image manipulation software GIMP 2.10.22." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Gem%20Photograph.png?raw=true">
        
 Cheaply made and cheaply bought, it is meant to resemble a queenly diamond in glass and brass. A large, 3 lobed brown jewel sits beneath a crown of small, round, apricot-colored gems in a color palette that now seems a stereotype of the 1970s. These faux diamonds have been haphazardly set into a thin, metal clip that pinches and weighs the ear unpleasantly. It was presumably once part of a pair, but its twin has long ago been lost in the back of a drawer of a relative or the case of a second-hand shop or (most likely) underneath 200ft of West Seattle landfill. It is, without doubt, an object out of place. I keep it in my jewelry drawer, but I have no intention of wearing it. It has no functionalist, aesthetic, or rational role in my life and there is really no reason that I should keep it.
-
 <param ve-image 
-       label="Photograph of a clip-on earring from the late 20th century comprised of a brass mount and glass gems. Currently in the possession of the author, inherited from a female relative in the late 1990s. Photograph taken by the author and then views were edited together in to adhere to the classic style of archeological presentation."
-       description="Photo taken on a Nikon D3100 in October of 2021. GIMP 2.10.22 was used for image editing." 
+       label="Photograph of a clip-on earring from the late 20th century, composed of a brass mount and 8 glass gems. The earring was inherited from a female relative in the late 1990s and is currently in the possession of the author. 
+       description="Photo taken on a Nikon D3100 and the image was edited in the image manipulation software GIMP 2.10.22." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Gem%20Photograph.png?raw=true">
             
 Yet, I cling to it: not for what it is, or what it was, or what it could be; not for its value, not for its beauty, not for the hope that I may someday wear it. I cling to it because it was hers: the property of a great aunt, Bea, now dead. I keep it because it is full of memories: the memory of childhood visits and the smell of old perfume and hospital disinfectant. The memory of a sombre distribution that I did not understand, and a jewellery box that I was too small to carry. The memory of a quiet presence, felt on the back of the neck in the superstitious hours. The memory of death and life and loss and obligation and the first thing I ever owned that glittered. 
 <param ve-image 
-       label="Framed Photograph of the original owner of the earring, Bea Turnbull Samel." 
-       description="Photograph was photographed on a smartphone from the original, owned by Bea's cousins, Bill and Marge Richie. The digital photograph was then digitally edited into a frame owned by the author using the photoediting software GIMP 2.10.22." 
+       label="Digitally framed photograph of the earring’s original owner, Bea Turnbull Samel." 
+       description="Original photograph was digitized from the collection of Bill and Marge Richie using a smartphone camera. The digital photograph was then digitally edited into a frame owned by the author using the image manipulation software GIMP 2.10.22." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/beainframe1.png?raw=true">
-            
+
 In my archaeological education, I have spent a great deal of time exploring the properties of materials. I have tried to make sense of object materiality through measurement, weight, form, wear, illustration, reconstruction, sound, smell, heft, and feel. Yet in this lump of ugly brown glass, none of these really matter. Instead, I cannot relinquish it (though I might wish to) because it is imbued with a secret materiality that exists in my mind alone. I understand and interact with this object because it is haunted: by memory, by superstition, and by a link that still connects me to a woman decades dead. 
 <param ve-image 
-       label="A 3D model of the earring created using the free 3D modelling software, Blender."
-       description="Model meshes were sculpted from scratch using photographic references. Blender 2.93.5 was deployed after photogrammetric approaches failed due to the transparent, reflective materiality of the glass gems. Rendered images were then posed together using photoediting software GIMP 2.10.22." 
+       label="A 3D model of the earring created using the digital 3D modelling software, Blender."
+       description="Model meshes were sculpted by hand using photographic references. Blender 2.93.5 was chosen after photogrammetric approaches failed due to the transparent, reflective materiality of the glass gems. Images were rendered using Eevee and then posed together using the image manipulation software GIMP 2.10.22." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Model%20Spread2.png?raw=true">
 <param ve-image 
        label="Detail of the 3D mesh in Blender 2.93.5."
-       description="Screenshot of Blender 2.93.5 screen while editing the earring model mesh." 
+       description="Screenshot of Blender 2.93.5 workspace during the process of editing the earring model mesh." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/2021-08-18%20(3).png?raw=true">
             
 Bea, somehow, has made this object different. 
 <param ve-image 
-       label="A framed photograph of Bea in which the photograph has been edited to include a halo, a motif from religious art used to denote sainthood. This saintly photograph posed with the earring is meant to evoke small home shrines to Catholic Saints seen during the childhood of the author." 
-       description="Photograph was photographed on a smartphone from the original, owned by Bea's cousins, Bill and Marge Richie. The .jpeg file was then digitally edited in the photoediting software GIMP 2.10.22. Images of the frame and earring were taken by a smartphone camera from a Motorolla G8 Power and then edited into the image. " 
+       label="A framed photograph of Bea has been edited to include a halo, a motif from religious art used to denote sainthood [^72]. This saintly photograph posed with the earring is meant to evoke the small home shrines to Catholic Saints seen during the childhood of the author." 
+       description="Original photograph was digitized from the collection of Bill and Marge Richie using a smartphone camera. The image file was then digitally edited in the image manipulation software GIMP 2.10.22 along with images of the frame and earring taken using a smartphone camera from a Motorolla G8 Power.”
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/StPhotowithEarring.png?raw=true">
+
 
 # More than the Sum of its Parts
 
 This is the story of a material property that isn’t. It is not visible, it is not quantifiable, it isn’t even material. And yet, it is experienced (sometimes quite powerfully), and it has effects (sometimes quite dramatic)[^55]. It is the sense that objects are haunted: somehow changed by the persisting agency of the dead; by an intrusion of those gone onto the living experience of the material world, both literally and figuratively. Yet, however potent the effects may be, experiences of hauntedness are still highly personal, subjective, and individual and thus elude the project of objective realism that underpins grounded archeological study. By its affective nature, hauntedness is a sensory experience that cannot be measured, replicated, or recorded, and this makes its study resistive to traditional methods. Yet archeology is uniquely positioned to engage with these points of overlap between the objective and subjective: straddling the sciences, humanities, and social sciences. So, instead of resisting this intersection of objectivity and subjectivity, this paper seeks to engage with it directly: interweaving narrative, image production, and analysis to explore hauntedness as a property of objects. In doing so, I hope not only to define and validate hauntedness as an important aspect of object materiality, but also to encourage creative approaches to the complex, resistive, often immaterial materiality of objects.
 <param ve-image 
-       label="A blender model of the earring spotlit against a grey background. This paper seeks to shine a metephorical spotlight on a single object: an heirloom piece of costume jewelry. The image production in this paper seeks to center this object in its visualizations as a practice of slow archeology, presenting a single object within many different visual-theoretical frames. In doing so, this paper seeks to present a depth of visual approaches to small object visualization." 
-       description="3D model of a clip-on earring, produced in Blender 2.93.5. This image was produced using a spotlight and a plane in addition to the earring mesh and was rendered using Eevee." 
+       label="A Blender model of the earring spot lit against a grey background. This paper seeks to shine a metaphorical spotlight on a single object: an heirloom piece of costume jewelry. The image production in this paper seeks to center this object in its visualizations as a practice of slow archeology [^53][^77], presenting a single object within many different visual-theoretical frames. In doing so, this paper seeks to present a depth of visual approaches to small object visualization." 
+       description="Digital 3D model of a clip-on earring, produced in Blender 2.93.5. This image was produced using a spotlight and a plane in addition to the earring mesh and was rendered using Eevee." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/spotlight12.1.png?raw=true">
        
