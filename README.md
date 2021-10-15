@@ -247,88 +247,92 @@ Archaeologists are not immune from experiences with “other-than-human beings�
 
 The second definition of hauntedness relates to objects that are imbued with an aura[^31], or magic [^12][^75]. This is the effectual power of an object to evoke a “reverential experience”[^31] – a spiritual “wow” effect[^25]. Perhaps the best definition defines aura as the way in which objects mediate “powerful empathic relationships that seem to transcend place and time”[^31]. Unlike possession, whereby specific agents work directly though objects, this type of haunting describes the way that an object may act as a conduit for the residual or indirect agency of the non-living. This agency lacks the intentionality of direct human action, but nevertheless derives its potency from a human source[^50]. It is an experience that is not so explicitly sensory, such as possession, but is instead a highly affective sensation[^31]. It is the sense that an object has magical agency derived from an association with the dead [^16][^44]. 
 <param ve-image 
-       label="The concept of aura emerged from the context of Museum Studies in reference to the charisma of an authentic object. This image seeks to explore the aura-producing effect of museum display, by placing the modelled earring within a simplified sketch of the mounting used to display a piece of 'cursed' jewelry, the Hope Diamond on display at the Smithsonian Institutions National Museum of Natural History in Washington DC." 
-       description="The modelled earring was produced in the 3D modelling software Blender 2.93.5 and then layered over a background produced in the photoediting software GIMP 2.10.22." 
+       label="The concept of aura emerged from the context of Museum Studies in reference to the charisma of an authentic object [^12]. This image seeks to explore the aura-producing effect of museum display, by placing the modelled earring within a simplified sketch of the mount of a famous piece of 'cursed' jewelry, the Hope Diamond on display at the Smithsonian Institution’s National Museum of Natural History in Washington DC. [79]" 
+       description=" The modelled earring was produced in the digital 3D modelling software Blender 2.93.5, rendered with Eevee, and then layered over a background produced in the image manipulation software GIMP 2.10.22." 
        license="public domain"
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Museum%20Case2.png?raw=true"> 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Museum%20Case2.png?raw=true">
 
 Aura is a long-established concept in Museum Studies as an element of object materiality, drawing from the work of Walter Benjamin [^12][^21][^68]. Yet it is one that is strikingly subjective, contingent, and affective[^12][^31]. It is a quasi-magical potency or charisma to evoke awe and reverence in the viewer[^12][^25]. While the physical properties of an object, such as patina or damage, are relevant to these experiences of awe[^12], the foundations of the auratic experiences lie outside the physical properties[^31], or even the authenticity[^17] of the objects themselves. In that sense, aura is a feeling of entanglement that manifests as a sense of magical agency, charge, or energy[^16][^44]. Yet, despite the subjective bordering on magical aspect of aura, it is an aspect of object materiality that is widely accepted as worthy of study, in part due to its role in legitimizing the museological project[^12]. 
 <param ve-image 
-       label="In this image, a an English language idiom is translated into a visual image. The auratic experience of objects involves excepting those objects as uniquely important - to put them on a pedestal - and this is an element that can be easily introduced into visualizations without obstructing them." 
-       description="The photograph of the earring was taken on a Nikon D3100 Camera, and then edited into a sketch of both earring and pedestal produced in the photoediting software GIMP 2.10.22." 
+       label="In this image, an English language idiom is translated into a visual image. The auratic experience of objects involves excepting those objects as uniquely important - to ‘put them on a pedestal.’" 
+       description="The photograph of the earring was taken on a Nikon D3100 Camera, and then edited into a sketch of both earring and pedestal produced in the image manipulation software GIMP 2.10.22." 
        license="public domain"
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/DoublePedestal.png?raw=true"> 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/DoublePedestal.png?raw=true">
+
 
 This concept of object aura is essentially an emotional manifestation of object biography. In the classical object-biographic approach, objects accumulate meaning through their social interactions, with the biography of the object framed by the ways it intersects with the biographies of human beings[^23][^42]. Though post-humanist approaches to objects have challenged this anthropocentric focus[^57][^34], these human entanglements are nevertheless deeply relevant to the auratic potency of objects [^15][^17]. In fact, it is this history of objects that generate this auratic quality which is then substantiated by its material properties[^31]. Objects become powerful in their associations with people, and they retain this power as part of their materiality[^15].
 <param ve-image 
-       label="In cutural heritage contexts, labels are the primary medium by which objects are denoted as special. Archeological labels and museum labels each tie an object into an object biographical framework - relating the entanglements that seperate an ordinary object from an extrordinary object." 
-       description="This image was produced using the photoediting software GIMP 2.10.22." 
+       label="In cultural heritage contexts, labels are a primary medium by which objects are denoted as special [^8]. Archeological labels and museum labels each tie an object into an object biographical framework - relating the entanglements that separate an ordinary object from an extraordinary object." 
+       description="This image was produced using the image manipulation software GIMP 2.10.22." 
        license="public domain"
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Tag.png?raw=true">         
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Tag.png?raw=true">   
+
                                                                                                        
 The aura evoked with associations between objects and those that have died can manifest in purely empathic ways: a sense of awe[^12], empathy, dread[^66] closeness to celebrity or charismic authority[^15], morbid fascination[^66], respect[^25], historical authentication[^15][^20] or nostalgia[^6][^15]. This is particularly notable in celebrity possessions and memorabilia, from Theresa Tang’s watches[^20] to tickets to a David Bowie concert[^76], to a Manson family quilt[^15]. Objects act as material nodes in the entanglements between people, in which the charisma of the dead lingers through the objects were associated with.
 <param ve-image 
-       label= "This image draws from the lighting cues of plays and movies in order to evoke a sense of creepiness in the various earring models."
-       description="The lighted models were created and lit in the 3D modelling software Blender 2.93.5. They were then arranged against a black background in the photoediting software GIMP 2.10.22." 
+       label= "This image draws from the lighting cues of horror films [^62] in order to evoke a sense of creepiness in the modeled earring."
+       description="The models were created and lit in the digital 3D modelling software Blender 2.93.5 and rendered with Eevee. They were then arranged against a black background in the image manipulation software GIMP 2.10.22." 
        license="public domain"
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Creepy%20Lighting.png?raw=true">      
 <param ve-image 
-       label="Using a visual conceit derived from video games, these models are produced with an 'inner glow' of various colors to mark them out as special." 
-       description="The models were produced in the 3D modelling software Blender 2.93.5 and rendered in Eevee. Both inner glow and arrangement were them produced in the photoediting software GIMP 2.10.22" 
+       label="Using a visual conceit derived from video games [^82], these models were produced with an 'inner glow' of various colors to mark them out as special." 
+       description="The models were produced in the digital 3D modelling software Blender 2.93.5 and rendered in Eevee. Both inner glow and arrangement were them produced in the image manipulation software GIMP 2.10.22" 
        license="public domain"
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/innerglow2.png?raw=true">                                                                                            
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/innerglow2.png?raw=true">                                                                                         
                                                                                                              
 This aura may also have more practical effects, however, particularly in reference to sacred objects that have been empowered by the influences of important or sacred people [^11][^44]. Objects may possess an aura that is empowered to enact material change such as healing[^13][^16][^18], disaster prevention, luck[^16][^48], or harm [^13][^48]. Steph Berns describes the sacred aura of relics and devotional material that were associated with Catholic saints. She describes this aura in terms of ‘holy radioactivity’ or ‘contact relics’ that exist within the relics and can also pass to personal objects that come in contact with the relics or even the reliquaries that house them[^8]. It is a holiness that stems from the associations with saints and/or saintly remains that make these objects conduits of and surrogates for the presence of non-living saints[^8]. The power of these objects can be potent both in the spiritual and emotional plane, but in the material one as well. 
 <param ve-image 
-       label="In this image, both illustration, photography, and 3D modelling are deployed in an attempt to represent 'holiness' through the application of halos drawn from religious art. These halos are presented as a way to represent the sacredness of an object and the magical properties that accompany that sacredness." 
-       description="The modelled earrings in this image were produced and lit in the modelling software Blender 2.93.5 and rendered in Eevee. The photograph was taken with a  Nikon D3100 Camera. Halos were produced variously in Blender and the photoediting software GIMP 2.10.22. Gimp was also used to create the illustration and background of the image." 
+       label="In this image, illustration, photography, and 3D modelling are deployed to represent 'holiness' through the application of halos drawn from religious art [^72]. This motif of halos is meant to convey a sense of sacredness for an object as well as the magical properties that accompany that sacredness." 
+       description="The modelled earrings in this image were produced and lit in the modelling software Blender 2.93.5 and rendered in Eevee. The photograph was taken with a Nikon D3100 Camera. Halos were produced variously in Blender and the image manipulation software GIMP 2.10.22. GIMP was also used to create the artefact illustration and background of the image." 
        license="public domain"
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Halos3.png?raw=true">                                                                                 
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Halos3.png?raw=true">                                                                                             
 
 ## III. Objects of Memory
 
 A third distinct definition of hauntedness in objects, is when objects are imbued with memory. In these objects, a key material property of an object is the way in which it can evoke memories of the dead. It is therefore a referential agency: these objects are not conduits for the agency of the dead so much as they are surrogates for them[^30]. Within the affective turn, memory is a potent element of object materiality[^38] in which past and present interact, overlap, and disrupt one another [^30]. The biography of such memory objects constitutes a concretion of events, actions, objects, people, memory, time, and emotion into a physical referent[^38][^71]. And while these objects may be a “repository of collective memory” [^19], they may also be a site of “relentless remembering” [^67], that evoke memories involuntarily[^30] as associated neural networks activate one another[^50]. Memory acts through an object, as the biographical associations materialize as a powerful, personal, and emotional experiences of objects.
- <param ve-image 
-       label= "Objects, specifically heirlooms, seem to retain associations with people, with the ability to provoke remembering built into their very fabric."
-       description="This image was produced from a 3D model produced in the modelling software Blender 2.93.5 and rendered in Eevee. The photo was then imported into the photoediting software GIMP 2.10.22 where it was layered with a photograph of Bea from the collection of Bill and Marge Richie." 
+<param ve-image 
+       label= "Heirlooms seem to not only retain associations with people, but to provoke remembering. Here, the image of Bea is presented as part of the material of the earring itself."
+       description="This image was produced from a 3D model produced in the digital 3D modelling software Blender 2.93.5 and rendered in Eevee. The model was then imported into the image manipulation software GIMP 2.10.22 where it was layered with a photograph of Bea from the collection of Bill and Marge Richie." 
        license="public domain"
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/reflection3.png?raw=true">                                                                                               
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/reflection3.png?raw=true">                                                                                       
 
 In one way or another, all objects act as sites of memory[^51], but some objects have a particular potency in their associations with the dead. Roberta Gilchrist points to heirlooms, particularly as prompts for autobiographical memory. She links them to Mauss’s concept of inalienable objects that absorb the essence of the giver [^19]. In the most literal sense, they reflect the taste of the original owner, extending their material judgements beyond their lifespan[^20]. Yet they may also take the place of the dead, becoming the new site of memory and comfort when the human link is severed[^51]. Not only do they testify to the past [^15], but through this capacity to store and trigger memory[^30][^51] they allow the past to persist and the dead to remain entangled with the living. Thus, they are sites of haunting: not the literal vessels for spirits or conduits for undead power, but as tools through which the dead can be reanimated through the act of remembering. They are tools that allow a return to a time before death[^30], and so keep the dead alive in affective experiences of the present.
- <param ve-image 
-       label="Reconstruction of earring worn by both the author and the original owner, Bea" 
-       description="This illustration was produced in the photoediting software GIMP 2.10.22 from photographs of both Bea and the author." 
+<param ve-image 
+       label="Reconstruction of the earring worn by both the author and the original owner, Bea" 
+       description="This illustration was produced in the image manipulation software GIMP 2.10.22 from photographs of both Bea and the author." 
        license="public domain"
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/FaceOff4.png?raw=true">       
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/FaceOff4.png?raw=true">  
+
  
 It is in this way that Bea’s earring is haunted, and why it seems to stand out against the drab backdrop of my jewelry box: not because it exudes magic or harbors a ghost, but because it is a site of memory. Yet, when I hold this little thing, it feels heavy in my hand, as if infused with the weight of remembering. Somehow, in owning it, I can erase death and decades and reanimate that love that lingers in the shape of her. 
 <param ve-image 
-       label="This image reconstructs three hands from the biography of this object. The first is the hand of a North American woman in her early 80s, the second is the hand of a North American child of around 5-years-old, and the third is the hand of the author herself, in her late 20s. All hands were reproduced with consent. This image provides a contrast between the hands that interacted with the object in the past, and those interacting with it now." 
-       description="This illustration was produced in the photoediting software GIMP 2.10.22 from photographs of the hands of the participants." 
+       label="This image reconstructs three hands from the biography of this object. The first is the hand of a North American woman in her early 80s. The second is the hand of a North American child of around 5-years-old. The third is the hand of the author herself, in her late 20s. All hands were reproduced with consent. This image provides a contrast between the hands that interacted with the object in the past, and those interacting with it now." 
+       description="This illustration was produced in the image manipulation software GIMP 2.10.22 from hand photographs.” 
        license="public domain"
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/presence%20and%20absence2.png?raw=true">
+
                                                                                                       
 Bea is dead, and I know that better than most. From the dispassionate detachment of prolonged excavation experience, I know that she is now a layer of grey ash in the dark, wet soil of a mid-range graveyard. Who knows how many great aunts have come under my trowel; their things bagged up and sent to storeroom basements. I deal in the science of death and loss and things decaying. I know how to measure bones and photograph coffin furniture and draw the little objects left behind. So, I really should know better. Decluttering is the fashion, now, and between moves and cleanouts and therapy sessions centered around my emotional relationship to stuff, I should have disposed of this little piece of kitsch long ago. I should have accepted that death is the end, that “acquits us of all obligations”
- <param ve-image 
+<param ve-image 
        label="This family photo, from the collection her cousins Bill and Marge Richie, shows Bea within the network of family and friends. These are the people who now remember her through the objects we inherited from her." 
-       description="Family photo from the collection of Bill and Marge Richie." 
+       description="Family photo from the collection of Bill and Marge Richie. Photo was digitized from the original using a smartphone camera." 
        license="public domain" 
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Bea7.jpg?raw=true">                                                                                                                                                                                                                                    
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Bea7.jpg?raw=true">                                                                                                                                                                                             
 
 But I don’t want to. To throw it away would be “an act of deliberate amnesia”[^51], and I am not yet ready to forget. I do not want to exorcise this ghost from my life but instead I want to remember and in remembering, to keep her here. I want to let this little earring stay unmolested in a drawer until my memory fades and it becomes just glass again.
 <param ve-image 
-       label="This image is meant to evoke the strangeness of clinging to a link that is not there. Objects become a surrogate for the humans that were once connected to them and, in keeping them, we keep the shape of an obligation that no longer exists." 
-       description="This image was produced with the photoediting software GIMP 2.10.22 " 
+       label="This image is meant to evoke the strangeness of clinging to a link that is not there. Objects become a surrogate for the humans that were once connected to them and[^30], in keeping them, we keep the shape of an obligation that no longer exists." 
+       description="This image was produced with the photo manipulation software GIMP 2.10.22 " 
        license="public domain"
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Holding%20Hands8.png?raw=true">                                                                       
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Holding%20Hands8.png?raw=true">                                                       
                                                                                                          
  I want to remain haunted.
- <param ve-image                                                                                                                                
-       label="This image is meant to evoke the strangeness of clinging to a link that is not there. Objects become a surrogate for the humans that were once connected to them and, in keeping them, we keep the shape of an obligation that no longer exists." 
-       description="This image was produced with the photoediting software GIMP 2.10.22 " 
+<param ve-image 
+       label="Objects cast long shadows, both literally and figuratively. These metaphorical shadows may be more evocative than the objects themselves and are vital to understanding the effects of materiality on our experiences of the world. To represent objects as purely objective packets of materials is to represent them without their true dimensionality." 
+       description="This image was produced and lit in the digital 3D modelling software Blender 2.93.5 and rendered in Eevee." 
        license="public domain"
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Holding%20Hands8.png?raw=true">      
-                                                                                                         
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/shadowsquare2.png?raw=true">
+
 # Conclusion
 
 The dead haunt us all in different ways: figuratively, literally, or somewhere in between. They mediate our relationships with things: their agencies bursting through the material world in unique disruptions of time and space. It is not our job as archaeologists to capture these ghosts, but to leave space for them. Yet, if we are to tackle these resistive objects, it is vital to engage them in resistive ways: to make art, to tell stories, and to lay bare our own failings in rationality. After all, archaeology does not put the dead to rest but unsettles them, re-vives them, and weaves them back into life. If we are in the business of telling ghost stories, we should at least tell them well. 
