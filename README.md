@@ -130,7 +130,7 @@ In exploring hauntedness as an immaterial material property of objects, tools fo
        label= "Photographs taken of this earring were not able to produce a realistic photogrammetric model due to the materiality of the earring itself. The clear, reflective surface of both the glass and brass resulted in point clouds and models with a diffused, ethereal, and distorted shape." " 
        description= "This photogrammetric data was produced from images taken on a Nikon D3100 Camera and compiled in Cloud Compare." 
        license="public domain" 
-       url= “https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/point%20ghost.png?raw=true”>
+       url=“https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/point%20ghost.png?raw=true”>
 <param ve-image 
        label= " Photographs taken of this earring were not able to produce a realistic photogrammetric model due to the materiality of the earring itself. The clear, reflective surface of both the glass and brass resulted in point clouds and models with a diffused, ethereal, and distorted shape."" 
        description= "Photogrammetric data was compiled into a mesh in MeshLab and then exported to Blender. However, this resulted in a distorted mesh." 
@@ -210,7 +210,7 @@ The first definition of hauntedness is the most literal: that of possession. Pos
        label="In this image, a photograph of Bea has been layered into a photograph of the earring to produce a ghost-like image, reminiscent of the early ghost photography of William Mumler [^2]." 
        description="The photograph of Bea was taken from the collection of Bill and Marge Richie, and then layered over a Blender 2.93.5 model of the earring in the image manipulation software GIMP 2.10.22." 
        license="public domain"
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Ghost%20Bea4.png?raw=true">
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Ghost%20Bea2.png?raw=true">
        
 Belief in ghosts and spirits is hardly antiquated or remote but remains a persistent part of modern life around the world[^11][^44][^55][^75]. In a 2005 Gallup poll, 49% of American adult respondents expressed a belief in ghosts, 39% expressing a belief that places could be haunted, and 22% reporting having lived in a place they believed to be haunted[^3]. Even those who don’t believe in ghosts and spirits recognize the effects that these beliefs have on the material world: the sedate context of property law recognizes hauntedness as a factor that can affect the resale value of a houses[^69]. 
 <param ve-image 
@@ -295,7 +295,8 @@ This aura may also have more practical effects, however, particularly in referen
        label="In this image, illustration, photography, and 3D modelling are deployed to represent 'holiness' through the application of halos drawn from religious art [^72]. This motif of halos is meant to convey a sense of sacredness for an object as well as the magical properties that accompany that sacredness." 
        description="The modelled earrings in this image were produced and lit in the modelling software Blender 2.93.5 and rendered in Eevee. The photograph was taken with a Nikon D3100 Camera. Halos were produced variously in Blender and the image manipulation software GIMP 2.10.22. GIMP was also used to create the artefact illustration and background of the image." 
        license="public domain"
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Halos3.png?raw=true">                                      
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Halos3.png?raw=true">      
+       
 The idea that objects have an emotional or quasi-magical power derived from their associations with people is a familiar concept in the study of cultural heritage[^12][^21][^68]. Yet this element of object materiality is strikingly subjective, contingent, and affective[^12][^31]. While the physical properties of an object, such as patina or damage, are relevant to these auratic experiences of awe[^12], the foundations of these experiences lie outside the physical properties[^31], or even the authenticity[^17] of the objects themselves. It is an experience that deviates from an agenda of objectivity, but which is accepted as a property of object materiality that is worthy of study [^12][^76]. What may set this immaterial materiality apart is the way in which its existence serves to legitimize the project of cultural heritage generally. If certain objects are inherently special, their study is inherently important[^12].
 <param ve-image 
        label="In this image, an English language idiom is translated into a visual image. The auratic experience of objects involves excepting those objects as uniquely important - to ‘put them on a pedestal.’" 
@@ -359,7 +360,12 @@ The dead haunt us all in different ways: figuratively, literally, or somewhere i
                                                                                                       
 # Acknowledgements
                                                                                                       
-Thank you to Amy, for hunting down family photographs, to Bill and Marge, for their wonderful collection of images, to Shawn, for his unwavering enthusiasm, and to Bea, who inspired it all.                              
+Thank you to Amy, for hunting down family photographs, to Bill and Marge, for their wonderful collection of images, to Shawn, for his unwavering enthusiasm, and to Bea, who inspired it all.        
+<param ve-image 
+       label="Objects cast long shadows, both literally and metephorically. These metephorical shadows may be far larger and more evocative than the objects themselves, and are vital to understanding the effects of materiality on our experiences of the world. To represent objects as purely objective packets of materials is to represent them without dimensionality." 
+       description="This image was produced and lit in the digital 3D  modelling software Blender 2.93.5 and rendered in Eevee." 
+       license="public domain"
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/shadowsquare2.png?raw=true">                                                                                                      
                               
 # References 
 
