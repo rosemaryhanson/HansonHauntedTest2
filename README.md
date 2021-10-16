@@ -336,7 +336,7 @@ Bea is dead, and I know that better than most. From the dispassionate detachment
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Bea7.jpg?raw=true">                                                     
                                                                                              
-But I don’t want to. To throw it away would be “an act of deliberate amnesia”66, and I am not yet ready to forget. I do not want to exorcise this ghost from my life but instead I want to remember and in remembering, to keep her here. I want to let this little earring stay unmolested in a drawer until my memory fades and it becomes just glass again.
+But I don’t want to. To throw it away would be “an act of deliberate amnesia”[^66], and I am not yet ready to forget. I do not want to exorcise this ghost from my life but instead I want to remember and in remembering, to keep her here. I want to let this little earring stay unmolested in a drawer until my memory fades and it becomes just glass again.
 <param ve-image 
        label="This image is meant to evoke the strangeness of clinging to a link that is not there. Objects become a surrogate for the humans that were once connected to them and[^30], in keeping them, we keep the shape of an obligation that no longer exists." 
        description="This image was produced with the photo manipulation software GIMP 2.10.22 " 
@@ -351,6 +351,7 @@ But I don’t want to. To throw it away would be “an act of deliberate amnesia
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/shadowsquare2.png?raw=true">
 
 # Conclusion
+                                                                                                      
 The dead haunt us all in different ways: figuratively, literally, or somewhere in between. They mediate our relationships with things: their agencies bursting through the material world in unique disruptions of time and space. It is not our job as archaeologists to capture these ghosts, but to leave space for them. When objects resist, we need to engage with that resistance: making art, telling stories, and laying bare our own failings in rationality. In delving, as best we can, into these interstitial and interdisciplinary spaces we can begin to unwind the complex webs of agencies, entanglements, and narratives of which we are a part. After all, archaeology does not put the dead to rest but unsettles them, re-vives them, and weaves them back into life. We are in the business of telling ghost stories, one way or another. And if we are to tell them, we should learn to tell them well.
 <param ve-image 
        label="Objects cast long shadows, both literally and metephorically. These metephorical shadows may be far larger and more evocative than the objects themselves, and are vital to understanding the effects of materiality on our experiences of the world. To represent objects as purely objective packets of materials is to represent them without dimensionality." 
