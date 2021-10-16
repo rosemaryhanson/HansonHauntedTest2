@@ -184,7 +184,7 @@ Image production and storytelling have the capacity to engage with time, both in
 
 # Case Studies
 
-This paper will highlight 3 types of hauntedness that exist along a spectrum of rationality, intentionality, and materiality: possession, aura, and memory. These three types of hauntedness represent an organizational conceit rather than a categorical, exhaustive, or static scheme. After all, one type of materiality does not preclude others – occulted or otherwise[^55]. These three are presented instead to illustrate the diverse ways objects provoke human affectivity and affect human perceptions and actions [^24][^38].
+This paper will highlight 3 types of hauntedness that exist along a spectrum of rationality, intentionality, and materiality: _possession_, _aura_, and _memory_. These three types of hauntedness represent an organizational conceit rather than a categorical, exhaustive, or static scheme. After all, one type of materiality does not preclude others – occulted or otherwise[^55]. These three are presented instead to illustrate the diverse ways objects provoke human affectivity and affect human perceptions and actions [^24][^38].
 <param ve-image 
        label="A visual outline of the three case studies to come: possession, aura, and memory." 
        description="This image was produced using the image manipulation software GIMP 2.10.22."
@@ -249,16 +249,16 @@ Archaeologists are not immune from experiences with “other-than-human beings�
 Even now, when the paranormal is publicly denounced as harmful to the discipline[^32], there are still occasional allusions to such experiences among heritage professionals [^44][^49][^67]). Sitting around the sherd bucket at the end of the day, I have heard many a tenured professor recount stories of uncanny engagements with historical material: things falling in storerooms, footsteps in empty hallways, and dark shapes disappearing in the night. In these moments of camaraderie, in the hot sun or the cold musty dimness of the storeroom, we tell each-other stories of things we know to be unreal. Stories of an unexplained discomfort and unshakable unease. Stories of an illicit imaginary; dismissed yet persistent. Stories of the past spilling into the present from those charged with drawing firm lines between the two. Stories we keep telling.
 
 <param ve-image 
-       label="Another popular visual trope in horror films is that of engulfing darkness [^81]. Here, a rising darkness is shown consuming the object in an attempt to evoke a sense of rising dread that may accompany objects perceived as haunted." 
-       description=" The modelled earring was produced in the digital 3D modelling software Blender 2.93.5, rendered with Eevee, then layered between backgrounds produced in the image manipulation software GIMP 2.10.22." 
+       label="In this image, the colors of a typical archeological illustration are inverted. Though a very simple intervention on an archeological illustration, it efficiently signals a divergence from the classic approach to object analysis without the loss of any diagrammatic information." 
+       description="This illustration was produced in the image manipulation software GIMP 2.10.22" 
        license="public domain" 
-       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/hauntedghost1.png?raw=true">
+       url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/Collected%20Illustration%20inverted.png?raw=true">
        
  Clearly, there is something in the experience of hauntedness that resists and endures.
 
 <param ve-image 
        label="Another popular visual trope in horror films is that of engulfing darkness [^81]. Here, a rising darkness is shown consuming the object in an attempt to evoke a sense of rising dread that may accompany objects perceived as haunted." 
-       description=" The modelled earring was produced in the digital 3D modelling software Blender 2.93.5, rendered with Eevee, then layered between backgrounds produced in the image manipulation software GIMP 2.10.22." 
+       description="The modelled earring was produced in the digital 3D modelling software Blender 2.93.5, rendered with Eevee, then layered between backgrounds produced in the image manipulation software GIMP 2.10.22." 
        license="public domain" 
        url="https://github.com/rosemaryhanson/HansonHauntedTest2/blob/main/hauntedghost1.png?raw=true">
        
